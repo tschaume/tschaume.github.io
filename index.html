@@ -5,10 +5,12 @@ title: tschaume's git activity feed
 
 <div id="home">
   <ul class="posts">
-    {% for commit in site.data.ccsgp_get_started %}
+    {% for commit in site.data.commits %}
     <li>
     <span>{{ commit.date }} {{ commit.time }}</span> &raquo;
-    {{ commit.line }} {{ commit.sha1 }}
+    [{{ commit.name }}]
+    <a href={{ commit.link }}>{{ commit.sha1 }}</a>
+    {{ commit.line }} 
     {% endfor %}
   </ul>
 </div>

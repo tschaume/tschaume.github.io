@@ -4,10 +4,11 @@ title: tschaume's git activity feed
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for commit in site.data.ccsgp_get_started %}
+    <li>
+    <span>{{ commit.date }} {{ commit.time }}</span> &raquo;
+    {{ commit.line }} {{ commit.sha1 }}
     {% endfor %}
   </ul>
 </div>

@@ -27,7 +27,9 @@ echo "commit $repo-logs in $logdir ..."
 cd $logdir
 git add $log $commits
 git commit -m "update $repo logs"
-git push --no-verify # no-verify to not recurse endlessly
+git push --no-verify
+# no-verify to not recurse endlessly
+# (not necessary if pre-push hook not installed in tschaume.github.io), same:
+# [[ $repo == "tschaume.github.io" ]] && echo "already pushed -> exit" && exit 1
 
-[[ $repo == "tschaume.github.io" ]] && echo "already pushed -> exit" && exit 1
 exit 0

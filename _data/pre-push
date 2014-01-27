@@ -2,18 +2,18 @@
 
 logdir=$(dirname $(readlink $0))
 
-# generate log file (commit one-liners) for current repo
+echo "generate log for $repo"
 repo=`basename $PWD`
 log="$logdir/$repo.log"
 [[ -e $log ]] && rm -v $log
 git log --author='Patrick' --all --oneline --pretty=tformat:'%ci#%h#%s' | sed "s:\$:#$repo:g" > $log
 
-# cat and sort all repo-logfiles
+echo "cat and sort all repo-logfiles"
 fullog=$logdir/full.log
 [[ -e $fullog ]] && rm -v $fullog
 cat $logdir/*.log | sort -r >> $fullog
 
-# generate commits.yml
+echo "generate commits.yml"
 commits=$logdir/commits.yml
 [[ -e $commits ]] && rm -v $commits
 while read commit; do
@@ -23,9 +23,9 @@ while read commit; do
 done < $fullog
 rm -v $fullog
 
-# commit and push changes
-cd $logdir
-git add $log $commits
-git commit -m "update $repo logs"
+#echo "commit logs for $repo"
+#cd $logdir
+#git add $log $commits
+#git commit -m "update $repo logs"
 
 exit 0

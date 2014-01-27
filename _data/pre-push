@@ -17,7 +17,7 @@ echo "generate commits.yml ..."
 commits=$logdir/commits.yml
 [[ -e $commits ]] && rm -v $commits
 while read commit; do
-  IFS='#' read stamp sha1 line name <<<$commit
+  IFS='#' read stamp sha1 line name <<<"$commit"
   echo -e "- name: \"$name\"\n  time: \"$stamp\"" >> $commits
   echo -e "  sha1: \"$sha1\"\n  line: \"$line\"\n" >> $commits
 done < $fullog

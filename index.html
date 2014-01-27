@@ -7,7 +7,7 @@ title: tschaume's global git activity feed
   <ul class="posts">
     {% for commit in site.data.commits %}
     <li>
-    <span>{{ commit.date }} {{ commit.time }}</span> &raquo;
+    <span>{{ commit.time | date: "%D %R" }}</span> &raquo;
     {{ commit.line }}
     <span style="float:right;">
       <b>[{{ commit.name }}]</b>

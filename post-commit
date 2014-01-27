@@ -1,0 +1,31 @@
+#!/bin/bash
+
+logdir=$PWD/_data
+
+# generate log file (commit one-liners) for current repo
+repo=`basename $PWD`
+log="$logdir/$repo.log"
+[[ -e $log ]] && rm -v $log
+git log --author='Patrick' --all --oneline --pretty=tformat:'%ci#%h#%s' | sed "s:\$:#$repo:g" > $log
+
+# cat and sort all repo-logfiles
+fullog=$logdir/full.log
+[[ -e $fullog ]] && rm -v $fullog
+cat $logdir/*.log | sort -r >> $fullog
+
+# generate commits.yml
+commits=$logdir/commits.yml
+[[ -e $commits ]] && rm -v $commits
+while read commit; do
+  IFS=#
+  set $commit
+  echo -e "- name: \"$4\"\n  time: \"$1\"" >> $commits
+  echo -e "  sha1: \"$2\"\n  line: \"$3\"\n" >> $commits
+done < $fullog
+rm -v $fullog
+
+# commit and push changes
+cd $logdir
+git add .
+git commit -m "update $repo logs"
+git push

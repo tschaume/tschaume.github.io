@@ -26,7 +26,7 @@ in local work-dir of each tracked repo with remote on github, gitlab or cgit:
 in tschaume.github.io: add submodule to track master branch  
 
 ```
-$ git submodule add -b master [URL to Git repo]  
+$ git submodule add -b master https://github.com/tschaume/global_gitfeed_data.git _data
 $ git submodule update --remote  
 ```
  

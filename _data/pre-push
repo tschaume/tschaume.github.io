@@ -29,4 +29,5 @@ git add $log $commits
 git commit -m "update $repo logs"
 git push --no-verify # no-verify to not recurse endlessly
 
+[[ $repo == "tschaume.github.io" ]] && echo "already pushed -> exit" && exit 1
 exit 0

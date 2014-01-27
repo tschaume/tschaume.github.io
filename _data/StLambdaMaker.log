@@ -1,0 +1,5 @@
+2013-12-17 15:40:57 -0800#879921a#use TFile::Open#StLambdaMaker
+2013-12-17 00:09:14 -0800#033b1c5#cleanup, add StV0TofCorrection for Pions#StLambdaMaker
+2013-12-16 18:22:35 -0800#bf1d6ef#add perigee cut#StLambdaMaker
+2013-12-16 18:06:35 -0800#b43506f#add hInvMass histo#StLambdaMaker
+2013-12-16 17:45:03 -0800#13e4ea4#initial working version#StLambdaMaker

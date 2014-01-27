@@ -1,0 +1,174 @@
+2013-11-15 11:53:08 -0800#73895ae#add/update gitignore#ElectronPid
+2013-11-13 22:50:33 -0800#da8952e#fix compilation warnings#ElectronPid
+2013-05-12 20:41:56 -0700#92a6608#add gitignore#ElectronPid
+2013-05-12 20:36:48 -0700#4e20666#gpBetaCut: beautify plots#ElectronPid
+2013-05-12 20:08:32 -0700#bfacb68#gpBetaCut: add InvBetaMom for all energies#ElectronPid
+2013-05-12 20:05:20 -0700#cf01ef7#gpBetaCut: mov dat and var files#ElectronPid
+2013-05-12 19:37:43 -0700#4f02109#BetaMaker: write InvBeta to file for gnuplot#ElectronPid
+2013-05-12 17:54:26 -0700#0741c77#gpBetaCut: new var files, successful fits#ElectronPid
+2013-05-12 17:53:06 -0700#b26e6ab#gpBetaCut: new dat files#ElectronPid
+2013-05-12 17:51:10 -0700#522cfe5#gpBetaCut: BetaMaker27 dat, var#ElectronPid
+2013-05-12 17:50:32 -0700#e70cebe#gpBetaCut: simultaneous fit#ElectronPid
+2013-05-12 17:49:57 -0700#b586c72#BetaMaker: change gaus fit ranges, gnuplot output#ElectronPid
+2013-05-12 16:19:22 -0700#32c0e0c#gpBetaCut: add var saves#ElectronPid
+2013-05-12 16:18:49 -0700#dedc5b8#gpBetaCut: update cut data#ElectronPid
+2013-05-12 15:27:49 -0700#6790e81#gpBetaCut: fit.sh eps output#ElectronPid
+2013-05-12 15:26:52 -0700#c641dfc#gpBetaCut: rename var output#ElectronPid
+2013-05-12 15:17:28 -0700#871bbf1#gpBetaCut: add prologue.ps#ElectronPid
+2013-05-12 15:15:37 -0700#f61d449#add BetaMaker27.dat.var#ElectronPid
+2013-05-12 15:14:00 -0700#f0c344f#fit.sh: save vars#ElectronPid
+2013-05-12 15:07:03 -0700#0386fe5#add BetaMaker27.dat#ElectronPid
+2013-05-12 15:01:35 -0700#4e73598#add gpBetaCut fit.sh#ElectronPid
+2013-05-12 15:00:27 -0700#4dcbac9#BetaMaker: print gnuplot output#ElectronPid
+2013-05-10 23:55:37 -0700#4f22f2b#BetaMaker: try to improve fits#ElectronPid
+2013-05-10 12:50:54 -0700#1f77687#switch to system yaml#ElectronPid
+2013-02-24 23:14:46 -0800#ef0b60e#BetaMaker: implement pi fit, draw results#ElectronPid
+2013-02-24 16:57:05 -0800#35662ac#BetaMaker: implement/plot gaussian fits#ElectronPid
+2013-02-22 20:03:50 -0800#97e199a#BetaMaker: subtractPion#ElectronPid
+2013-02-22 17:51:27 -0800#73fdb6a#add new betaCut/Beta*#ElectronPid
+2013-01-28 19:47:24 -0800#a18686b#fix carver linker errors#ElectronPid
+2013-01-24 00:00:05 -0800#c77b214#replace some more Root quote-includes#ElectronPid
+2013-01-23 23:48:18 -0800#7bff169#replace src-includes with StRoot#ElectronPid
+2013-01-23 23:41:02 -0800#b13b970#replace quote-includes for ROOT headers (2)#ElectronPid
+2013-01-23 23:34:03 -0800#27d3d86#replace quote-includes for ROOT headers#ElectronPid
+2012-12-02 19:04:24 -0800#f1724cc#SigmaElFitsMaker: fix pointer-to-pointer error#ElectronPid
+2012-11-28 11:49:11 -0800#9e7c87e#nsigparamsGP: cfg/result file fore 27 GeV#ElectronPid
+2012-11-28 11:39:29 -0800#c78038b#SigmaElFitsMaker: fix bug for 27GeV nsig_scale#ElectronPid
+2012-11-28 11:38:22 -0800#c05159d#nsigparamsGP: implement 27 GeV#ElectronPid
+2012-11-28 11:37:46 -0800#414f24d#PureSampleAnalysis: add low-tail cut for electrons#ElectronPid
+2012-11-28 02:19:07 -0800#dda6027#SigmaElFitsMaker: add plot & output of eff-calc#ElectronPid
+2012-11-28 02:17:47 -0800#41b3b69#SigmaElFitsMaker: set sRF constant, adjust yRF range#ElectronPid
+2012-11-28 02:16:29 -0800#49bed07#SigmaElFitsMaker: fix SigElNrYldExPolPts#ElectronPid
+2012-11-27 23:56:24 -0800#28e31d0#puresamp: system call to mkdir#ElectronPid
+2012-11-27 19:52:06 -0800#c7bbfdf#BetaPanels: cnter for npeaks w/in range#ElectronPid
+2012-11-27 01:41:25 -0800#00d2633#nsigpar_39GeV.cfg: r3sig, prefac update#ElectronPid
+2012-11-27 01:40:53 -0800#5e897c6#SigmaElFitsPlotter: plot initial yld for both charges#ElectronPid
+2012-11-27 01:40:07 -0800#bf1895c#SigmaElFitsMaker: add point for elecs-yld, fix means, draw parameter ellipses#ElectronPid
+2012-11-26 23:09:23 -0800#61a8244#SigmaElFitsMaker: improve Yld/Amp fit ranges#ElectronPid
+2012-11-26 20:54:11 -0800#a1a0a6b#SigmaElFitsMaker: reimplement ExtrapolateYields(), set Yld range#ElectronPid
+2012-11-26 20:52:54 -0800#062b728#nsigparamsGP: decrease error band for merged-pi's#ElectronPid
+2012-11-26 17:48:20 -0800#15d9ebe#nsigparamsGP: hFitFuncErr[0] was not set so far#ElectronPid
+2012-11-26 15:39:55 -0800#8eaf377#SigmaElFitsMaker: fix yld extrapolation, incl. elec., set Amp Range#ElectronPid
+2012-11-26 13:18:19 -0800#8a6bdeb#SigmaElFitsPlotter: add grYldI#ElectronPid
+2012-11-26 13:17:44 -0800#a0b8299#SigmaElFitsMaker: unfix electron mean, add ExtrapolateYields to RooFit#ElectronPid
+2012-11-26 13:15:32 -0800#007bc3a#dedxCut: extend usage cout, fix argc for RooFitResuls#ElectronPid
+2012-11-26 13:14:50 -0800#5b03011#SigmaElFitsMaker: fix yield calculation in calcGausYield(), fix fitres->plotOn#ElectronPid
+2012-11-25 19:52:39 -0800#690b4f2#SigmaElFitsPlotter: plot RooFit parameter results#ElectronPid
+2012-11-25 19:51:31 -0800#b073ca0#SigmaElFitsMaker: fix RooFit output directory/file#ElectronPid
+2012-11-25 19:48:14 -0800#1baf0e0#SigmaElFitsUtils: GetMomCenter, GetNrCanvases, isMomBinRngeUsed#ElectronPid
+2012-11-24 05:18:50 -0800#a9463e4#SigmaElFitsMaker: update e+/e-, root output, correlation plots#ElectronPid
+2012-11-24 03:43:19 -0800#3c668d0#nsigparamsGP: include electrons in dedx/wdth fit#ElectronPid
+2012-11-24 01:08:44 -0800#4268c86#nsigparamsGP: fix output dir#ElectronPid
+2012-11-23 15:31:41 -0800#7f8dfa8#SigmaElFitsMaker: fix pipi sigma, symm. mean/sigma pars, ele/pos plots#ElectronPid
+2012-11-22 00:06:08 -0800#2decfe3#SigmaElFitsMaker: RooSimultaneous, fix ival/can mapping#ElectronPid
+2012-11-21 19:11:15 -0800#e035029#SigmaElFitsMaker: isMomBinRngeUsed, CalcTotalFitRange, x[can]#ElectronPid
+2012-11-21 19:09:31 -0800#e9b9314#SigmaElFitsMaker: fix CalcTotalFitRange#ElectronPid
+2012-11-21 03:04:28 -0800#0f7b492#SigmaElFitsMaker: first RooFits working#ElectronPid
+2012-11-21 01:46:55 -0800#5a50cd6#SigmaElFitsMaker: init'ing RooRealVar's yRF/mRF/sRF#ElectronPid
+2012-11-21 01:07:33 -0800#5ce042f#SigmaElFitsMaker: RooFit plotting hSigmaElMerged's#ElectronPid
+2012-11-21 01:07:33 -0800#a84c001#SigmaElFitsMaker: start RooFit in MergedTH1sRooFit()#ElectronPid
+2012-11-20 21:44:04 -0800#aca7978#SigmaElFitsMaker: move InitAllParams() to Init(), afterburner for nSigmaElMean#ElectronPid
+2012-11-20 21:06:16 -0800#6d33143#SigmaElFitsMaker: implement InitAllSigmaElMerged()#ElectronPid
+2012-11-20 19:39:24 -0800#cca0db8#SigmaElFits: adjust to mirror projection arrays from yaml#ElectronPid
+2012-11-20 18:43:29 -0800#45a5f2d#SigmaElFits: rename Make() to SimulGlobalChi2Fit()#ElectronPid
+2012-11-20 18:42:08 -0800#95c7a48#SigmaElFits: fixed hardcoded NBins, now derived from SigElMomGrpBins in yaml#ElectronPid
+2012-11-20 16:27:02 -0800#ffe54c6#SigmaElFitsMaker: add option to fit subrange of bins controlled via yaml#ElectronPid
+2012-11-19 22:27:33 -0800#50bef63#SigmaElFitsMaker: all variables moved to YamlCfgReader#ElectronPid
+2012-11-19 20:25:47 -0800#c3a2509#SigmaElFitsMaker: done cleaning up (yet to move globals to yaml)#ElectronPid
+2012-11-19 18:22:36 -0800#9b370f4#SigmaElFits: cleaning up, improving readablity#ElectronPid
+2012-11-19 16:26:35 -0800#24825d9#YamlConfigReader: implementation via Instance(), ElectronPid classes updated#ElectronPid
+2012-11-19 03:43:15 -0800#7cbf6ca#SigmaElFits: proj mom.bins to yaml, GetSigElMomEdgesCont (overload in mycoll)#ElectronPid
+2012-11-19 02:07:05 -0800#41a3298#SigmaElFits: sef_utils object, yaml-input working in UtilsConstructor#ElectronPid
+2012-11-18 22:09:51 -0800#1657585#add SigmaElFitsPlotter#ElectronPid
+2012-11-18 22:09:32 -0800#29d397c#SigmaElFits: add SigmaElFitsUtils, split fit/draw, global variables in Utils#ElectronPid
+2012-11-18 19:38:28 -0800#5b340d2#MyCollection: checkBinBorders overload, PureSampleAnalysis/InvMassBgAnalysis updated#ElectronPid
+2012-11-17 22:53:43 -0800#7f7e390#SigmaElFitsMaker: initGpMapFits etc. compiles & runs#ElectronPid
+2012-11-17 20:43:48 -0800#b36f88e#nsigparamsGP: scaling ay_diff by 1.5 to account for dedx data/fit#ElectronPid
+2012-11-17 20:21:34 -0800#d1556b7#add config files for nsigparamsGP/SigmaElFitsMaker#ElectronPid
+2012-11-17 20:21:05 -0800#6e828bd#nsigparamsGP: save params for SigmaElFitsMaker, FIT_LIMIT#ElectronPid
+2012-11-17 19:18:20 -0800#5c07360#nsigparamsGP: add labels and uncertainty band#ElectronPid
+2012-11-17 18:58:40 -0800#7658a26#nsigparamsGP: GetRatioPlotOptions, tblpltcmd & r3sig#ElectronPid
+2012-11-17 17:39:20 -0800#803492d#nsigparamsGP: GetRatioUsingStr/GetRatio[Plot]String + comments#ElectronPid
+2012-11-17 17:21:49 -0800#fbba46a#nsigparamsGP: GetAllDataStr/GetFcnPlotStr + comments#ElectronPid
+2012-11-17 16:54:40 -0800#3e41020#nsigparamsGP: implement GetRatioStr()#ElectronPid
+2012-11-17 02:58:17 -0800#3f20407#nsigparamsGP: include error bars & data/fit ratios#ElectronPid
+2012-11-17 02:57:04 -0800#7493efb#PureSampleAnalysis: remove hproj Rebin#ElectronPid
+2012-11-16 19:11:49 -0800#e586102#nsigparamsGP: add legend for dedx pos/wdth#ElectronPid
+2012-11-16 19:05:19 -0800#65e168c#nsigparamsGP: SEPARATEPARAMS & dedx pos/wdth fits#ElectronPid
+2012-11-15 20:04:47 -0800#8a0839e#nsigparamsGP: implement dedx wdth vs pos plot#ElectronPid
+2012-11-15 00:22:01 -0800#0fe1431#nsigparamsGP: add initial 19 GeV values#ElectronPid
+2012-11-14 22:52:36 -0800#3604d62#PureSampleAnalysis: set Rebin to 5 for 19 GeV#ElectronPid
+2012-11-14 19:03:00 -0800#81eefdb#BetaPanels: change threshold of TSpectrum::Search for 19GeV#ElectronPid
+2012-09-12 10:41:36 -0700#a0f7f38#Eff/Pur plot data for 39 GeV#ElectronPid
+2012-09-12 10:40:14 -0700#30267e6#changed ofstream outdir in SigmaElFitsMaker#ElectronPid
+2012-08-24 18:50:26 -0700#c229928#plotPurEff.sh energy dep. and updated for QM2012#ElectronPid
+2012-08-24 18:50:26 -0700#0b9bb1a#updated dEdx2D plot in SigmaElFitsMaker for QM2012#ElectronPid
+2012-07-16 17:46:43 -0700#92a8a93#converting ps2pdf in dedxCut.cc#ElectronPid
+2012-07-16 17:45:43 -0700#a767dae#data files and gnuplot scripts to plot pur&eff#ElectronPid
+2012-07-16 17:44:59 -0700#58be6dc#adding pur&eff for all particles in SigmaElFitsMaker (datfile output)#ElectronPid
+2012-07-16 17:38:31 -0700#aaa19b1#setting hFitFuncErr to hnSigPtsDiff#ElectronPid
+2012-07-14 14:44:41 -0700#69f6b19#included Mean-Fit plot in nsigparamsGP#ElectronPid
+2012-06-28 00:06:31 -0700#c135ee2#finalized output of nsigparamsGP#ElectronPid
+2012-06-27 18:34:16 -0700#ae50054#writing fitfunc/wdthfit to output in nsigparamsGP#ElectronPid
+2012-06-27 16:46:14 -0700#7b529fc#fitting bichsel in nsigparamsGP incl. electronOffset#ElectronPid
+2012-06-24 18:32:34 -0700#88f59a8#added BestSignif Pts to dedx 2D plot#ElectronPid
+2012-06-22 16:37:56 -0700#7893de9#switched to 2D Significance Tuning in SigmaElFitsMaker, needs finzalization#ElectronPid
+2012-06-21 18:43:42 -0700#f77a0e8#implemented significance tuning in SigmaElFitsMaker#ElectronPid
+2012-06-14 15:33:15 -0700#7be93ba#mv gp_example to Obsolete#ElectronPid
+2012-06-12 15:49:16 -0700#8f492c4#fixed protons in nsigparamsGP.cc#ElectronPid
+2012-06-12 15:21:57 -0700#be22b74#updated output dir for nsigparamsGP.cc#ElectronPid
+2012-06-12 15:12:12 -0700#5e0e8ed#all plots from gnuplot included into nsigparamsGP#ElectronPid
+2012-06-08 17:25:06 -0700#07085e5#included Bichsel functions and plotting all hadrons#ElectronPid
+2012-06-08 16:04:20 -0700#09ff62f#first time transfer from TGraphErrors to Gnuplot#ElectronPid
+2012-06-08 01:40:43 -0700#33fe02d#nsigparamsGP running with originial gnuplot script (todo: transfer data)#ElectronPid
+2012-06-08 01:39:46 -0700#f1f2d2b#added prologue.ps to src/ElectronPid/programs#ElectronPid
+2012-06-07 22:09:36 -0700#3dc0c56#nSigParamMaker now obsolete, to be replaced by Class Interface to Gnuplot#ElectronPid
+2012-06-07 22:04:04 -0700#6f55b55#moved ElectronPid/gnuplot folder to Obsolete/ElectronPidGnuplot#ElectronPid
+2012-06-07 19:40:02 -0700#fff6925#Gnuplot Library & gp_example program compiling and running#ElectronPid
+2012-06-06 01:28:15 -0700#eda682c#removed argc & iter.index related cout's#ElectronPid
+2012-06-06 01:17:09 -0700#9667685#using TApplication instead of TRint in programs#ElectronPid
+2012-06-02 18:17:46 -0700#cfd5e3e#energy dep. pureff.root output in SigmaElFitsMaker#ElectronPid
+2012-06-02 18:07:59 -0700#a94a455#new SigmaElFitsMaker got lost during transition, replaced#ElectronPid
+2012-06-02 14:55:37 -0700#26b19a0#Merged Commit: transition to TemplateAnalysis scheme#ElectronPid
+2012-05-28 21:10:23 -0700#54cda1a#SigmaElFitsMaker E-dependent & improved output for Rice May2012#ElectronPid
+2012-05-25 00:11:24 -0500#7f15545#rewrote nSigParamMaker to take params from varout.dat, removed obsoletes#ElectronPid
+2012-05-25 00:10:05 -0500#6aadd46#finalized ElectronPid/gnuplot/fitPars.sh for RiceWorkshop#ElectronPid
+2012-05-24 18:45:56 -0500#4c33e3d#writeBichsel2file function added, Makefile updated#ElectronPid
+2012-05-24 14:29:42 -0500#38d0ac4#new gnuplot graph for nsigma wdth/pos incl. fitting, new AuAu39/62 data#ElectronPid
+2012-05-24 14:27:50 -0500#8a99f95#old ps-output replaced in nSigmaParamsMaker, added kSave4Gnuplot#ElectronPid
+2012-05-24 14:24:42 -0500#2e1b942#updated src/ElectronPid/README#ElectronPid
+2012-05-23 15:55:23 -0500#ddd5425#added README to ElectronPid#ElectronPid
+2012-05-23 15:53:01 -0500#32ab079#energy dependent output in PureSampleAnalysis, all in one ps-file#ElectronPid
+2012-05-23 15:50:55 -0500#6a67a47#updated beta3sig Analysis for energy dependence (par limits & initial pars)#ElectronPid
+2012-05-21 17:51:05 -0700#f4feceb#updated beta3sig in preparation of 62GeV PID#ElectronPid
+2012-05-02 15:01:58 -0700#c8cb4c8#updated README and solved warnings about int-float-double type conversions#ElectronPid
+2012-04-19 17:01:04 -0700#73eefd1#updated SigmaElFitsMaker & PureSampleAnalysis for STAR Analysis Meeting @ BNL (17-Apr-2012)#ElectronPid
+2012-04-09 20:19:31 -0700#5e6fb54#status for Monday Meeting 04/09/2012, first cocktail comparison#ElectronPid
+2012-04-08 19:12:56 -0700#27ae73c#smoothed out nsigma_el efficiency & purity for SoftHadron Meeting 04/09/2012#ElectronPid
+2012-04-07 13:49:14 -0700#effed25#added pure NPE sample to PureSampleAnalysis, output ps now has date stamp#ElectronPid
+2012-04-04 20:32:47 -0700#1b486d7#constant error band & mpiscale = 2.15 in nSigParamMaker#ElectronPid
+2012-03-30 16:35:04 -0700#91cb57f#changed output file for Purity/Efficiency graphs in SigmaElFitsMaker#ElectronPid
+2012-03-24 10:38:49 -0700#37433ce#updated SigmaElFitsMaker & nSigParamMaker for Dielectron Meeting 2012-03-23#ElectronPid
+2012-03-20 22:10:11 -0700#77323f9#fitting in SigmaElFitsMaker forced symmetric in position & width via FitFCN()#ElectronPid
+2012-03-20 19:48:49 -0700#c675f59#updated graphics output of SigmaElFitsMaker to compare positive & negative momentum ranges simultaneously#ElectronPid
+2012-03-19 20:24:58 -0700#703d7be#minor amplitude initialization updates to SigmaElFitsMaker#ElectronPid
+2012-03-19 17:58:24 -0700#cb0c4b7#simplified nSigParamMaker#ElectronPid
+2012-03-19 17:56:21 -0700#6d94179#switched to 1/beta|POI cut in PureSampleAnalysis#ElectronPid
+2012-03-15 21:38:29 -0700#b8b99d8#updated nSigParamMaker for ampl. normalization (high momentum part)#ElectronPid
+2012-03-14 21:29:51 -0700#1b42557#included Amps/AmpsErr histos in SigmaElFitsMaker & working on amps normalization in nSigParamMaker#ElectronPid
+2012-03-14 15:28:32 -0700#73a8867#added amplitude parametrization to nSigParamMaker (paramAmp)#ElectronPid
+2012-03-14 15:24:53 -0700#6f69d24#updated SigmaElFitsMaker for |p|<10 (lowedges_container)#ElectronPid
+2012-03-12 02:53:29 -0700#7577d05#updated nSigParamMaker for |p|<10 + new wdthfit + merged pions based  solely on pionfits#ElectronPid
+2012-03-11 20:32:42 -0700#414f159#updated PureSampleAnalysis for |p|<10 + TGraphErrors + variable binning#ElectronPid
+2012-03-09 20:59:06 -0800#1f1d7dd#added BetaPiPoi to BetaPanels for 3sig cut at higher momenta#ElectronPid
+2012-02-15 23:48:45 -0800#d97a699#started MyCollection class#ElectronPid
+2012-02-13 20:16:18 -0800#c41d46d#dedx update & plots done ProcCPOD -> FullCarverIII#ElectronPid
+2012-02-13 20:16:18 -0800#89c8d5e#v0 version of dedx cut plot for CPOD Proc.#ElectronPid
+2012-02-13 20:16:17 -0800#f81ad20#updated betacuts.root and v0 version of cut plots#ElectronPid
+2012-02-13 20:16:17 -0800#0ab689c#changed min. p in BetaPanels.cxx to 0.2 GeV/c#ElectronPid
+2012-02-13 20:16:16 -0800#d375cde#started working on dedx cut pic for ProcCPOD#ElectronPid
+2012-02-13 20:16:16 -0800#580c754#finished BetaPanels rewriting#ElectronPid
+2012-02-13 20:16:15 -0800#cf597af#BetaPanels rewritten using usual TPads#ElectronPid
+2012-02-13 20:16:15 -0800#95a4b02#1st version of rewriting Panels for BetaCut#ElectronPid
+2012-02-13 20:16:14 -0800#39d7334#preparation of pics for ProcCPOD in BetaPanels#ElectronPid
+2012-02-13 20:16:06 -0800#c26f4fb#single ElectronPid library#ElectronPid

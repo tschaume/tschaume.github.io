@@ -1,0 +1,34 @@
+2013-03-01 18:25:09 -0500#614976f#renamed structure PPN6CH2DETA to PPN6DETA#iast-2.0
+2013-03-01 18:25:09 -0500#397e9b5#updated all structures with correct A (to give Pa not kPa) and included in config#iast-2.0
+2013-03-01 18:25:09 -0500#69bd198#removed conversion of kH to Pa, change A in config file to give Pa not kPagit status#iast-2.0
+2013-03-01 18:25:09 -0500#52d9035#config updated using config.bak#iast-2.0
+2013-03-01 18:25:09 -0500#e0408d4#uncommented ps2pdf conversion in iast.cc#iast-2.0
+2013-03-01 18:25:09 -0500#3aff9f1#included all structures in config#iast-2.0
+2013-03-01 18:25:09 -0500#709612b#updated plot.sh for all P,T,Sel,Up combinations#iast-2.0
+2013-03-01 18:25:09 -0500#8406019#added GNUPLOT_PS_DIR export to plot.sh#iast-2.0
+2013-03-01 18:25:08 -0500#f010a67#added SelVsP plot script#iast-2.0
+2013-03-01 18:25:08 -0500#2f33b1a#renamed output dir to dat#iast-2.0
+2013-03-01 18:25:08 -0500#4992c1f#added uptake calculation to iast.cc#iast-2.0
+2013-03-01 18:25:08 -0500#0ba10fe#added output dat files for CuBTC and MgMOF74#iast-2.0
+2013-03-01 18:25:08 -0500#14030bf#updated gitignore to ignore log output#iast-2.0
+2013-03-01 18:25:08 -0500#0a879f9#added curTemp output to iast.cc#iast-2.0
+2012-09-19 22:53:32 -0700#7612be2#ymax set via fIsotherm, x1 limits extended#iast-2.0
+2012-09-19 22:27:13 -0700#2b86bd8#added MgMOF74 to config file#iast-2.0
+2012-09-19 21:24:41 -0700#be1ba5b#cout and README for selectivity plot#iast-2.0
+2012-09-17 00:15:57 -0700#6597d1a#minor changes, some testing (10bar works?)#iast-2.0
+2012-09-16 23:49:42 -0700#697061f#implemented Root Finder for x1 search using GSL#iast-2.0
+2012-09-16 21:53:18 -0700#1f19950#gnuplot check, boost, integration, selectivity#iast-2.0
+2012-09-16 18:29:58 -0700#8baef88#merged hcSet into ParCont, removed previous calcIntLimit (initLoad)#iast-2.0
+2012-09-16 18:16:31 -0700#9971817#inplemented isotherm integration via GSL#iast-2.0
+2012-09-16 01:05:24 -0700#63ae49d#added Makefile for linking with GSL#iast-2.0
+2012-09-16 01:05:06 -0700#dc3a762#using double's only & tested GSL library#iast-2.0
+2012-09-15 19:30:06 -0700#4cafb16#implemented calculation of integration limits P1/P2#iast-2.0
+2012-09-15 17:11:56 -0700#c0e30df#fIsotherm function implemented#iast-2.0
+2012-09-15 16:50:42 -0700#8de3ec9#removed printMsg()#iast-2.0
+2012-09-15 16:48:01 -0700#6c1ce98#reading CO2 & N2, no mol argument needed anymore#iast-2.0
+2012-09-15 16:32:17 -0700#9004330#fixed kH unit & format into README#iast-2.0
+2012-09-15 16:00:29 -0700#2e12600#added HenryCoeff calculations#iast-2.0
+2012-09-15 15:22:35 -0700#55a2a73#iast.cc reads config file and sets variables acc. to arguments#iast-2.0
+2012-09-15 15:21:45 -0700#639ae7e#added config file#iast-2.0
+2012-09-15 13:20:45 -0700#bba1437#added gitignore#iast-2.0
+2012-09-15 13:20:12 -0700#122d42e#initial commit - hello world#iast-2.0

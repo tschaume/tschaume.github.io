@@ -1,0 +1,12 @@
+2013-11-15 11:53:09 -0800#ea16869#add/update gitignore#YamlCfgReader
+2013-05-10 12:49:33 -0700#08e6f82#switch to system yaml, new ckon#YamlCfgReader
+2013-01-25 18:22:32 -0800#2626bf8#include for local yaml#YamlCfgReader
+2012-12-09 11:11:02 -0800#de14eac#fix config url#YamlCfgReader
+2012-12-09 11:10:37 -0800#825780a#add config.yml#YamlCfgReader
+2012-11-26 17:51:55 -0800#dca21e9#YamlConfigReader: add SigElNrYldExPolPts#YamlCfgReader
+2012-11-24 03:43:19 -0800#51eeb34#nsigparamsGP: include electrons in dedx/wdth fit#YamlCfgReader
+2012-11-20 16:27:02 -0800#51b361a#SigmaElFitsMaker: add option to fit subrange of bins controlled via yaml#YamlCfgReader
+2012-11-19 22:27:33 -0800#8b39d93#SigmaElFitsMaker: all variables moved to YamlCfgReader#YamlCfgReader
+2012-11-19 16:26:35 -0800#20560a8#YamlConfigReader: implementation via Instance(), ElectronPid classes updated#YamlCfgReader
+2012-11-19 03:44:08 -0800#9f95880#add YamlCfgReader (to be implemented as namespace?)#YamlCfgReader
+2012-06-04 17:20:07 -0700#5fa1a62#Merge commit '967e5e08092645833ad21195c1fdc47c6be4b0e6' as 'src/MyCore/StBadRdosDb'#YamlCfgReader

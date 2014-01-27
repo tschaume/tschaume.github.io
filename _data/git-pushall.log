@@ -1,0 +1,4 @@
+2012-09-04 15:03:33 -0700#3b15355#remotelist given as arguments#git-pushall
+2012-09-04 14:53:53 -0700#269cf93#brute force: first pulling all remote changes, then pushing all local changes#git-pushall
+2012-09-04 14:49:27 -0700#bc07c21#checking hashes, only pushing if all identical#git-pushall
+2012-09-04 14:38:48 -0700#db33d2e#initial commit#git-pushall

@@ -1,0 +1,25 @@
+2013-11-15 11:53:09 -0800#bde6574#add/update gitignore#StRunIdEventsDb
+2013-06-16 19:25:31 -0700#e38195a#speed-up getRundIdIndex()#StRunIdEventsDb
+2013-02-04 16:58:10 -0800#85d5155#add flag to force constructor call#StRunIdEventsDb
+2013-01-24 16:52:47 -0800#40f6fa3#fix db directory#StRunIdEventsDb
+2013-01-23 23:41:02 -0800#0aabae6#replace quote-includes for ROOT headers (2)#StRunIdEventsDb
+2013-01-23 23:34:03 -0800#890a2f5#replace quote-includes for ROOT headers#StRunIdEventsDb
+2013-01-23 21:23:16 -0500#2e1b5cc#implement mEnergyMap (float -> int)#StRunIdEventsDb
+2013-01-21 03:07:40 -0500#0adbda4#update db-query to reduce #RunIds#StRunIdEventsDb
+2013-01-19 16:26:12 -0800#88e2e65#replace count(key) with find(key)#StRunIdEventsDb
+2013-01-16 22:49:33 -0800#e76a8c6#float energy in readConfigFile#StRunIdEventsDb
+2013-01-16 22:46:56 -0800#c99ad0b#fix readDb call#StRunIdEventsDb
+2013-01-16 22:27:56 -0800#0e558c0#float energy, private constructor, public instance, db/cfg adjusted#StRunIdEventsDb
+2013-01-16 18:05:14 -0800#cd309f7#add .gitignore#StRunIdEventsDb
+2013-01-16 18:00:37 -0800#c661921#fix config file#StRunIdEventsDb
+2013-01-16 20:22:08 -0500#2a1552a#add central trigger to AuAu62#StRunIdEventsDb
+2013-01-16 20:17:30 -0500#03d96de#add vpd-mon-tac trigger to AuAu27#StRunIdEventsDb
+2013-01-16 20:16:04 -0500#f45f729#add bbc-small-mon-narrow trigger to AuAu27#StRunIdEventsDb
+2013-01-16 20:14:46 -0500#d3689de#add zdc-mon-tac trigger to AuAu27#StRunIdEventsDb
+2013-01-16 20:11:21 -0500#e5efb12#add zdc-mon-tac trigger to AuAu19#StRunIdEventsDb
+2013-01-16 20:09:46 -0500#42d713d#add bbc-small-mon-narrow trigger to AuAu19#StRunIdEventsDb
+2013-01-16 20:07:51 -0500#61cc589#add vpd-mon trigger to AuAu19#StRunIdEventsDb
+2013-01-16 20:05:50 -0500#25c1224#add HLT-tracks trigger to AuAu19#StRunIdEventsDb
+2013-01-16 19:41:21 -0500#b0a08bf#even more general query, db update#StRunIdEventsDb
+2013-01-16 19:24:29 -0500#bafba98#remove conditions from db_query and reproduce db#StRunIdEventsDb
+2012-12-08 14:37:16 -0500#f1c2f7b#StRunIdEventsDb from StarUtilities v0.4.4#StRunIdEventsDb

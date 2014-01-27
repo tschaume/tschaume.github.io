@@ -1,0 +1,117 @@
+2012-11-20 22:20:30 -0800#5d46b0c#Merge branch 'hotfix/v0.4.9' into develop -- RooFit#TemplateAnalysis
+2012-11-20 22:20:18 -0800#05600b4#Merge branch 'hotfix/v0.4.9' -- RooFit#TemplateAnalysis
+2012-11-20 22:20:01 -0800#b8f93ed#RooFit support#TemplateAnalysis
+2012-11-20 22:18:56 -0800#d3127c4#update README for v0.4.9#TemplateAnalysis
+2012-11-19 20:55:44 -0800#d1a0b05#Merge branch 'hotfix/v0.4.8' into develop -- class list omitted from -s#TemplateAnalysis
+2012-11-19 20:54:37 -0800#612d823#Merge branch 'hotfix/v0.4.8' - omit classes when -s flag used#TemplateAnalysis
+2012-11-19 20:54:28 -0800#1ffff90#add list of classes to be omitted when using -s#TemplateAnalysis
+2012-11-19 20:53:34 -0800#31ad645#README update for v0.4.8#TemplateAnalysis
+2012-11-19 00:36:29 -0800#5368102#Merge branch 'hotfix/v0.4.7' into develop -- YAML#TemplateAnalysis
+2012-11-19 00:36:08 -0800#58de2c9#Merge branch 'hotfix/v0.4.7' -- YAML#TemplateAnalysis
+2012-11-19 00:35:48 -0800#0281b09#add support for linking agains YAML library#TemplateAnalysis
+2012-11-19 00:34:59 -0800#71318eb#update README for v0.4.7#TemplateAnalysis
+2012-11-14 18:18:46 -0800#c118b7f#Merge branch 'hotfix/v0.4.6' into develop - non-existing src/MyCore fix#TemplateAnalysis
+2012-11-14 18:18:19 -0800#e936ff4#Merge branch 'hotfix/v0.4.6' - fix non-existing src/MyCore#TemplateAnalysis
+2012-11-14 18:17:57 -0800#204dd25#update README for 0.4.6#TemplateAnalysis
+2012-11-14 18:17:02 -0800#16b7054#fix for non-existing src/MyCore#TemplateAnalysis
+2012-08-30 01:21:41 -0700#fd8a27a#Merge branch 'hotfix/v0.4.5' into develop#TemplateAnalysis
+2012-08-30 01:21:28 -0700#c61994f#Merge branch 'hotfix/v0.4.5'#TemplateAnalysis
+2012-08-30 01:21:13 -0700#ad2a4e8#markdown version of README file#TemplateAnalysis
+2012-06-20 18:44:00 -0700#93d6472#Merge 'hotfix/v0.4.4' into develop -- 'find -maxdepth' bugfix#TemplateAnalysis
+2012-06-20 18:42:00 -0700#0f74095#Merge 'hotfix/v0.4.4' -- bugfix caused by 'find -maxdepth'#TemplateAnalysis
+2012-06-20 18:41:49 -0700#050840b#fixed MyCore.la bug caused to find -maxdepth#TemplateAnalysis
+2012-06-20 18:14:00 -0700#9931eb9#Merge branch 'hotfix/v0.4.3' into develop#TemplateAnalysis
+2012-06-20 18:12:34 -0700#8808d4a#Merge branch 'hotfix/v0.4.3'#TemplateAnalysis
+2012-06-20 18:12:31 -0700#05bfacb#fixed couple of bugs detected while compiling on NERSC#TemplateAnalysis
+2012-06-15 16:49:34 -0700#e35b7e6#Merge 'hotfix/v0.4.2' into develop -- fixes 'echo *.cxx' bug#TemplateAnalysis
+2012-06-15 16:48:36 -0700#094a11a#Merge 'hotfix/v0.4.2' -- fixes bug for classes/namespaces w/0 cxx#TemplateAnalysis
+2012-06-15 16:48:22 -0700#173196e#fixed createMakeFileInsert.pl for classes/namespaces w/o cxx file#TemplateAnalysis
+2012-06-15 16:42:10 -0700#d9aec73#added StConstants to MyCore#TemplateAnalysis
+2012-06-13 20:38:39 -0700#ebc13bf#Merge 'hotfix/v0.4.1' into develop -- fixed README#TemplateAnalysis
+2012-06-13 20:38:16 -0700#0a385b0#Merge 'hotfix/v0.4.1' -- fixing README#TemplateAnalysis
+2012-06-13 20:38:09 -0700#4aea951#fixed README file to show newest version#TemplateAnalysis
+2012-06-13 11:43:34 -0700#d2188fd#Merge 'release/v0.4' into develop -- doxygen support#TemplateAnalysis
+2012-06-13 11:42:54 -0700#c7d82ee#Merge 'release/v0.4' -- doxygen support#TemplateAnalysis
+2012-06-13 11:42:40 -0700#05c6365#last fixes and preparation for release v0.4#TemplateAnalysis
+2012-06-13 11:12:32 -0700#ad8c8ed#Merge 'feature/doxygen' into develop -- doxygen support & files#TemplateAnalysis
+2012-06-13 11:09:49 -0700#9c9ac4d#included -d option for doxygen in kon/updateMakeFileAm.sh#TemplateAnalysis
+2012-06-13 00:01:22 -0700#eb199db#implemented doxygen support into autogen/updateMakeFileAm.sh#TemplateAnalysis
+2012-06-13 00:00:48 -0700#06b9c20#updated docs/Doxyfile w/ relative links#TemplateAnalysis
+2012-06-12 19:41:28 -0700#5537c92#added docs/Makefile_mod for doxygen pdf#TemplateAnalysis
+2012-06-12 19:41:09 -0700#9a9b8df#.gitignore updated w/ pics/*#TemplateAnalysis
+2012-06-12 19:26:32 -0700#bca3ed3#added mainpage.cc for Doxygen Mainpage#TemplateAnalysis
+2012-06-12 19:19:33 -0700#a126aaa#added doxygen headers to loopMyNtuple.cc & runhSimple.cc#TemplateAnalysis
+2012-06-12 18:54:37 -0700#6c3edab#added docs-files#TemplateAnalysis
+2012-06-12 18:44:44 -0700#b933f40#added doxygen test to configure.ac#TemplateAnalysis
+2012-06-12 18:31:26 -0700#8979097#Merge 'release/v0.3' into develop -- Bichsel/Gnuplot#TemplateAnalysis
+2012-06-12 18:30:45 -0700#2d48ad2#Merge 'release/v0.3' -- Bichsel/Gnuplot#TemplateAnalysis
+2012-06-12 18:30:32 -0700#4efe902#prepared README & configure.ac for release v0.3#TemplateAnalysis
+2012-06-12 16:55:05 -0700#d03b5d0#Merge 'feature/gnuplot-cpp' into develop -- Bichsel/Gnuplot classes#TemplateAnalysis
+2012-06-12 16:43:33 -0700#7addcd5#added gp_example_*.cc programs#TemplateAnalysis
+2012-06-12 16:42:38 -0700#503e84c#added MyCore/Gnuplot class#TemplateAnalysis
+2012-06-12 16:42:18 -0700#f905200#added MyCore/Bichsel classes#TemplateAnalysis
+2012-06-07 18:30:29 -0700#7e6e7cd#Merge 'release/v0.2.3' into develop -- '+' LinkDef suffix#TemplateAnalysis
+2012-06-07 18:28:36 -0700#fecd113#Merge 'release/v0.2.3' -- optional '+' suffix to LinkDef's#TemplateAnalysis
+2012-06-07 18:28:23 -0700#36e3ccc#dumped version numbers and updated README for release v0.2.3#TemplateAnalysis
+2012-06-06 17:54:03 -0700#0ef4c8c#Merge 'release/v0.2.2' into develop#TemplateAnalysis
+2012-06-06 17:45:20 -0700#7e40189#Merge branch 'release/v0.2.2'#TemplateAnalysis
+2012-06-06 17:45:07 -0700#19e26a6#prepared README, configure.ac & kon for release v0.2.2#TemplateAnalysis
+2012-06-06 17:09:48 -0700#18ac736#option added for linking of pythia libraries#TemplateAnalysis
+2012-06-06 14:42:08 -0700#cacbccf#Merge 'feature/installPrint' into develop#TemplateAnalysis
+2012-06-06 14:36:49 -0700#e91b7e2#removed -L$(libdir) from createMakeFileInsert.pl#TemplateAnalysis
+2012-06-06 13:43:31 -0700#3edfe7e#updated autogen/print.sh & kon#TemplateAnalysis
+2012-06-05 23:50:00 -0700#4393275#added .autom4te.cfg which disables autoconf caches#TemplateAnalysis
+2012-06-05 22:15:16 -0700#79f7095#implemented rootcint's 'defined_in' directive for LinkDef's, Options class treated separately#TemplateAnalysis
+2012-06-05 22:13:47 -0700#d268c79#using TApplication instead of TRint for programs (no ROOT 'hello')#TemplateAnalysis
+2012-06-05 20:43:11 -0700#4f262cb#Merge 'hotfix/v0.2.1' into develop -- fix kon-warning (l.84)#TemplateAnalysis
+2012-06-05 20:41:45 -0700#5788cb7#Merge 'hotfix/v0.2.1' -- fixes warning from kon-script (l.84)#TemplateAnalysis
+2012-06-05 20:41:30 -0700#be2cd67#fixed missing quotation marks in kon (l.84)#TemplateAnalysis
+2012-06-05 20:38:01 -0700#f6e55b1#dumped version number 0.2.1 in configure.ac & README#TemplateAnalysis
+2012-06-05 19:28:11 -0700#5b8d7bd#Merge 'release/v0.2' into develop -- git-archive update#TemplateAnalysis
+2012-06-05 19:26:18 -0700#66e61bf#Merge 'release/v0.2' -- release including .gitattributes for git-archive#TemplateAnalysis
+2012-06-05 19:22:22 -0700#cbb2708#added git-archive section to README#TemplateAnalysis
+2012-06-05 19:11:22 -0700#8ba4074#dumped version number in configure.ac & README#TemplateAnalysis
+2012-06-05 19:02:23 -0700#1b4155b#Merge 'feature/git-archive' into develop -- export-ignore for archive#TemplateAnalysis
+2012-06-05 19:01:31 -0700#3185587#added .git* to .gitattributes to be ignored for export#TemplateAnalysis
+2012-06-05 19:00:00 -0700#4fbf841#added .gitattributes to control git-archive#TemplateAnalysis
+2012-06-05 18:23:01 -0700#5ac9ade#Merge branch 'release/v0.1' into develop#TemplateAnalysis
+2012-06-05 18:21:38 -0700#0c9da75#Merge 'release/v0.1' -- first finalized release of TemplateAnalysis#TemplateAnalysis
+2012-06-05 18:20:59 -0700#bce7be3#finished README for version 0.1#TemplateAnalysis
+2012-06-05 18:18:20 -0700#f195b9e#fixed ENV check in kon not to be solely based on bashrc#TemplateAnalysis
+2012-06-05 18:01:41 -0700#c2e1485#moved ENV check behind clean up to fix 'kon -c'#TemplateAnalysis
+2012-06-05 17:59:40 -0700#f05158b#removed obsolete autogen/setup.sh#TemplateAnalysis
+2012-06-05 17:43:32 -0700#a858e8f#moved ENV check behind option parsing to fix 'kon -h'#TemplateAnalysis
+2012-06-05 17:34:38 -0700#53b3c05#started modifying README for release version#TemplateAnalysis
+2012-06-05 17:34:38 -0700#5e4c54a#bumped version number into configure.ac#TemplateAnalysis
+2012-06-05 15:39:15 -0700#b6a98cc#removed '+' from pragma link definition in LinkDef's#TemplateAnalysis
+2012-06-01 20:29:20 -0700#c382969#updated tree structure in README file#TemplateAnalysis
+2012-06-01 20:26:38 -0700#b009843#added src/hmerge.cc as example for 'global program'#TemplateAnalysis
+2012-06-01 20:23:09 -0700#7f0aa21#added -lPhysics -lEG -lEGPythia6 for global programs (needs better solution)#TemplateAnalysis
+2012-06-01 19:57:01 -0700#3d626f1#updated updateMakeFileAm.sh to compile global programs#TemplateAnalysis
+2012-06-01 19:06:40 -0700#811b57e#using find to determine subdir's instead of ls, introduced globprogs array#TemplateAnalysis
+2012-06-01 18:36:30 -0700#676f1c7#folder renamed: 'program' ->' programs', createMakeFileInsert.pl updated#TemplateAnalysis
+2012-06-01 18:10:05 -0700#7530695#obsolete code can now go into 'src/Obsolete' which is omitted for compiling#TemplateAnalysis
+2012-06-01 17:58:28 -0700#f500b8d#h/cxx-files with depth > 1 ignored in createLinkDef.pl#TemplateAnalysis
+2012-06-01 17:35:25 -0700#8e1d20d#updated version of MyCollection class#TemplateAnalysis
+2012-06-01 17:34:08 -0700#ec5967a#got rid of AM_PROG_AR warning, include m4_ifdef's#TemplateAnalysis
+2012-06-01 17:13:11 -0700#97b4ceb#added '-depth 1' to find command for MyCore libraries (no further recursive search)#TemplateAnalysis
+2012-06-01 16:57:03 -0700#c6b5d46#cons removes LinkDefs/Makefile_insert's, removed from tracking#TemplateAnalysis
+2012-05-31 20:03:38 -0700#4292613#added tree structure to README#TemplateAnalysis
+2012-05-31 19:55:50 -0700#92a20d9#programs compile automatically with MyCore libs#TemplateAnalysis
+2012-05-31 16:45:49 -0700#f218c44#updated README with new TODOs#TemplateAnalysis
+2012-05-31 16:23:58 -0700#085deb7#LinkDef files generated automatically#TemplateAnalysis
+2012-05-31 15:00:55 -0700#8beb2ba#compiled programs implemented and running#TemplateAnalysis
+2012-05-28 02:53:43 -0700#813274b#started including generation of executables, libtool issue#TemplateAnalysis
+2012-05-28 02:53:00 -0700#d96fa13#updated README (Author, cons -j 4, TODO)#TemplateAnalysis
+2012-05-27 23:19:56 -0700#e53c250#updated README with usage of 'cons'#TemplateAnalysis
+2012-05-27 23:08:47 -0700#2a9dcba#switched to Hiroshi's autogen scripts, updated cons script#TemplateAnalysis
+2012-05-26 04:33:05 -0500#418753d#added gitignore#TemplateAnalysis
+2012-05-26 04:32:17 -0500#6c427cc#moved Hiroshi's scripts into autogen, updated updateMakeFileAm.sh#TemplateAnalysis
+2012-05-26 02:22:23 -0500#2c95b0f#removed comments & typo in Hiroshi's autogen scripts#TemplateAnalysis
+2012-05-26 01:59:05 -0500#cbfacf4#added Hiroshi's original autogen files#TemplateAnalysis
+2012-05-26 01:56:11 -0500#533d634#moved main programs into Library/program, Makefile.am updated#TemplateAnalysis
+2012-05-26 01:34:39 -0500#4f793e2#added shell script 'cons' to take care of build process#TemplateAnalysis
+2012-05-26 01:34:16 -0500#1417d46#MyNtuple template finalized to loop over input dir#TemplateAnalysis
+2012-05-25 22:51:32 -0500#7bd231f#rewrote MyNtuple from MakeClass to GNU, added loopMyNtuple#TemplateAnalysis
+2012-05-25 20:45:52 -0500#dd78b73#added initial MyNtuple as gotten from MakeClass#TemplateAnalysis
+2012-05-25 20:36:24 -0500#c408abb#initial commit with simple working example#TemplateAnalysis

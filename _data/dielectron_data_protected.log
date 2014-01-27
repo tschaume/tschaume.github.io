@@ -1,0 +1,23 @@
+2014-01-27 00:55:36 -0800#b47cde2#rm 0.001 from Rapp/Rapp200_HGmed_QGP.dat#dielectron_data_protected
+2014-01-24 14:44:21 -0800#044aa1f#add symlinks for gp_stack LatestJieYi#dielectron_data_protected
+2014-01-24 14:34:45 -0800#709ecf9#gp_panel: add LatestJieYi, Run10/11 200 combined#dielectron_data_protected
+2014-01-24 01:51:52 -0800#52fc3ed#gp_panel LatestBingchuJie: fix cocktail/data39 symlink#dielectron_data_protected
+2014-01-24 01:48:45 -0800#eb95baf#gp_panel LatestBingchuJie: fix medium39 symlink#dielectron_data_protected
+2014-01-24 01:22:02 -0800#d4e8c26#update gp_panel QM12Incl39 symlinks#dielectron_data_protected
+2014-01-24 01:11:46 -0800#06475a0#add symlinks for gp_panel/QM12Incl39#dielectron_data_protected
+2014-01-24 00:56:12 -0800#3488a29#rename QM12 -> QM12Incl39#dielectron_data_protected
+2014-01-23 23:06:13 -0800#8cc0abb#update LatestBingchuJie w/ dx's#dielectron_data_protected
+2014-01-23 22:15:44 -0800#42a1267#add 200 GeV latest cocktail (Run10)#dielectron_data_protected
+2014-01-23 14:44:26 -0800#edcc0ef#fix data200 missing space#dielectron_data_protected
+2014-01-23 14:30:04 -0800#21f656f#add missing symlinks in gp_panel/stack#dielectron_data_protected
+2014-01-23 14:10:19 -0800#1bc3ead#add Rapp19/200_HGmed_QGP, +medium19.dat#dielectron_data_protected
+2014-01-23 13:14:30 -0800#0bdbcc7#data19/200: add zero columns#dielectron_data_protected
+2014-01-23 13:10:50 -0800#79c2174#cocktail19: add zeros in cols 3/4#dielectron_data_protected
+2014-01-23 12:54:18 -0800#d2e9404#add gp_panel/LatestBingchuJie#dielectron_data_protected
+2014-01-23 12:49:37 -0800#e96c15e#add README#dielectron_data_protected
+2014-01-23 12:02:19 -0800#8153da8#add Rapp MinBias Calculations for 19,62,39,200#dielectron_data_protected
+2014-01-21 21:27:32 -0800#0ec693b#symlink cocktail39 to gp_stack#dielectron_data_protected
+2014-01-21 17:39:32 -0800#986092f#symlink data39.dat to gp_stack input dir#dielectron_data_protected
+2014-01-21 04:41:08 -0800#806d501#input dir restructure cont.#dielectron_data_protected
+2014-01-21 04:39:11 -0800#f164042#input/output restructure#dielectron_data_protected
+2014-01-21 03:28:02 -0800#27282fe#initial commit: add QM12 39 GeV data#dielectron_data_protected

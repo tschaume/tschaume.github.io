@@ -1,0 +1,158 @@
+2014-01-27 01:05:13 -0800#5ec234b#WIP on master: 296fe5d gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
+2014-01-27 01:05:13 -0800#25eed60#index on master: 296fe5d gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
+2014-01-24 14:51:03 -0800#296fe5d#gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
+2014-01-24 01:27:10 -0800#25fed01#gp_panel: don't show dx#ccsgp_get_started
+2014-01-23 23:48:23 -0800#cabb39c#gp_stack: update to accomodate latest data#ccsgp_get_started
+2014-01-23 23:08:48 -0800#a50e186#gp_stack: omit dx from scaling#ccsgp_get_started
+2014-01-23 19:58:28 -0800#4490e0e#start with gp_rdiff#ccsgp_get_started
+2014-01-23 18:12:47 -0800#4dccf17#add uncertainties to requirements#ccsgp_get_started
+2014-01-23 15:40:59 -0800#633de3c#add gp_rdiff#ccsgp_get_started
+2014-01-23 15:40:42 -0800#0f786d1#gp_xfac: TODO comment#ccsgp_get_started
+2014-01-23 15:40:03 -0800#972371c#gp_stack: update for new 19GeV#ccsgp_get_started
+2014-01-23 14:40:04 -0800#248c4b3#pull protected -Xtheirs#ccsgp_get_started
+2014-01-22 21:11:06 -0800#e79ce93#update panelQM12.png#ccsgp_get_started
+2014-01-22 21:06:15 -0800#ca19bd1#gp_panel: arrow_*, ccsgp v5.2#ccsgp_get_started
+2014-01-22 20:30:06 -0800#c31431e#add stackQM12.png#ccsgp_get_started
+2014-01-22 20:12:42 -0800#3ec5d0d#update to ccsgp v5.1#ccsgp_get_started
+2014-01-22 20:08:57 -0800#3521fc7#gp_stack: fix yr and 19 GeV cocktail#ccsgp_get_started
+2014-01-22 19:17:21 -0800#35926c4#gp_stack: add arrow for missing errorbars#ccsgp_get_started
+2014-01-22 19:08:51 -0800#8043c98#update ccsgp v5.0#ccsgp_get_started
+2014-01-22 19:02:25 -0800#62c4418#gp_stack: add arrow test#ccsgp_get_started
+2014-01-22 16:39:38 -0800#cc5d386#gp_xfac: fix y-range#ccsgp_get_started
+2014-01-22 02:04:41 -0800#6741957#gp_stack: cocktail legend entry#ccsgp_get_started
+2014-01-22 01:09:10 -0800#8401a26#gp_stack: add shift factors#ccsgp_get_started
+2014-01-22 01:01:08 -0800#d684b5c#update docs w/ gp_stack#ccsgp_get_started
+2014-01-22 01:00:01 -0800#82d8cae#add gp_stack, plot already ok#ccsgp_get_started
+2014-01-22 00:04:04 -0800#45ce143#gp_panel: fix cocktail error band#ccsgp_get_started
+2014-01-21 06:14:11 -0800#c8a77e9#update image urls#ccsgp_get_started
+2014-01-21 06:12:52 -0800#85d4a12#add docs/pics#ccsgp_get_started
+2014-01-21 06:02:40 -0800#c1ccdd9#update install docs#ccsgp_get_started
+2014-01-21 06:01:52 -0800#af1e240#remove ccsgp_get_started_data submodule#ccsgp_get_started
+2014-01-21 05:06:06 -0800#6b853c1#docs: include dielec public/protected data howto#ccsgp_get_started
+2014-01-21 04:18:42 -0800#dd4f174#gp_datdir: update output image dirs#ccsgp_get_started
+2014-01-21 04:16:12 -0800#55a0254#adjust input/output structure#ccsgp_get_started
+2014-01-21 03:56:03 -0800#d5bb816#update ccsgp_get_started_data for new data repo structure#ccsgp_get_started
+2014-01-20 04:27:57 -0800#208a620#update docs#ccsgp_get_started
+2014-01-20 04:23:59 -0800#b52e7f8#include panelQM12 plot#ccsgp_get_started
+2014-01-20 04:21:23 -0800#14b9bef#update ccsgp_get_started_data#ccsgp_get_started
+2014-01-20 04:19:09 -0800#4abe919#gp_panel: plotting filledcurves#ccsgp_get_started
+2014-01-20 02:04:57 -0800#95669c4#gp_panel: include cocktail and medium#ccsgp_get_started
+2014-01-19 23:29:31 -0800#46c2937#gp_panel looking ok#ccsgp_get_started
+2014-01-19 22:19:32 -0800#2aa0595#gp_panel works but buggy#ccsgp_get_started
+2014-01-19 19:47:40 -0800#a9529e8#get started on make_panel test#ccsgp_get_started
+2014-01-19 16:26:01 -0800#c93b66f#gp_datdir: add initial U graph#ccsgp_get_started
+2014-01-19 16:25:23 -0800#f29a55e#update ccsgp_get_started_data#ccsgp_get_started
+2014-01-19 16:20:54 -0800#eac9e7b#fix gp_datdir margins#ccsgp_get_started
+2014-01-19 16:08:49 -0800#b00f5e6#fix relative margins#ccsgp_get_started
+2014-01-19 15:53:56 -0800#c596682#update ccsgp submodule#ccsgp_get_started
+2014-01-19 15:53:44 -0800#de48939#adjust for relative margins in ccsgp#ccsgp_get_started
+2014-01-18 22:22:25 -0800#747cbd8#update submodules#ccsgp_get_started
+2014-01-18 04:22:49 -0800#8c7fd9a#update ccsgp_get_started_data#ccsgp_get_started
+2014-01-18 04:21:22 -0800#2b1bbed#gp_xfac: plot horizontal line#ccsgp_get_started
+2014-01-18 04:20:57 -0800#fc6a4b0#update ccsgp#ccsgp_get_started
+2014-01-18 03:49:31 -0800#400465d#__init__: add link to github issues#ccsgp_get_started
+2014-01-18 03:44:58 -0800#e228322#gp_xfac: update shifts#ccsgp_get_started
+2014-01-18 02:31:05 -0800#863fb65#gp_xfac: include boxwidth in gp_calls#ccsgp_get_started
+2014-01-18 01:46:23 -0800#04fa094#gp_xfac: load all 5 columns#ccsgp_get_started
+2014-01-17 23:54:14 -0800#39b06ba#update ccsgp#ccsgp_get_started
+2014-01-17 23:52:43 -0800#5132911#update ccsgp_get_started_data#ccsgp_get_started
+2014-01-17 23:50:54 -0800#8cb09b3#gp_xfac: deprecate styles#ccsgp_get_started
+2014-01-17 23:22:39 -0800#ae73d41#gp_datdir: remove styles argument#ccsgp_get_started
+2014-01-17 19:14:41 -0800#d85c59d#update ccsp#ccsgp_get_started
+2014-01-17 19:12:20 -0800#61a0307#add swp to gitignore#ccsgp_get_started
+2014-01-17 19:11:57 -0800#db0f858#gp_datdir: adjust to new data format#ccsgp_get_started
+2014-01-17 19:05:04 -0800#31041e6#update ccsgp_get_started_data w/ test cases#ccsgp_get_started
+2014-01-17 17:43:40 -0800#13ad0c3#ccsgp_get_started_data update#ccsgp_get_started
+2014-01-17 17:20:57 -0800#52c504a#update data submodule to new format#ccsgp_get_started
+2014-01-16 19:04:21 -0800#21e7c64#docs: add link to GitHub#ccsgp_get_started
+2014-01-13 18:55:07 -0800#a973296#gp_xfac: add STAR Preliminary label#ccsgp_get_started
+2014-01-13 18:54:47 -0800#baabea1#update ccsgp_get_started_data#ccsgp_get_started
+2014-01-13 18:53:51 -0800#1e488dc#update ccsgp#ccsgp_get_started
+2014-01-13 18:35:56 -0800#4cd12c1#fix gp_xfac image bug#ccsgp_get_started
+2014-01-13 18:33:24 -0800#f0eac15#index: add gp_xfac#ccsgp_get_started
+2014-01-13 18:29:19 -0800#24f3e20#gp_xfac: update docs#ccsgp_get_started
+2014-01-13 18:18:01 -0800#ad0e095#add pyana.examples.gp_xfac#ccsgp_get_started
+2014-01-13 18:16:27 -0800#73136db#update gp_xfac in ccsgp_get_started_data#ccsgp_get_started
+2014-01-13 18:10:32 -0800#fa54f68#update ccsgp#ccsgp_get_started
+2014-01-13 15:03:14 -0800#de34cdf#add authors and date#ccsgp_get_started
+2014-01-13 14:23:55 -0800#d8395fe#add/update gitignores#ccsgp_get_started
+2014-01-13 14:01:21 -0800#e3f8096#add gp_datdir example image#ccsgp_get_started
+2014-01-13 14:00:58 -0800#a7de4c5#update ccsgp_get_started_data submodule#ccsgp_get_started
+2014-01-13 13:31:22 -0800#357d7a5#fix utils logging bug#ccsgp_get_started
+2014-01-13 12:00:00 -0800#9b841ff#remove h5py dep in setup#ccsgp_get_started
+2014-01-13 11:35:29 -0800#9a05989#update setup.py#ccsgp_get_started
+2014-01-13 03:55:45 -0800#f57187b#setup: licence typo#ccsgp_get_started
+2014-01-13 03:55:04 -0800#231bf4a#setup: remove h5py require#ccsgp_get_started
+2014-01-13 03:43:45 -0800#b159def#add setup.py#ccsgp_get_started
+2014-01-13 03:43:36 -0800#a73123f#add ez_setup.py#ccsgp_get_started
+2014-01-13 03:28:24 -0800#40b1ce4#small doc changes#ccsgp_get_started
+2014-01-13 03:06:23 -0800#49d7642#update clone urls etc.#ccsgp_get_started
+2014-01-13 03:00:14 -0800#9990099#fix urls for docs#ccsgp_get_started
+2014-01-13 02:44:27 -0800#ce60f4d#fix checkSymLink usage#ccsgp_get_started
+2014-01-13 02:40:39 -0800#7e416ed#update ccsgp submodule url#ccsgp_get_started
+2014-01-13 02:38:49 -0800#8a450c4#remove uncertainties requirement#ccsgp_get_started
+2014-01-13 02:15:41 -0800#e31c258#add ccsgp submodule back from github#ccsgp_get_started
+2014-01-13 02:12:01 -0800#f4c4295#remove pyana/ccsgp submodule#ccsgp_get_started
+2014-01-13 02:08:38 -0800#1a784dd#update ccsgp_get_started_data submodule url#ccsgp_get_started
+2014-01-13 00:57:54 -0800#78e5de1#finish docs#ccsgp_get_started
+2014-01-13 00:57:34 -0800#2253e31#update ccsgp docs#ccsgp_get_started
+2014-01-12 22:33:01 -0800#5ac3d42#fix getWorkDirs and getOpts imports#ccsgp_get_started
+2014-01-12 22:25:10 -0800#78a93dd#mv utils to examples#ccsgp_get_started
+2014-01-12 22:22:49 -0800#60aed9b#add comments for checkSymLink, getWorkDirs#ccsgp_get_started
+2014-01-12 22:21:38 -0800#fa136bd#mv getOpts to ccsgp.utils#ccsgp_get_started
+2014-01-12 22:18:01 -0800#b2640b9#empty __init__.py#ccsgp_get_started
+2014-01-12 18:45:19 -0800#c47f97c#add sphinx docs#ccsgp_get_started
+2014-01-12 18:16:21 -0800#3c7232b#improve plot key#ccsgp_get_started
+2014-01-12 18:15:59 -0800#18e0670#ccsgp update#ccsgp_get_started
+2014-01-12 17:37:47 -0800#24b3385#plot #most populated countries#ccsgp_get_started
+2014-01-12 17:37:21 -0800#f0d90c5#update submodule ccsgp#ccsgp_get_started
+2014-01-12 17:37:01 -0800#4ac8a44#utils: use ccsgp.default_colors#ccsgp_get_started
+2014-01-12 04:54:59 -0800#b348a97#adjust gp_datdir to newest ccsgp#ccsgp_get_started
+2014-01-12 04:54:40 -0800#6559df0#update ccsgp submodule#ccsgp_get_started
+2014-01-12 04:13:57 -0800#ba531a0#update ccsgp after overhaul#ccsgp_get_started
+2014-01-12 04:13:07 -0800#23a5c1f#update README#ccsgp_get_started
+2014-01-11 15:02:52 -0800#982f7fc#working on docs#ccsgp_get_started
+2014-01-11 15:02:25 -0800#d8cd951#gp_datdir: remove defaultkey#ccsgp_get_started
+2014-01-11 15:01:36 -0800#c229549#update ccsgp submodule#ccsgp_get_started
+2014-01-11 00:06:38 -0800#030fcaf#start on pydoc's#ccsgp_get_started
+2014-01-10 23:44:55 -0800#2645da0#README#ccsgp_get_started
+2014-01-10 23:41:52 -0800#43356c1#README: obey GitLab line wrap#ccsgp_get_started
+2014-01-10 23:34:05 -0800#454d741#major README update#ccsgp_get_started
+2014-01-10 22:58:56 -0800#8fed426#minor README update#ccsgp_get_started
+2014-01-10 22:58:26 -0800#384b3c4#add ccsgp_get_started_data submodule#ccsgp_get_started
+2014-01-10 22:52:57 -0800#8ae665e#README update#ccsgp_get_started
+2014-01-10 22:50:06 -0800#61557b9#further improve README#ccsgp_get_started
+2014-01-10 22:42:03 -0800#bd4cb6b#README update#ccsgp_get_started
+2014-01-10 22:22:14 -0800#648a668#improve README#ccsgp_get_started
+2014-01-10 22:11:22 -0800#4fa7ba4#README update#ccsgp_get_started
+2014-01-10 21:44:07 -0800#69fd10f#improve gp_datdir, package usage and README#ccsgp_get_started
+2014-01-08 23:14:07 -0800#d8f700d#minor reformat in gp_datdir#ccsgp_get_started
+2014-01-08 21:22:44 -0800#1d15060#README final#ccsgp_get_started
+2014-01-08 21:18:23 -0800#e4795ff#remove h5py dependency#ccsgp_get_started
+2014-01-08 21:17:40 -0800#9e41e62#update ccsgp submodule#ccsgp_get_started
+2014-01-08 21:02:34 -0800#4f56e76#reorder requirements#ccsgp_get_started
+2014-01-08 20:57:54 -0800#b717f0a#catch small case initial#ccsgp_get_started
+2014-01-08 20:56:03 -0800#62f1d61#update gitignore#ccsgp_get_started
+2014-01-08 20:55:51 -0800#87937c3#write to hdf5#ccsgp_get_started
+2014-01-08 20:55:13 -0800#0536413#update ccsgp submodule#ccsgp_get_started
+2014-01-08 20:49:13 -0800#262dd92#update .gitignore#ccsgp_get_started
+2014-01-08 20:48:40 -0800#c40af9b#update README#ccsgp_get_started
+2014-01-08 20:48:32 -0800#ceda884#finish gp_datdir.py#ccsgp_get_started
+2014-01-08 19:50:25 -0800#c59df5d#add examplesDir#ccsgp_get_started
+2014-01-08 17:58:50 -0800#2a0f9d6#add pyana/examples#ccsgp_get_started
+2014-01-08 17:58:21 -0800#7e38064#README update#ccsgp_get_started
+2014-01-08 17:58:11 -0800#e04a7f7#fix module name#ccsgp_get_started
+2014-01-08 17:56:55 -0800#4c627f9#add pyanaDir symlink#ccsgp_get_started
+2014-01-08 17:54:35 -0800#057950a#update requirements#ccsgp_get_started
+2014-01-08 17:53:54 -0800#b1555ee#add pyc to gitignore#ccsgp_get_started
+2014-01-08 17:50:04 -0800#d23bcad#add ccsgp submodule#ccsgp_get_started
+2014-01-08 17:37:26 -0800#67d6b39#update requirements#ccsgp_get_started
+2014-01-08 17:28:43 -0800#86818ef#add requirements#ccsgp_get_started
+2014-01-08 17:18:25 -0800#553b393#add pyanaDir to .gitignore#ccsgp_get_started
+2014-01-08 17:17:16 -0800#dc8a11a#update README and __main__#ccsgp_get_started
+2014-01-08 17:07:36 -0800#4b79071#add pip symlink#ccsgp_get_started
+2014-01-08 17:06:19 -0800#fbc6943#add symlink to python#ccsgp_get_started
+2014-01-08 17:05:50 -0800#f860a16#add .gitignore#ccsgp_get_started
+2014-01-08 16:55:03 -0800#28863e3#add pyana/aux#ccsgp_get_started
+2014-01-08 16:54:01 -0800#0763143#add pyana init and main#ccsgp_get_started
+2014-01-08 16:28:42 -0800#da92720#initial commit w/ README#ccsgp_get_started

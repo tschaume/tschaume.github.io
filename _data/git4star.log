@@ -1,0 +1,33 @@
+2013-08-12 19:46:37 -0700#fbe0984#use thesis chapter as readme#git4star
+2013-08-12 21:16:58 -0400#c4c959f#fix writeManifest#git4star
+2013-08-12 20:58:57 -0400#8f32bc6#fix createGerritProjects.sh#git4star
+2013-08-12 17:17:50 -0400#416cdfc#add configureCGit.sh#git4star
+2013-08-12 17:11:35 -0400#d63ecaa#add configureHttpProxy.sh#git4star
+2013-08-12 09:00:12 -0400#3eb3b12#update convertStarCVS.sh#git4star
+2013-08-12 08:59:46 -0400#679315c#add cvs2git.log#git4star
+2013-08-12 03:31:25 -0700#e078069#final gerrit.config#git4star
+2013-08-12 03:01:43 -0700#d97e8b0#update reverse proxy#git4star
+2013-08-12 02:39:56 -0700#7edeb68#add gerrit4star.the-huck.com#git4star
+2013-08-12 02:18:39 -0700#0b88d1e#add cgit4star.the-huck.com#git4star
+2013-08-12 02:06:34 -0700#daccd45#add cgit.conf and cgitrc#git4star
+2013-08-12 02:58:44 -0400#80c7db6#add convertStarCVS.sh, my.cvs2git.options#git4star
+2013-02-15 04:50:22 -0800#c639d0c#fix typos in gerrit4star.readme#git4star
+2013-02-15 04:01:54 -0800#34a0cda#add gerrit4star.readme#git4star
+2013-02-15 03:35:16 -0800#621fc77#undo previous commit#git4star
+2013-02-15 03:32:04 -0800#dadbacf#try ssh for review#git4star
+2013-02-15 02:54:59 -0800#90a0814#remove port from review#git4star
+2013-02-15 02:41:07 -0800#af3e9b6#port 8080, repo proxy problem?#git4star
+2013-02-15 02:31:55 -0800#de76eb6#change to 8081 port#git4star
+2013-02-15 01:54:15 -0800#eb1aadb#setup for gerrit4star.the-huck.com#git4star
+2012-11-10 23:34:53 -0800#6857359#trying to fix fetch in default.xml#git4star
+2012-11-10 23:30:06 -0800#50e3aeb#add gitignore#git4star
+2012-11-10 23:29:51 -0800#d8d2cf0#add script to push repos to Gerrit#git4star
+2012-11-10 20:55:36 -0800#449b8c2#testing remote fetch#git4star
+2012-11-10 20:29:43 -0800#0456b0c#shorten default.xml#git4star
+2012-11-10 20:03:05 -0800#a9d162b#default.xml: update to gerrit2#git4star
+2012-11-10 20:01:18 -0800#896fdd1#update writeManifest.sh#git4star
+2012-11-10 19:59:03 -0800#562ad5f#add StRootGits.list#git4star
+2012-11-10 19:57:13 -0800#1b61d6d#add writeManifest.sh#git4star
+2012-11-10 05:05:26 -0800#9d540e5#add file:// to remote url#git4star
+2012-11-10 04:55:09 -0800#5370a78#stup localhost for local gerrit#git4star
+2012-11-10 03:13:41 -0800#1e26428#initial commit - default.xml#git4star

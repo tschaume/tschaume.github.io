@@ -1,0 +1,159 @@
+2014-01-17 03:57:32 -0800#1b0e252#EmbEffCalc: change ofs name, add output dat#Embedding
+2014-01-17 03:52:27 -0800#4319e3a#EmbEffCalc: write out integrated eff's#Embedding
+2014-01-16 18:58:35 -0800#379e7dd#TofMatch: some cleanup and comments#Embedding
+2014-01-16 12:28:56 -0800#88ee247#TofMatch: mv tofMatch from EmbeddingQA#Embedding
+2014-01-16 00:40:25 -0800#7805f4a#update runEmbed to call TofMatch#Embedding
+2014-01-16 00:40:10 -0800#1f2ab62#add empty TofMatch#Embedding
+2014-01-16 00:23:25 -0800#f6b585e#EmbEffCalc: get embin internally#Embedding
+2014-01-16 00:15:54 -0800#1ffb086#cleanup EmbEffCalc#Embedding
+2014-01-16 00:10:31 -0800#1b79474#mv UlrichXuError to Utils#Embedding
+2014-01-15 07:27:27 -0800#426be88#EmbEffCalc: encode filename in pic#Embedding
+2014-01-15 06:42:10 -0800#46a5857#change output filename format (flat)#Embedding
+2014-01-15 06:20:14 -0800#d13af7f#EmbEffCalc: fix plotting#Embedding
+2014-01-15 06:19:21 -0800#028cdd3#EmbeddingConstants: remove .4 eta binning#Embedding
+2014-01-15 04:49:10 -0800#598cdeb#EmbEffCalc: all plots working, incl. Pt/Eta/Phi Dep.#Embedding
+2014-01-15 04:47:48 -0800#045229c#EmbeddingConstants: update mRebin lists#Embedding
+2014-01-14 17:59:18 -0800#06e1ecf#EmbEffCalc: improve differential plots#Embedding
+2014-01-10 06:45:27 -0800#5f11405#EmbEffCalc: minor updates for LFSpectra#Embedding
+2014-01-10 06:10:27 -0800#b961947#EmbEffCalc: LFSMeeting ready#Embedding
+2014-01-10 05:11:25 -0800#c9f993d#EmbEffCalc: plotting works#Embedding
+2014-01-10 02:12:41 -0800#da4a116#EmbEffCalc: minor plotting improv#Embedding
+2014-01-10 02:02:12 -0800#889a0b2#EmbEffCalc: improve plotting#Embedding
+2014-01-10 01:25:24 -0800#b6ac577#EmbEffCalc: printing all pT's in one file#Embedding
+2014-01-09 20:05:53 -0800#e562162#EmbEffCalc: cleanup to improve plotting#Embedding
+2014-01-09 19:07:35 -0800#91efb70#EmbEffCalc: reduce combinations#Embedding
+2014-01-09 18:53:16 -0800#535fbfe#EmbEffCalc: implement better cout, mEmbEffCalcRebinFactorsMap#Embedding
+2014-01-09 18:21:43 -0800#c72cdba#EmbEffCalc: plotting/printing all tuples#Embedding
+2014-01-09 18:21:25 -0800#040d17d#runEmbed: remove unneeded cDummy#Embedding
+2014-01-09 18:20:51 -0800#5bad412#EmbeddingConstants: remove 360 phi bins case#Embedding
+2014-01-09 16:49:44 -0800#e99c321#EmbeddingUtils: improve root output file name#Embedding
+2014-01-09 16:16:40 -0800#860e5bd#EmnbEffCalc: fill TGraphErrors#Embedding
+2014-01-09 15:35:16 -0800#b2ac964#EmbEffCalc: eff. calc. working, starting on graphs#Embedding
+2014-01-09 02:37:06 -0800#5d9d1d3#introduce EmbEffCalc, basics compile & run#Embedding
+2013-12-28 02:28:51 -0800#b661848#EmbeddingConstants: change Float_t to Double_t#Embedding
+2013-12-28 02:14:35 -0800#10c5a19#EmbeddingConstants: change ptBwSysErr to 0.3#Embedding
+2013-12-20 18:33:06 -0800#2c518e2#NHitsCompare: fix i-j mixup#Embedding
+2013-12-20 18:30:30 -0800#af9b165#fix missing NrPtBinsSysErr, include Ntuple, use ptBw=0.2#Embedding
+2013-12-20 17:57:09 -0800#a630365#add NrPtBinsSysErr, ptBwSysErr#Embedding
+2013-12-20 17:43:30 -0800#bd0657d#NHitsCompare: getEfficiency, getEffRelSysErr, formats#Embedding
+2013-12-20 03:50:08 -0800#86990f9#NHitsCompare: SysErr error calculation -> check#Embedding
+2013-12-20 03:20:33 -0800#ca2be41#NHitsComp: implement SysErr calculation#Embedding
+2013-12-20 01:31:20 -0800#f450cb8#runEmbed: fix argc bug#Embedding
+2013-12-20 01:31:06 -0800#1e8363e#NHitsCompare: use lowpt, lowpt+bw#Embedding
+2013-12-20 01:30:42 -0800#5f5f52d#NHitsCompare: fix glob_pad, cur_pad#Embedding
+2013-12-19 19:32:46 -0800#69bec41#HUGE: splitting EmbeddingQA, add NHitsCompare/EmbeddingUtils, cleanup#Embedding
+2013-12-19 11:38:43 -0800#2796f34#loopEmbed: fix FilEnd bug#Embedding
+2013-12-19 11:38:29 -0800#708728f#rename runAll, make energy-specific#Embedding
+2013-12-19 00:40:01 -0800#0c1a80e#implement RUNIDOK_CHECK flag#Embedding
+2013-12-19 00:35:59 -0800#adf8530#add runAll.sh to run loopEmbed#Embedding
+2013-12-19 00:24:26 -0800#6ae9324#fix compiler/runtime errors#Embedding
+2013-12-18 23:49:37 -0800#9c34373#cleanup/improve loopEmbed/McTracks/MatchedPairs, to be tested#Embedding
+2013-12-18 11:38:19 -0800#50a9bc1#further improve, cleanup McTrack/MatchedPairs#Embedding
+2013-12-17 19:21:08 -0800#9929587#continue cleanup of MatchedPairs#Embedding
+2013-12-17 19:02:02 -0800#c1074e0#cleanup, check and improve#Embedding
+2013-12-17 17:40:55 -0800#ae216d4#runEmbed: fix argc numbers#Embedding
+2013-12-13 17:39:40 -0800#bcf4f77#EmbeddingQA: replace setters in SetProps#Embedding
+2013-12-13 17:28:29 -0800#be208ad#EmbeddingQA: rm drawEvent/Canvas#Embedding
+2013-12-12 14:05:32 -0800#c68f0d8#loopEmbed: fix cureta, Float_t precision issue#Embedding
+2013-12-04 15:32:42 -0800#49254ab#loopEmbed: improve logging#Embedding
+2013-12-02 19:37:49 -0800#3a56b75#improve RunIdOk check#Embedding
+2013-12-02 19:37:26 -0800#420e6a9#slight cleanup#Embedding
+2013-12-02 17:28:05 -0800#2a45c0e#clean-up & check, add EmbeddingConstants, compiles but needs revision#Embedding
+2013-11-15 11:54:51 -0800#214021b#fix compiler warnings for WRITERUNIDLIST#Embedding
+2013-11-15 11:54:06 -0800#5effce2#update EmbRunIds_*.txt#Embedding
+2013-11-15 11:53:08 -0800#2d870af#add/update gitignore#Embedding
+2013-11-14 17:50:09 -0800#43c8f62#eeDecay: use CompareTo instead of EqualTo#Embedding
+2013-11-14 17:47:51 -0800#6103a61#add .gitignore#Embedding
+2013-11-13 23:01:21 -0800#bb52a65#update loopEmbed acc. to new LBL-Picos Analysis, to be tested#Embedding
+2013-11-13 22:55:57 -0800#9790368#fix compilation warnings#Embedding
+2013-10-14 17:17:21 +0200#e8cfeb2#add EmbRunIds_19GeV.txt#Embedding
+2013-01-29 22:42:25 -0800#4cc4fdc#finish first comparison of rt2378 bug#Embedding
+2013-01-29 20:52:04 -0800#fede4b8#rt2378.C: add Legend#Embedding
+2013-01-29 19:06:32 -0800#b09222a#add rt2378.C macro#Embedding
+2013-01-29 16:25:32 -0800#77b9d11#add suffix to outdir, write Nhits dists#Embedding
+2013-01-29 13:10:49 -0800#6552c04#adjust to new input/output dirs#Embedding
+2013-01-29 13:10:09 -0800#7f8dab5#WIP on master: e3fcc55 fix carver linker errors#Embedding
+2013-01-29 13:10:09 -0800#343922c#index on master: e3fcc55 fix carver linker errors#Embedding
+2013-01-28 19:47:24 -0800#e3fcc55#fix carver linker errors#Embedding
+2013-01-28 14:38:31 -0800#39c7512#cleaning up includes, testing#Embedding
+2013-01-28 14:28:07 -0800#e5a7732#further cleanup includes#Embedding
+2013-01-28 14:17:25 -0800#ee75093#remove unneeded includes#Embedding
+2013-01-25 01:05:25 -0800#704611e#*Embed.cc: fix auto-link includes#Embedding
+2013-01-24 16:54:09 -0800#60566ed#loopEmbed.cc: fix EmbRunIds file input dir#Embedding
+2013-01-24 16:53:36 -0800#a6a937b#new EmbRunIds files for 39/62 based on RT2378 minimcs#Embedding
+2013-01-24 15:38:32 -0800#effcf27#fix for new StRunIdEventsDb constructor call#Embedding
+2013-01-23 23:48:18 -0800#d7b367b#replace src-includes with StRoot#Embedding
+2013-01-23 23:41:02 -0800#8d25661#replace quote-includes for ROOT headers (2)#Embedding
+2013-01-23 23:34:03 -0800#1ea3e29#replace quote-includes for ROOT headers#Embedding
+2013-01-13 16:40:21 -0800#5442c32#fix EmbeddingQA.cxx#Embedding
+2012-12-08 18:24:47 -0500#b932f7a#fix EmbRunIds_62GeV via uniq#Embedding
+2012-12-08 18:21:17 -0500#b07ee02#resolve merge conflicts#Embedding
+2012-12-08 17:55:01 -0500#49ef59f#uniq EmbRunIds_62GeV.txt#Embedding
+2012-12-06 23:04:11 -0500#c05120d#plotPairEff.sh: add 19 GeV#Embedding
+2012-11-28 11:40:22 -0800#7a5f02b#eeDecay: adjust NrPtBins and pt_step acc. to InvMassBgAnalysis#Embedding
+2012-11-28 02:47:36 -0800#137157a#eeDecay: map Electrons to Positrons for 39 GeV#Embedding
+2012-11-28 02:20:24 -0800#59d0811#eeDecay: adjust heff name to SigmaElFitsMaker output#Embedding
+2012-11-01 17:34:14 -0700#07f94ba#eeDecay: implement 2D-rebinned PairEff. Histo#Embedding
+2012-11-01 15:28:59 -0700#e006a3e#eeDecay: add phiV efficiency#Embedding
+2012-11-01 13:59:08 -0700#d4216d7#eeDecay: add glDCA efficiency (from Emb)#Embedding
+2012-11-01 12:19:36 -0700#7445fb5#runEmbed: distinguish e+/e-, run exp. based eff only for e-#Embedding
+2012-11-01 12:18:01 -0700#faf8832#eeDecay: kWriteDat, gen. CleanUp, e+/e- indiv. eff.#Embedding
+2012-11-01 12:13:04 -0700#2b51612#loopEmbed: loop ConvElPiKPtree only for Electrons#Embedding
+2012-10-30 19:29:30 -0700#0d76e4e#eeDecay: switched to Mee/pTee eff. plots#Embedding
+2012-09-21 17:37:45 -0700#45b8c21#TH1F/D replacement in EmbeddingQA, add_suffix in runEmbed#Embedding
+2012-09-21 14:32:12 -0700#fc873ec#replaced TH1F with TH1D in loopEmbed (overflow)#Embedding
+2012-09-21 14:22:05 -0700#4adfc35#replaced Long64_t with Float_t again in MyEventEmbData.h#Embedding
+2012-09-14 17:41:23 -0700#a5c2753#included Xin plots in runEmbed.cc (file check intrinsically done)#Embedding
+2012-09-14 16:43:58 -0700#7bcaf85#updated src/Embedding for 27 GeV analysis#Embedding
+2012-09-14 16:11:58 -0700#2265904#implemented year for StRunIdEventsDb/StBadRdosDb in src/Embedding#Embedding
+2012-09-14 15:58:04 -0700#e804c00#added EmbRunIds_27GeV.txt#Embedding
+2012-09-14 15:57:03 -0700#58de11d#minor updates in loopEmbed.cc for 27 GeV run#Embedding
+2012-08-28 17:32:37 -0700#10196a9#updated all source code depending on StRunIdEventsDb#Embedding
+2012-08-24 18:50:27 -0700#fbe1fdc#datfiles and script in Embedding/macros/paireffGP#Embedding
+2012-08-24 18:50:26 -0700#d9502b1#eeDecay energy dep. and 19GeV efficiencies from Bingchu#Embedding
+2012-08-24 18:50:26 -0700#8232ff6#edgesX changed to Double_t#Embedding
+2012-08-24 18:50:26 -0700#64b8b2e#Embedding/macros/SingleTrackEffComp.C#Embedding
+2012-06-21 13:47:14 -0700#b254919#glDCA Eff. plots and output done.#Embedding
+2012-06-20 21:01:31 -0700#b1273d0#implemented pT dependent GlDca Data/Emb comparison#Embedding
+2012-06-20 19:14:58 -0700#d89c558#implemented DCA histos for EffCorr in Embedding#Embedding
+2012-06-20 17:09:52 -0700#b6540c6#started including dca efficiency into Embedding Code#Embedding
+2012-06-14 17:36:03 -0700#e6a2709#fixed EffCorr problem in InvMassBgAnalysis (maxMee=4.5 in eeDecay)#Embedding
+2012-06-14 16:59:35 -0700#c2c2d1e#fixed bug at Nhits Error Calc (array not glob. defined)#Embedding
+2012-06-14 15:34:04 -0700#00ea6d5#fixed couple of stupid bugs in tofMatchEff#Embedding
+2012-06-06 01:28:15 -0700#8203ce6#removed argc & iter.index related cout's#Embedding
+2012-06-06 01:17:09 -0700#4e91190#using TApplication instead of TRint in programs#Embedding
+2012-06-04 14:49:48 -0700#70ff705#updated tofMatchEff in EmbeddingQA for 4Jun12 MondayMeeting#Embedding
+2012-06-02 14:55:37 -0700#f0ea531#Merged Commit: transition to TemplateAnalysis scheme#Embedding
+2012-05-16 23:55:40 -0700#6528f3f#added particle dependent output to EmbeddingQA#Embedding
+2012-05-13 18:05:43 -0700#ec47f6b#finalized eta/phi dependence for TofMatchEff in EmbeddingQA#Embedding
+2012-05-13 04:55:55 -0700#3f74e2d#implemented variable pt binning into tofMatchEff in EmbeddingQA#Embedding
+2012-05-13 04:01:18 -0700#2e25ae4#fixed normalization & removed smooth lines in tofMatchEff of EmbeddingQA#Embedding
+2012-05-12 19:32:58 -0700#6fa7797#rewrote tofMatchEff of EmbeddingQA.cxx to include differential eta/phi#Embedding
+2012-05-12 19:28:51 -0700#808d7f7#type of NrParticles changed to Long64_t in MyEventEmbData.h#Embedding
+2012-05-12 16:36:54 -0700#8e75254#updated EmbeddingQA.cxx and loopEmbed.cc for TofMatchEff in eta/phi#Embedding
+2012-05-04 12:01:30 -0700#87341ff#generalization work on EmbeddingQA wrt new 62GeV sample#Embedding
+2012-05-02 18:16:39 -0700#1f9b3b1#small changes in drawXinPlots in EmbeddingQA.cxx, BadRdosDb/RunIdEventsDb made private member#Embedding
+2012-05-01 20:28:31 -0700#b8a5a37#modified anaConvElPiKPtree_Makefile.am & Embedding code to compile loopEmbed on Carver#Embedding
+2012-04-30 17:36:01 -0700#8ca5007#prepared 1st PWG QA for 62 GeV embedding (code energy dependent)#Embedding
+2012-04-30 14:34:15 -0700#b79dfba#added ParentGeantId==0 to check for primary electrons in McTracks/MatchPairs#Embedding
+2012-04-14 20:29:59 -0700#defabba#added total sys. error for final pair efficiency#Embedding
+2012-04-08 20:45:29 -0700#07026e4#included nsigma_el selection efficiency into pair efficiency#Embedding
+2012-04-06 10:27:16 -0700#fb31ded#changed dca cut in MatchedPairsNT back to 2cm -> consistent to analysis#Embedding
+2012-03-30 16:38:34 -0700#26a3940#generated plots for single track and pair efficiencies for Meetings on 03/30/2012#Embedding
+2012-03-30 16:37:58 -0700#efec718#writing output of efficiency graphs in EmbeddingQA.cxx (included case for integrated eta,phi)#Embedding
+2012-03-08 16:54:07 -0800#157c8f0#added nHitsSysErr and TofMatchEff functions#Embedding
+2012-02-17 19:55:18 -0800#fc116aa#added BadRdosDb database for 62 GeV & updated code for energy dependent DB loading#Embedding
+2012-02-15 23:48:45 -0800#6d230c2#started MyCollection class#Embedding
+2012-02-13 20:17:23 -0800#8b795de#implemented comparison of different eta/phi binning in eff. calc.#Embedding
+2012-02-13 20:16:21 -0800#128320a#EmbeddingQA version for MondayMeeting 01/09/2012#Embedding
+2012-02-13 20:16:14 -0800#718276e#preparation of pics for ProcCPOD in BetaPanels#Embedding
+2012-02-13 20:16:14 -0800#c4d54fb#implemented Merging of RunRanges & NrEvts/RunRange#Embedding
+2012-02-13 20:16:13 -0800#1194d0f#implemented RunId dependence of Data/Emb comp.#Embedding
+2012-02-13 20:16:12 -0800#383488e#RunId Selection for Emb/Data Comparison#Embedding
+2012-02-13 20:16:11 -0800#8dc5987#Efficiency error and bad RDO's#Embedding
+2012-02-13 20:16:10 -0800#b32c96b#TPC tracking efficiency implemented#Embedding
+2012-02-13 20:16:09 -0800#66d0852#started step-by-step efficiencies & pi/K/p sample#Embedding
+2012-02-13 20:16:08 -0800#4d44927#Nov2011 modifications for Efficiency determination#Embedding
+2012-02-13 20:16:07 -0800#62417c2#added SingleTreeTrack.C and pp_spectra data#Embedding
+2012-02-13 20:16:06 -0800#3ff7c9a#included MyUtilities directory in src/#Embedding
+2011-11-21 15:35:24 -0800#89293f9#initial commit (21 Nov 2011)#Embedding

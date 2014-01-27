@@ -1,0 +1,161 @@
+2014-01-16 17:08:39 -0800#8186619#add name to AbstractQM14 file#phdthesis
+2014-01-16 17:04:26 -0800#ce02750#AbstractQM14: add Nu's suggestions#phdthesis
+2014-01-16 16:29:09 -0800#fcdf05a#Makefile: rm xml when building single doc#phdthesis
+2014-01-16 16:28:49 -0800#5c810e8#ignore all pdfs#phdthesis
+2014-01-16 16:28:39 -0800#7acc156#add others dir w/ AbstractQM14#phdthesis
+2014-01-16 16:20:22 -0800#0b2502e#Makefile: add single document target#phdthesis
+2014-01-16 16:17:50 -0800#a69c723#physics/ana: changes from 2013-Sep-01#phdthesis
+2013-08-22 04:54:37 -0700#ce64e17#physics/ana: datasets table#phdthesis
+2013-08-21 23:25:19 -0700#2bdb85a#README: add merge instructions#phdthesis
+2013-08-21 23:15:29 -0700#1901161#add johanna changes to software projects#phdthesis
+2013-08-15 00:02:18 -0700#5eb5a9f#downloads: add thesis-v003.pdf/txt#phdthesis
+2013-08-15 00:00:11 -0700#5d93845#safety backup#phdthesis
+2013-08-14 23:59:15 -0700#528d7b4#Makefile: restrict to software part#phdthesis
+2013-08-14 23:58:01 -0700#afa7619#move vuvlamp to hardware#phdthesis
+2013-08-14 23:51:30 -0700#43d77ea#finish rmrg#phdthesis
+2013-08-14 23:31:29 -0700#5ab86ef#wp-pdf done#phdthesis
+2013-08-14 22:06:58 -0700#f72741a#finish ckon#phdthesis
+2013-08-14 20:24:11 -0700#36e3efb#ckon: write introduction#phdthesis
+2013-08-14 18:50:16 -0700#5a5ab55#working on ckon/wp-pdf#phdthesis
+2013-08-14 03:38:01 -0700#e881648#ckon: references to bib#phdthesis
+2013-08-14 03:17:23 -0700#5232cdd#ckon: fill & improve content#phdthesis
+2013-08-13 19:28:23 -0700#3df3dfe#update Makefile filelist#phdthesis
+2013-08-13 19:27:46 -0700#98db9eb#gitignore: add swp#phdthesis
+2013-08-13 19:27:35 -0700#c538980#improve wp-pdf & rmrg layout#phdthesis
+2013-08-13 19:26:32 -0700#67d2773#update software public chapter title#phdthesis
+2013-08-13 19:26:13 -0700#3bc4b62#add ckon & wp-pdf sources#phdthesis
+2013-08-13 19:03:49 -0700#d0299b6#Makefile: add ckon_source#phdthesis
+2013-08-13 19:03:27 -0700#ad7d39b#ckon: only intro missing#phdthesis
+2013-08-13 19:02:48 -0700#c0c479d#improve software chapter titles#phdthesis
+2013-08-12 20:20:33 -0700#9cc57a3#ckon: add ckon.readthedocs.org content#phdthesis
+2013-08-12 19:40:16 -0700#5b0d36c#cvs2git: use subsections in sources#phdthesis
+2013-08-12 19:33:30 -0700#a49bbd5#cvsgit: finishgit status#phdthesis
+2013-08-12 19:12:50 -0700#b12800d#cvs2git: replace test w/ demonstration#phdthesis
+2013-08-12 18:56:24 -0700#9780327#cvs2git: add screenshots#phdthesis
+2013-08-12 18:43:30 -0700#5e197a8#forgot to add thesis.bib#phdthesis
+2013-08-12 18:43:05 -0700#0a81d82#cvs2git: finish wordir and end user#phdthesis
+2013-08-12 18:21:12 -0700#6c3bec2#cvs2git: add writeManifest source#phdthesis
+2013-08-12 18:00:53 -0700#b1747c8#cvs2git: add createGerritProjects to sources#phdthesis
+2013-08-12 17:38:28 -0700#411e051#cvs2git: sources in appendix, start end user#phdthesis
+2013-08-12 17:03:12 -0700#575d5d1#cvs2git: start finish-up migration convert#phdthesis
+2013-08-12 16:48:25 -0700#f31132f#cvs2git: finish migration intro and web server#phdthesis
+2013-08-12 15:31:00 -0700#1ffaa3d#cvs2git: write migration intro#phdthesis
+2013-08-12 14:35:17 -0700#1f19359#cvs2git: cleanup instructions#phdthesis
+2013-08-12 13:14:22 -0700#cc03d02#improve bib a little#phdthesis
+2013-08-12 06:25:39 -0700#9aa7637#cvs2git: convert finished, add table#phdthesis
+2013-08-12 05:30:59 -0700#95be813#cvs2git: little cleanup#phdthesis
+2013-08-12 04:22:39 -0700#d6f1278#cvs2git: improving conversion#phdthesis
+2013-08-12 03:31:57 -0700#a6f7ff5#cvs2git: gerrit + cgit is working#phdthesis
+2013-08-12 02:26:02 -0700#5187a82#cvs2git: working on migration#phdthesis
+2013-08-12 01:39:54 -0700#1a24d48#cvs2git: start migration instructions#phdthesis
+2013-08-11 20:25:08 -0700#5f4d72d#cvs2git: finish requirements section#phdthesis
+2013-08-11 18:47:30 -0700#3696546#cvs2git: finish browser#phdthesis
+2013-08-11 18:09:57 -0700#5d8664b#cv2git: finish trial deployment requirements#phdthesis
+2013-08-11 17:21:44 -0700#6f3eb05#cvs2git: STAR workflow requirements done#phdthesis
+2013-08-11 16:26:21 -0700#c3322d7#cvs2git: footnotes -> cites#phdthesis
+2013-08-11 16:03:28 -0700#8bfad67#Makefile: change bib style#phdthesis
+2013-08-11 15:52:58 -0700#62c22ac#appendix/numbered: fix bib#phdthesis
+2013-08-11 03:34:20 -0700#a7f2135#cvs2git: improve section titles#phdthesis
+2013-08-11 02:54:31 -0700#b3fea42#cvs2git: improve paragraphs#phdthesis
+2013-08-11 01:26:24 -0700#aa9ead1#cvs2git: intro done, solution almost#phdthesis
+2013-08-11 00:16:16 -0700#3dca081#cvs2git: working on proposal#phdthesis
+2013-08-10 23:02:40 -0700#728a9fc#review stv0tofcorr text#phdthesis
+2013-08-10 22:19:51 -0700#db63a5f#cvs2git: improve structure#phdthesis
+2013-08-10 21:28:43 -0700#c698ac4#cvs2git: intro formulated#phdthesis
+2013-08-10 18:55:06 -0700#ad8324c#cvs2git: write intro#phdthesis
+2013-08-10 16:04:56 -0700#cd0d479#source code move to appendix, add appendix/, STAR Modules chapter done#phdthesis
+2013-08-10 03:37:22 -0700#67146df#wp-pdf: add announcement#phdthesis
+2013-08-10 03:26:07 -0700#55eb666#add software/public/wp-pdf#phdthesis
+2013-08-10 03:10:41 -0700#30b1e1d#cvs2git: fix missing subtitle#phdthesis
+2013-08-10 03:09:59 -0700#e799ac3#add software/public/rmrg.txt#phdthesis
+2013-08-10 02:48:30 -0700#f68f3ad#cvs2git: cleaning ...#phdthesis
+2013-08-10 01:08:53 -0700#7f3a7f6#cvs2git: add 12-Nov-10 email#phdthesis
+2013-08-10 01:00:15 -0700#83410a7#cvs2git: adding content#phdthesis
+2013-08-09 23:53:26 -0700#c211cda#finish strunideventsdb#phdthesis
+2013-08-09 23:52:53 -0700#a86c53a#add physics/part_title#phdthesis
+2013-08-09 22:06:35 -0700#0736d57#add software/part_summary.txt#phdthesis
+2013-08-09 22:05:15 -0700#04eb575#finish stbadrdosdb#phdthesis
+2013-08-09 17:32:21 -0700#c958a69#stbadrdosdb: fix database files#phdthesis
+2013-08-09 17:27:44 -0700#c61e276#stbadrdosdb: add code and databases#phdthesis
+2013-08-09 17:25:10 -0700#61d3665#stv0tofcorr: fix typo#phdthesis
+2013-08-09 16:55:39 -0700#1b6212b#Makefile: activate images link check#phdthesis
+2013-08-09 16:53:18 -0700#ac443a6#split service into software/, add physics/#phdthesis
+2013-08-05 16:28:27 -0700#8a16290#downloads: add thesis-v002.pdf/txt#phdthesis
+2013-08-05 16:26:27 -0700#2ff71f6#safety backup#phdthesis
+2013-08-05 16:24:50 -0700#1c5b526#vuvlamp: add DPG11 poster#phdthesis
+2013-08-05 16:16:43 -0700#e502e19#all content from talks included#phdthesis
+2013-08-03 15:55:05 -0700#472275b#ana: add all content until 12-05-03_EmbRequ62GeV#phdthesis
+2013-08-03 14:30:28 -0700#42ab4d6#ana/results: add plots from 12-02-24_DielectronMeeting#phdthesis
+2013-08-03 14:17:51 -0700#e4eaad3#service: add content to all projects#phdthesis
+2013-08-02 20:09:30 -0700#24b9cc0#start adding content from talks#phdthesis
+2013-08-02 18:54:08 -0700#8f186a1#sim: add ISR ppSpectra from doxygen docs#phdthesis
+2013-08-02 18:18:39 -0700#f256c71#downloads: add thesis-v001.pdf/txt#phdthesis
+2013-08-02 18:15:14 -0700#213742d#downloads: add thesis-v000.pdf/txt#phdthesis
+2013-08-02 18:04:45 -0700#f01b461#updated downloads.blogpost after reinit#phdthesis
+2013-08-02 18:03:04 -0700#43a573a#README: add make targets + NOTE#phdthesis
+2013-08-02 18:03:04 -0700#c7e57ea#safety backup#phdthesis
+2013-08-02 18:03:04 -0700#e35a920#add sections for software stuff#phdthesis
+2013-08-02 18:03:04 -0700#796dd7f#results: add ana page content#phdthesis
+2013-08-02 18:03:04 -0700#abfd67e#ana: add QA on the data comment#phdthesis
+2013-08-02 18:03:04 -0700#eb5760a#ana: add effcorr from ana page#phdthesis
+2013-08-02 18:03:04 -0700#c0aa485#thesis: backup#phdthesis
+2013-08-02 18:03:04 -0700#6095d67#further improve image sizes#phdthesis
+2013-08-02 18:03:04 -0700#a53bfdb#gitignore: thesis-ref.*#phdthesis
+2013-08-02 18:03:04 -0700#1274a26#change image urls due to reduce image sizes#phdthesis
+2013-08-02 18:03:04 -0700#53f5a8e#ana: fix EvtPlaneEqs, dset table xref#phdthesis
+2013-08-02 18:03:04 -0700#28b3927#gitignore: add images#phdthesis
+2013-08-02 18:03:03 -0700#067f4b1#xsl: bib/dedic numbered#phdthesis
+2013-08-02 18:03:03 -0700#0320912#preamb: remove colophon#phdthesis
+2013-08-02 18:03:03 -0700#3a6a401#service: add examples#phdthesis
+2013-08-02 18:03:03 -0700#6fc82c8#improve table styles#phdthesis
+2013-08-02 18:03:03 -0700#86d12f7#service: finish text part formatting of StV0TofCorr, examples todo#phdthesis
+2013-08-02 18:03:03 -0700#77281cf#appendices: extend Appendix part#phdthesis
+2013-08-02 18:03:03 -0700#e7275e3#ana: start improving eqs via open blocks#phdthesis
+2013-08-02 18:03:03 -0700#153cc34#intro: change part title#phdthesis
+2013-08-02 18:03:03 -0700#1b1a662#general layout reformatting#phdthesis
+2013-08-02 18:03:03 -0700#b995ae5#add service part#phdthesis
+2013-08-02 18:03:03 -0700#f049eec#ana: finish formatting pt-integ/diff bg-sub#phdthesis
+2013-08-02 18:03:03 -0700#102b5a8#Makefile: comment about -d option#phdthesis
+2013-08-02 18:03:03 -0700#610e6f5#add README#phdthesis
+2013-08-02 18:03:03 -0700#cf416e5#ana: finish format pairrec#phdthesis
+2013-08-02 18:03:03 -0700#e081fae#ana: finish pairrec format#phdthesis
+2013-08-02 18:03:03 -0700#496d423#ana: add pairrec, start format#phdthesis
+2013-08-02 18:03:02 -0700#a2d6463#quick improve's from Nu#phdthesis
+2013-08-02 18:03:02 -0700#acfca77#ana: finish formatting of ana page pid#phdthesis
+2013-08-02 18:03:02 -0700#0b769dd#Makefile: fix LASTTAG#phdthesis
+2013-08-02 18:03:02 -0700#6c62a0a#ana: add and start formatting ana page content#phdthesis
+2013-08-02 18:03:02 -0700#0118057#Makefile: add date to downloads#phdthesis
+2013-08-02 18:03:02 -0700#7aafca7#sim: add ana page rho spectral#phdthesis
+2013-08-02 18:03:02 -0700#ea18b71#prepare for Nu#phdthesis
+2013-08-02 18:03:02 -0700#4084e73#sim/results: improve formatting#phdthesis
+2013-08-02 18:03:02 -0700#60261b0#sim: add ana page cocktail sim#phdthesis
+2013-08-02 18:03:02 -0700#77186c4#intro: add content from ana page#phdthesis
+2013-08-02 18:03:02 -0700#f56669a#results: add Nu suggestion#phdthesis
+2013-08-02 18:03:02 -0700#0dfe948#safety backup#phdthesis
+2013-08-02 18:03:02 -0700#fcf11d6#ana: start dataset part#phdthesis
+2013-08-02 18:03:02 -0700#c152f21#setup: add MuDST note, vim syntax#phdthesis
+2013-08-02 18:03:02 -0700#863e41d#Makefile: add backup target#phdthesis
+2013-08-02 18:03:02 -0700#6674c70#safety backup#phdthesis
+2013-08-02 18:03:01 -0700#6b18b4f#more details for outline#phdthesis
+2013-08-02 18:03:01 -0700#a00be0f#setup: add details#phdthesis
+2013-08-02 18:02:53 -0700#a6ac8e1#downloads: h3, git repo link#phdthesis
+2013-08-02 17:58:10 -0700#babcd76#Makefile: add %.txt target#phdthesis
+2013-05-06 21:55:03 -0700#4bd9a93#Makefile: echo -n doesnt work#phdthesis
+2013-05-06 21:53:00 -0700#ba37b88#Makefile: separate links by comma, bug in blogpost#phdthesis
+2013-05-06 20:20:22 -0700#b844ee8#Makefile: fix tag target, needs review#phdthesis
+2013-05-06 20:19:47 -0700#11812a8#gitignore: hp content#phdthesis
+2013-05-06 19:53:14 -0700#2482cbd#Makefile: add commit after upload#phdthesis
+2013-05-06 19:50:17 -0700#d339801#add downloads for blogpost#phdthesis
+2013-05-06 19:49:00 -0700#91b36bc#Makefile: tag target#phdthesis
+2013-05-06 19:48:33 -0700#26cf0da#gitignore: blogpost, pdfs#phdthesis
+2013-05-06 18:53:43 -0700#65e5d85#Makefile: cat list, revnr#phdthesis
+2013-05-06 18:51:34 -0700#88c0368#mod thesis.xsl#phdthesis
+2013-05-06 18:51:20 -0700#2164cd6#update txt's#phdthesis
+2013-05-06 18:50:51 -0700#2fdbdc4#add thesis.bib#phdthesis
+2013-05-06 16:28:31 -0700#dfe4384#Makefile: fix clean#phdthesis
+2013-05-06 16:28:20 -0700#843ca35#setup.txt: STAR, RHIC#phdthesis
+2013-05-06 16:00:04 -0700#1312720#add thesis.xsl#phdthesis
+2013-05-06 14:54:17 -0700#9135cd1#no a2x, split by chapters, db2latex style#phdthesis
+2013-05-06 11:50:41 -0700#b1f5ee5#Makefile: empty LINKLIST#phdthesis
+2013-05-06 11:50:20 -0700#e08e16d#add gitignore#phdthesis
+2013-05-06 11:47:18 -0700#fc11017#initial commit#phdthesis

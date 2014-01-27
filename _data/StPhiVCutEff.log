@@ -1,0 +1,37 @@
+2013-06-17 02:34:50 -0700#f7da8bb#eff.C: 2x2 canvas, rebinning#StPhiVCutEff
+2013-06-17 02:34:50 -0700#fcc12cf#update gitignore#StPhiVCutEff
+2013-06-17 02:04:19 -0700#0df105b#udpate .gitignore#StPhiVCutEff
+2013-06-17 02:03:35 -0700#f132dc2#add auau200_pi0emb.list#StPhiVCutEff
+2013-06-11 13:00:18 -0700#acde871#move StPhiVEffCut constructor to source#StPhiVCutEff
+2013-06-10 23:20:30 -0700#7bd0703#StPhiVCutEff: better dalitz binning#StPhiVCutEff
+2013-06-10 17:33:53 -0700#21c9ba6#eff.C: compare to Jie#StPhiVCutEff
+2013-06-10 16:21:02 -0700#506731b#readMinimc: add MyCollection lib load#StPhiVCutEff
+2013-06-10 16:17:52 -0700#fb49e5a#eff.C: normalize hDal#StPhiVCutEff
+2013-06-10 16:12:00 -0700#5a46768#StPhiVCutEff: improve dalitz binning#StPhiVCutEff
+2013-06-10 15:22:29 -0700#0993f83#StPhiVCutEff.h: variable binning for Dalitz#StPhiVCutEff
+2013-06-10 14:53:17 -0700#d260ce2#eff.C: improve lines#StPhiVCutEff
+2013-06-10 14:46:26 -0700#1897c3b#eff.C: plot eff, improve pic#StPhiVCutEff
+2013-06-10 14:04:04 -0700#021095b#readMinimc: make 150k evts default#StPhiVCutEff
+2013-06-10 12:33:47 -0700#cc4adf2#change phiV range#StPhiVCutEff
+2013-06-10 12:26:17 -0700#cbd3174#eff.C: add effCalc, hDalitz#StPhiVCutEff
+2013-06-10 12:11:40 -0700#e858c31#eff.C: phiV cut ok for conversion at 39GeV#StPhiVCutEff
+2013-06-09 16:46:31 -0700#cb0d6f3#switch histo axes#StPhiVCutEff
+2013-06-09 16:00:58 -0700#881d376#add histo for dalitz decays#StPhiVCutEff
+2013-06-07 16:58:29 -0700#2ff8956#eff: try weights#StPhiVCutEff
+2013-06-07 15:21:46 -0700#1fdba6e#eff.C: work on conversion cut#StPhiVCutEff
+2013-06-07 14:23:25 -0700#0a8da7b#eff.C: do conversion projections and eff#StPhiVCutEff
+2013-06-07 13:54:29 -0700#0590816#readMiniMc: add comment#StPhiVCutEff
+2013-06-07 13:53:44 -0700#6111666#add eff.C#StPhiVCutEff
+2013-06-07 13:43:21 -0700#db113bd#readMiniMc: update comments#StPhiVCutEff
+2013-06-06 17:29:52 -0700#8e1cb4e#play w SetBranchStatus, fix SetAddress#StPhiVCutEff
+2013-06-06 17:28:07 -0700#e136402#update mhPhiVMee range and axes#StPhiVCutEff
+2013-06-06 02:10:34 -0400#20ab42d#switch to reconstructed primary momentum#StPhiVCutEff
+2013-06-06 01:55:26 -0400#77fd5ed#update auau62_pi0emb.list#StPhiVCutEff
+2013-06-06 01:54:12 -0400#ade2a5d#add gitignore#StPhiVCutEff
+2013-06-05 22:51:02 -0700#7aab915#switch to StPhiVCutEff#StPhiVCutEff
+2013-06-05 22:50:49 -0700#273b8e5#add StPhiVCutEff source#StPhiVCutEff
+2013-06-05 20:17:32 -0700#d54445e#add calcPhiV function#StPhiVCutEff
+2013-06-05 18:20:27 -0700#35a6f09#switch to StContamPair for conversion#StPhiVCutEff
+2013-06-05 17:03:04 -0700#e925a24#McTracks, StTinyMcTrack#StPhiVCutEff
+2013-06-05 19:43:29 -0400#165b1a8#add lists#StPhiVCutEff
+2013-06-05 15:33:15 -0700#68f73fc#initial commit#StPhiVCutEff

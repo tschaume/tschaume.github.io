@@ -1,0 +1,27 @@
+2014-01-23 22:53:53 -0800#f0a5565#update +medium* with dx#dielectron_data_public
+2014-01-23 22:46:59 -0800#1999b4f#save dx not binwidths#dielectron_data_public
+2014-01-23 18:17:27 -0800#79e527a#fix data19.dat last line#dielectron_data_public
+2014-01-23 17:25:34 -0800#87c99f6#fix binwidths#dielectron_data_public
+2014-01-23 16:27:32 -0800#5bcc8cc#update binwidths for data 39 GeV#dielectron_data_public
+2014-01-23 16:26:24 -0800#40cadeb#update binwidths (dx)#dielectron_data_public
+2014-01-23 16:24:36 -0800#5ae5095#add update_binwidth.py#dielectron_data_public
+2014-01-23 16:19:12 -0800#8062b62#add binwidth calc to README#dielectron_data_public
+2014-01-23 15:18:45 -0800#036526b#add gp_rdiff input QM12#dielectron_data_public
+2014-01-23 12:48:55 -0800#ae1b202#add README#dielectron_data_public
+2014-01-21 22:57:11 -0800#a61c649#fix cocktail200 errors#dielectron_data_public
+2014-01-21 22:25:24 -0800#83d3288#add syserr to cocktails#dielectron_data_public
+2014-01-21 21:26:29 -0800#d7a87a6#add gp_stack cocktail symlinks#dielectron_data_public
+2014-01-21 21:25:09 -0800#d3a60c3#add cocktail39.dat#dielectron_data_public
+2014-01-21 21:23:14 -0800#593900c#extend gp_panel cocktails to 3.5 GeV#dielectron_data_public
+2014-01-21 19:03:08 -0800#a8b0e1d#prepare input data for gp_stack#dielectron_data_public
+2014-01-21 04:36:25 -0800#8386e3e#update input/output dir structure#dielectron_data_public
+2014-01-20 04:20:51 -0800#2a9101a#add panelQM12 output files#dielectron_data_public
+2014-01-20 02:26:21 -0800#d3a42e7#gp_panel: update data input, add cocktail/medium up to 1.1 GeV/c2#dielectron_data_public
+2014-01-19 19:37:37 -0800#6c70261#add gp_panel QM12 input data#dielectron_data_public
+2014-01-19 16:24:11 -0800#b090b29#update example graphs#dielectron_data_public
+2014-01-18 22:21:04 -0800#c06cd2b#rm bars small default#dielectron_data_public
+2014-01-18 04:21:38 -0800#4db0d2a#update xfac plots#dielectron_data_public
+2014-01-17 23:43:01 -0800#41c9ac5#update xfac data to new format#dielectron_data_public
+2014-01-13 18:54:11 -0800#f0a2709#add STAR prelim to xfac figures#dielectron_data_public
+2014-01-13 18:15:14 -0800#03a1012#add input/output for gp_xfac#dielectron_data_public
+2014-01-08 19:50:25 -0800#eca0ba5#add examplesDir#dielectron_data_public

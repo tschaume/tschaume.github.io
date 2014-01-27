@@ -1,0 +1,94 @@
+2013-04-26 10:36:59 -0700#55c3367#ratios.C: update Y ranges#BesCocktail
+2013-04-26 01:25:02 -0700#347f91c#add bingchu's getYieldFromPars.C#BesCocktail
+2013-04-26 00:54:24 -0700#a14762a#ratios.C: update 19GeV Y-Ranges#BesCocktail
+2013-04-26 00:53:56 -0700#8cca2ef#Simulation: use Tsallis at 200#BesCocktail
+2013-04-26 00:29:38 -0700#a5e6ba8#Simulation: fPt Npx#BesCocktail
+2013-04-26 00:28:31 -0700#b96e5b8#Functions: use GSLIntegrator#BesCocktail
+2013-04-26 00:17:43 -0700#d84ade8#tsa: make compilable#BesCocktail
+2013-04-25 17:50:12 -0700#7a65b3d#add tsa.cc#BesCocktail
+2013-04-25 17:49:53 -0700#7e90959#Functions: add Functions(double*) constructor#BesCocktail
+2013-04-25 17:49:27 -0700#43ea3f8#Functions: tsallis pars init order#BesCocktail
+2013-04-25 14:17:04 -0700#a48f56e#Functions: get Tsallis pars from db#BesCocktail
+2013-04-25 14:16:46 -0700#05107c9#Database: add Tsallis pars#BesCocktail
+2013-04-24 20:41:56 -0700#6434ced#Functions: Gaus-Legendre, Simulation: hPt#BesCocktail
+2013-04-24 16:32:56 -0700#dbb5a48#Functions: implement Tsallis Fit#BesCocktail
+2013-04-24 16:32:56 -0700#c58bd24#Simulation: use GetHistogram for GetRandom#BesCocktail
+2013-04-24 16:15:02 -0700#3c18cd6#Simulation: fix fRes->SetNpx bug#BesCocktail
+2013-04-23 21:52:03 -0700#b4b84a5#ratios.C: add 19GeV comparison#BesCocktail
+2013-04-19 00:09:20 -0700#b1ae021#switch to hPtCorr input 200 GeV#BesCocktail
+2013-04-18 19:20:18 -0700#09ff268#update ratios.C#BesCocktail
+2013-04-18 19:20:02 -0700#f5346ab#Simulation: implement preliminary 200 GeV tsallis comparison#BesCocktail
+2013-04-18 16:44:52 -0700#7906585#Database: make Hgd key 'pion_200' default#BesCocktail
+2013-04-18 15:30:08 -0700#28caac2#Simulation: add fRapJpsi for gaussian rapidity#BesCocktail
+2013-04-17 17:23:56 -0700#c7e519b#ratios.C: qm11 flag, total comparison#BesCocktail
+2013-04-17 16:37:26 -0700#d6ea768#cbes: fix missing eeRap#BesCocktail
+2013-04-15 17:56:32 -0700#45cfe03#Analysis: remove mRapPairCut from scale#BesCocktail
+2013-04-15 17:53:18 -0700#cb7a64d#ratios: divide by QM2011(Xin)#BesCocktail
+2013-04-15 17:41:42 -0700#6918046#add eePtR to output tree#BesCocktail
+2013-04-15 17:41:02 -0700#10d34e6#Functions: fix MtScaling#BesCocktail
+2013-04-14 23:05:41 -0700#4c86d98#Analysis: remove fill color#BesCocktail
+2013-04-14 23:05:24 -0700#0981d92#ratios.C: update with latest cocktail#BesCocktail
+2013-04-12 18:08:25 -0700#f9e128d#macros: add ratios.C#BesCocktail
+2013-04-12 17:42:57 -0700#d1499e7#add Utils::nBins/mMax#BesCocktail
+2013-04-12 17:01:33 -0700#187aacf#Functions: new F2 implementation, g02#BesCocktail
+2013-04-12 17:01:07 -0700#3484f0c#move mMin to Utils, etap/pion colors#BesCocktail
+2013-04-12 16:59:33 -0700#e3b9d6d#Database: getDecayMass return 0 by default#BesCocktail
+2013-04-11 16:45:23 -0700#36c504d#add README#BesCocktail
+2013-04-11 16:27:53 -0700#615e497#add charm continuum contribution#BesCocktail
+2013-04-11 12:36:38 -0700#f323b97#Analysis: draw Cocktail#BesCocktail
+2013-04-11 12:36:14 -0700#82d7a31#Utils: mColorMap#BesCocktail
+2013-04-11 11:58:01 -0700#a396def#Analysis: getTree(), scale(), getdNdy()#BesCocktail
+2013-04-11 11:39:04 -0700#ff4435a#Database: small cout change#BesCocktail
+2013-04-10 18:11:07 -0700#9ad2ee4#new/easier Db format, add dndy#BesCocktail
+2013-04-10 14:57:04 -0700#02b982e#remove DbHeader, getHdrVar()#BesCocktail
+2013-04-10 14:27:10 -0700#689cf8c#replace mbr in db, implement getProperty()#BesCocktail
+2013-04-10 14:02:27 -0700#d421520#Database: implement mpr for easier db, remove test#BesCocktail
+2013-04-10 11:54:32 -0700#28ec660#Analysis: make mhMee local#BesCocktail
+2013-04-10 11:51:00 -0700#2e498a1#Analysis: implement cuts#BesCocktail
+2013-04-10 11:44:38 -0700#1522e24#CmdLine: insert endl in print()#BesCocktail
+2013-04-10 11:44:10 -0700#932b8cd#Simulation: fix dhPt value for not-isDhKin#BesCocktail
+2013-04-10 11:41:21 -0700#534e510#cbes: fix typo in vars string#BesCocktail
+2013-04-10 10:44:30 -0700#bec6ca3#add cut variables, pushNtVars()#BesCocktail
+2013-04-09 18:07:53 -0700#5b843fa#Analysis: add genCocktail()#BesCocktail
+2013-04-09 17:44:06 -0700#dbccc56#CmdLine: add loop option#BesCocktail
+2013-04-09 17:35:31 -0700#72b775a#Analysis: loop ntuple and write histos#BesCocktail
+2013-04-09 17:25:25 -0700#593a53e#Utils: div in printInfo#BesCocktail
+2013-04-09 17:07:21 -0700#1d9bcd7#Analysis: start loop()#BesCocktail
+2013-04-09 17:06:12 -0700#0ac3e38#Utils: update getOutFileName()#BesCocktail
+2013-04-09 16:32:26 -0700#3c31c24#cbes: implement ana mode#BesCocktail
+2013-04-09 16:32:05 -0700#3ad3712#add Analysis class#BesCocktail
+2013-04-09 13:59:45 -0700#c7e7e9f#CmdLine: print db when verbose only#BesCocktail
+2013-04-09 13:53:04 -0700#064a61b#Simulation: cleanup, add eeMass(R)#BesCocktail
+2013-04-09 13:39:10 -0700#e8064d4#Simulation: implement decay mode 11#BesCocktail
+2013-04-09 13:38:44 -0700#0a3b037#Database: implement mbr vector. getRatioBR()#BesCocktail
+2013-04-09 13:37:47 -0700#92d938c#Functions: fix KrollWada (missing 2*q)#BesCocktail
+2013-04-09 12:39:53 -0700#b1a7061#cbes: rename vars#BesCocktail
+2013-04-09 12:39:41 -0700#380db76#Simulation: add dalitz boost#BesCocktail
+2013-04-09 11:12:06 -0700#c3c5479#Simulation: add twoBodyKinematics & hDecayVM#BesCocktail
+2013-04-09 10:28:51 -0700#87923a1#Simulation: fix fM/fKW max mass, start Dalitz#BesCocktail
+2013-04-09 10:26:47 -0700#ad46a00#Functions: getDecayMass, arg rename#BesCocktail
+2013-04-09 10:25:24 -0700#2ee32fc#Database: getAlpha, getWidth, getMaxMassBW#BesCocktail
+2013-04-08 18:27:41 -0700#332cd93#Simulation: replace lvIn#BesCocktail
+2013-04-08 18:10:11 -0700#bb68158#Simulation: reset 2body mass, eeDecayVM#BesCocktail
+2013-04-08 17:22:46 -0700#aaa66c3#Simulation: add flatPt, add invMass#BesCocktail
+2013-04-04 23:37:11 -0700#2a6f49c#Simulation: rndm, decay(), decay modes#BesCocktail
+2013-04-04 23:35:47 -0700#d5c0239#Database: add decay mode#BesCocktail
+2013-04-04 21:18:04 -0700#ef404c3#Functions: add KrollWada#BesCocktail
+2013-04-04 21:16:39 -0700#1baf64f#Database: add l2#BesCocktail
+2013-04-04 20:48:44 -0700#7e533d4#Functions: add PhiOmPS & PS, fix QED#BesCocktail
+2013-03-23 20:50:56 -0400#b210862#Functions: dbm call in constructor only#BesCocktail
+2013-03-23 20:32:06 -0400#895daaf#add Function::QED#BesCocktail
+2013-03-23 19:59:08 -0400#550db68#add Simulation class, clean Utils#BesCocktail
+2013-03-23 17:45:13 -0400#9a5faee#add ep/em momenta to ntuple#BesCocktail
+2013-03-21 00:35:58 -0400#0860d17#add momentum smearing#BesCocktail
+2013-03-20 19:39:45 -0400#eb5c2db#add twoBodyDecay, add width to db#BesCocktail
+2013-03-19 20:19:43 -0700#fec61bf#implement random eta/phi, add Utils#BesCocktail
+2013-03-18 16:12:52 -0700#a4fcc77#cbes: output in ntuple#BesCocktail
+2013-03-18 15:53:50 -0700#c5b126b#remove Utils#BesCocktail
+2013-03-18 15:52:00 -0700#19db706#remove Constants#BesCocktail
+2013-03-18 15:39:11 -0700#242a936#switch to DatabaseManager/YAML#BesCocktail
+2013-03-16 23:26:44 -0700#d000c0e#implement DatabaseManager#BesCocktail
+2013-03-16 15:56:45 -0700#8f322c9#add testDb & Database#BesCocktail
+2013-03-13 18:49:17 -0700#5b02fa4#implement input Pt function#BesCocktail
+2013-03-13 14:21:21 -0700#ced520c#add Constants & Utils#BesCocktail
+2013-03-13 13:16:04 -0700#16ad8dd#initial commit#BesCocktail

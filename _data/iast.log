@@ -1,0 +1,60 @@
+2012-09-29 06:33:22 -0700#7da3203#finalized plotSelUp 2D plot#iast
+2012-09-29 06:32:55 -0700#d76f507#paraE.dat updated#iast
+2012-09-28 01:32:36 -0700#86b0a91#projections in plotSelUp.sh#iast
+2012-09-27 05:14:15 -0700#3b5db92#updated plotSelUp.sh for Color2D plot#iast
+2012-09-27 05:13:56 -0700#f172e0b#added paraE.dat file for Color2D plot#iast
+2012-09-27 04:23:47 -0700#d8effd4#maxcols in plot.sh#iast
+2012-09-27 04:23:26 -0700#f08dcf1#renamed structure PPN6CH2DETA to PPN6DETA#iast
+2012-09-27 04:02:19 -0700#077c44a#suffix argument to plot.sh#iast
+2012-09-27 04:01:53 -0700#3164a94#updated dat files#iast
+2012-09-27 04:01:37 -0700#b5c019b#small pressures update#iast
+2012-09-27 03:25:06 -0700#90a7d56#1k/3kPa in default set#iast
+2012-09-27 03:24:44 -0700#46c4bcd#added 1k/3kPa points#iast
+2012-09-27 02:48:03 -0700#28ec7c8#add plotSelUp.sh for SelVsUp 2D plot#iast
+2012-09-27 02:45:15 -0700#a73c0ce#new dat files w/ additional structures after A(Pa/kPa)-bugfix#iast
+2012-09-27 02:44:25 -0700#636f592#new default T/P set#iast
+2012-09-27 02:44:04 -0700#63e7c5c#updated all structures with correct A (to give Pa not kPa) and included in config#iast
+2012-09-27 02:43:01 -0700#9f7fe19#removed conversion of kH to Pa, change A in config file to give Pa not kPagit status#iast
+2012-09-27 00:04:13 -0700#529b91e#default/optional structure list & T/P values#iast
+2012-09-26 23:26:10 -0700#26552a5#default T/P-lists, stdout&stderr to logfile#iast
+2012-09-26 23:24:06 -0700#5e4cc26#new dat files according to new config file#iast
+2012-09-26 23:23:24 -0700#4e6d7fd#config updated using config.bak#iast
+2012-09-26 23:22:38 -0700#3bb6eda#added config.bak for backup of unconsidered structures#iast
+2012-09-26 23:11:38 -0700#c27927a#uncommented ps2pdf conversion in iast.cc#iast
+2012-09-26 21:40:05 -0700#20e9385#included all structures in config#iast
+2012-09-26 21:33:01 -0700#b9f7844#updated plot.sh for all P,T,Sel,Up combinations#iast
+2012-09-26 13:39:10 -0700#c92de10#added GNUPLOT_PS_DIR export to plot.sh#iast
+2012-09-26 13:35:19 -0700#6ee9d2b#genSelDat: generate full structure list from config#iast
+2012-09-26 13:30:43 -0700#abff7ef#added SelVsP plot script#iast
+2012-09-26 12:39:56 -0700#2821c85#datfiles of CuBTC & MgMOF74 including uptake#iast
+2012-09-26 12:39:23 -0700#e86d582#fixed genSelDat.sh after rename of outdir#iast
+2012-09-26 12:32:54 -0700#f3df0da#renamed output dir to dat#iast
+2012-09-26 12:31:44 -0700#95acbd3#printing uptake to output dat file in genSelDat.sh#iast
+2012-09-26 12:31:26 -0700#8cfb849#added uptake calculation to iast.cc#iast
+2012-09-26 12:23:40 -0700#d22cf7e#compile check in genSelDat.sh#iast
+2012-09-26 12:05:18 -0700#b40ca40#use ./iast in genSelDat.sh#iast
+2012-09-26 11:56:13 -0700#5082b7a#added output dat files for CuBTC and MgMOF74#iast
+2012-09-26 11:55:40 -0700#3dda1c9#updated gitignore to ignore log output#iast
+2012-09-26 11:55:17 -0700#66ad885#prepared genSelDat.sh to generate data files#iast
+2012-09-26 11:54:20 -0700#d2144b4#added curTemp output to iast.cc#iast
+2012-09-19 23:04:40 -0700#f472f28#started genSelDat.sh script#iast
+2012-09-19 22:53:32 -0700#7612be2#ymax set via fIsotherm, x1 limits extended#iast
+2012-09-19 22:27:13 -0700#2b86bd8#added MgMOF74 to config file#iast
+2012-09-19 21:24:41 -0700#be1ba5b#cout and README for selectivity plot#iast
+2012-09-17 00:15:57 -0700#6597d1a#minor changes, some testing (10bar works?)#iast
+2012-09-16 23:49:42 -0700#697061f#implemented Root Finder for x1 search using GSL#iast
+2012-09-16 21:53:18 -0700#1f19950#gnuplot check, boost, integration, selectivity#iast
+2012-09-16 18:29:58 -0700#8baef88#merged hcSet into ParCont, removed previous calcIntLimit (initLoad)#iast
+2012-09-16 18:16:31 -0700#9971817#inplemented isotherm integration via GSL#iast
+2012-09-16 01:05:24 -0700#63ae49d#added Makefile for linking with GSL#iast
+2012-09-16 01:05:06 -0700#dc3a762#using double's only & tested GSL library#iast
+2012-09-15 19:30:06 -0700#4cafb16#implemented calculation of integration limits P1/P2#iast
+2012-09-15 17:11:56 -0700#c0e30df#fIsotherm function implemented#iast
+2012-09-15 16:50:42 -0700#8de3ec9#removed printMsg()#iast
+2012-09-15 16:48:01 -0700#6c1ce98#reading CO2 & N2, no mol argument needed anymore#iast
+2012-09-15 16:32:17 -0700#9004330#fixed kH unit & format into README#iast
+2012-09-15 16:00:29 -0700#2e12600#added HenryCoeff calculations#iast
+2012-09-15 15:22:35 -0700#55a2a73#iast.cc reads config file and sets variables acc. to arguments#iast
+2012-09-15 15:21:45 -0700#639ae7e#added config file#iast
+2012-09-15 13:20:45 -0700#bba1437#added gitignore#iast
+2012-09-15 13:20:12 -0700#122d42e#initial commit - hello world#iast

@@ -1,0 +1,18 @@
+2014-01-27 01:07:40 -0800#15b3b82#add omer code#cleanweb
+2013-04-28 13:21:00 -0700#343c845#badge in subscription index#cleanweb
+2013-04-28 13:08:22 -0700#ea74303#update logo#cleanweb
+2013-04-28 13:07:41 -0700#8a761de#WIP on master: f072de7 fix points, add A2yush seed#cleanweb
+2013-04-28 13:07:41 -0700#a93a1ff#index on master: f072de7 fix points, add A2yush seed#cleanweb
+2013-04-28 13:07:41 -0700#ed5f20a#untracked files on master: f072de7 fix points, add A2yush seed#cleanweb
+2013-04-28 12:57:58 -0700#f072de7#fix points, add A2yush seed#cleanweb
+2013-04-28 12:50:33 -0700#c740bc6#displayonoff, points, seeds#cleanweb
+2013-04-28 12:06:10 -0700#c7b960d#include points, therm_emu edit, seeds#cleanweb
+2013-04-28 04:26:18 -0700#395f944#fix merge, thermostat update working, only alert id not send from button#cleanweb
+2013-04-27 23:25:56 -0700#25e56e2#subscription show, alerts list#cleanweb
+2013-04-27 20:37:16 -0700#a7955d4#add subsciption seeds#cleanweb
+2013-04-27 20:36:32 -0700#53ea00c#update subscriptions index#cleanweb
+2013-04-27 20:35:47 -0700#71ea906#application.html: add subscriptions menu entry#cleanweb
+2013-04-27 19:36:54 -0700#d73aced#update layout, include logo#cleanweb
+2013-04-27 18:58:55 -0700#0892978#reduce ThermEmu routes/views/controllers#cleanweb
+2013-04-27 18:27:14 -0700#cf66759#seeds.rb: create single ThermoEmu#cleanweb
+2013-04-27 18:05:57 -0700#a2a02e9#add Thermostat Emulator Model#cleanweb

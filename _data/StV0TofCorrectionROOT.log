@@ -1,0 +1,14 @@
+2012-06-15 18:52:05 -0700#25f6f5a#Merge 'hotfix/v1.0.1' into develop -- delete TofAB/PathAB#StV0TofCorrectionROOT
+2012-06-15 18:51:34 -0700#8c8529b#Merge 'hotfix/v1.0.1' -- delete TofAB/PathAB#StV0TofCorrectionROOT
+2012-06-15 18:51:23 -0700#782841d#deleting TofAB/PathAB to avoid memory leak#StV0TofCorrectionROOT
+2012-06-15 17:57:29 -0700#c8f8ba5#Merge 'release/v1.0' -- 1st locally compiling version#StV0TofCorrectionROOT
+2012-06-15 17:56:10 -0700#1f7bfd2#using TLorentzVector in StV0TofCorrection#StV0TofCorrectionROOT
+2012-06-15 17:47:44 -0700#b836a72#modified StHelix to be compiled locally#StV0TofCorrectionROOT
+2012-06-15 17:41:02 -0700#8be293d#added StThreeVector needed by StHelix#StV0TofCorrectionROOT
+2012-06-15 17:40:39 -0700#ae9bf46#added St_base/Stiostream.h needed by StThreeVector#StV0TofCorrectionROOT
+2012-06-15 17:25:48 -0700#94eec42#moved & renamed StHelix source code#StV0TofCorrectionROOT
+2012-06-15 17:00:48 -0700#022a578#added TemplateAnalysis v0.4.2#StV0TofCorrectionROOT
+2012-06-15 16:59:53 -0700#ce24f4c#added necessary source code (most of it in Obsolete, yet)#StV0TofCorrectionROOT
+2012-06-14 14:21:43 -0700#b6a4e49#Merge 'release/v0.0' -- CVS version#StV0TofCorrectionROOT
+2012-06-14 14:20:25 -0700#a6c907d#STAR original CVS version#StV0TofCorrectionROOT
+2012-06-14 14:19:49 -0700#f6fc33c#Initial commit#StV0TofCorrectionROOT

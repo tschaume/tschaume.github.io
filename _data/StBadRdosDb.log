@@ -1,0 +1,8 @@
+2013-11-15 11:53:09 -0800#9ecd667#add/update gitignore#StBadRdosDb
+2013-02-02 01:44:19 -0800#50e64d3#add GetFirstId(rr)#StBadRdosDb
+2013-02-01 00:52:36 -0500#c7365a3#regen dbfiles acc to StRunIdEventsDb#StBadRdosDb
+2013-01-24 16:52:46 -0800#7f8fc1d#fix db directory#StBadRdosDb
+2013-01-23 23:41:02 -0800#6059452#replace quote-includes for ROOT headers (2)#StBadRdosDb
+2013-01-23 23:34:03 -0800#80a7b53#replace quote-includes for ROOT headers#StBadRdosDb
+2013-01-16 18:05:13 -0800#6aaaae4#add .gitignore#StBadRdosDb
+2012-12-08 14:35:42 -0500#b6f5e39#StBadRdosDb from StarUtilities v0.4.4#StBadRdosDb

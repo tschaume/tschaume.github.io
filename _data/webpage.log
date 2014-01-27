@@ -1,0 +1,86 @@
+2014-01-13 12:55:26 -0800#d479ab6#update github repos#webpage
+2013-11-05 23:01:15 +0100#2e5ba53#add google profile to about#webpage
+2013-10-25 03:36:12 +0200#ee829ff#fix post title in archive view#webpage
+2013-10-25 03:35:54 +0200#1aa412b#adjust content filenames#webpage
+2013-10-25 03:10:43 +0200#ccdc33b#fix 500 internal error in production#webpage
+2013-10-25 00:27:56 +0200#865fa51#fix urls in posts.txt#webpage
+2013-08-08 15:02:05 -0700#eccc1d3#add disqus#webpage
+2013-07-08 21:21:05 -0700#b821109#fix gittip button#webpage
+2013-07-08 21:18:26 -0700#be23926#add Gittip button#webpage
+2013-05-09 17:49:13 -0700#acf6022#improve about.jpg quality#webpage
+2013-05-09 15:53:44 -0700#d518b12#describe job in about#webpage
+2013-05-09 15:40:51 -0700#64f2ae7#add about.jpg#webpage
+2013-05-04 01:57:35 -0700#449afeb#about.html: add transparent background box for text#webpage
+2013-05-04 01:50:52 -0700#8a2f4ff#improve about, background img, mv social#webpage
+2013-05-04 01:50:09 -0700#e0d60fb#repos.html: remove cleanweb, add rmrg#webpage
+2013-05-03 02:27:06 -0700#0e058e2#update bootstrap.css#webpage
+2013-05-03 02:26:50 -0700#c7ee7f0#tweets.html: 5 tweets only#webpage
+2013-05-03 02:26:28 -0700#9c79a6e#base.html: left sidebar only#webpage
+2013-05-03 02:04:34 -0700#2714ddc#base.html: add speakerdeck/img#webpage
+2013-05-03 02:03:53 -0700#d8170c8#news.html: add handball 2004#webpage
+2013-05-03 02:03:38 -0700#f30f8ed#science.html: add list of talks/presentations#webpage
+2013-05-03 01:01:51 -0700#46956ed#tweets.html: update/customize timeline#webpage
+2013-05-03 00:11:16 -0700#15aa5f7#add conent folder#webpage
+2013-05-02 14:17:09 -0700#0616f9f#science.html: add NSD Newsletter Sep12#webpage
+2013-05-02 11:51:12 -0700#68f9a59#add news/science views#webpage
+2013-05-02 00:55:31 -0700#22774d7#add asciidoc/posts.txt#webpage
+2013-05-02 00:30:23 -0700#755942d#base.html: include name/domain#webpage
+2013-05-02 00:18:49 -0700#11a3939#index.html: change prev/next buttons#webpage
+2013-05-02 00:18:29 -0700#b554ea3#views.py: reverse post order#webpage
+2013-05-02 00:09:05 -0700#9f435c7#db_post.py: comment timestamp update#webpage
+2013-05-01 23:01:55 -0700#19cea24#pip git-play#webpage
+2013-05-01 03:05:21 -0700#788163b#add README#webpage
+2013-05-01 03:02:15 -0700#0aba386#add requirements.txt#webpage
+2013-05-01 02:53:51 -0700#84d7cf5#add app.wsgi#webpage
+2013-04-29 03:29:39 -0700#71140df#base.html: fix active link in navigation#webpage
+2013-04-29 03:14:09 -0700#96fc4f3#add the-huck.com to repos.html#webpage
+2013-04-29 03:09:24 -0700#9737cba#improve archive view#webpage
+2013-04-29 03:04:22 -0700#c5c90d5#add github repos view#webpage
+2013-04-29 03:03:31 -0700#50ba8b0#jquery timeago, showoff#webpage
+2013-04-29 02:28:30 -0700#d005e5d#improve base.html, no navbar#webpage
+2013-04-29 02:27:52 -0700#aa6a17e#add FontAwesome3#webpage
+2013-04-29 00:13:45 -0700#ff47a6a#add Tweets, update fb/twitter buttons#webpage
+2013-04-28 23:39:24 -0700#90c3ac4#base.html: add fb/twitter buttons#webpage
+2013-04-21 00:34:14 -0700#bc91380#base.html: add jump to top link#webpage
+2013-04-20 21:35:07 -0700#4cbe89b#standard css#webpage
+2013-04-20 21:34:54 -0700#ce1fe1e#justify post text#webpage
+2013-04-20 04:17:44 -0700#a87ee64#add linode link#webpage
+2013-04-20 04:12:29 -0700#ab10c2e#include post.html#webpage
+2013-04-20 04:07:56 -0700#1d8cea5#navbar style#webpage
+2013-04-20 03:38:18 -0700#a9e0d1e#play with timestamp#webpage
+2013-04-20 03:29:39 -0700#119aa8a#implement archive#webpage
+2013-04-20 02:56:52 -0700#acc7ffb#add about#webpage
+2013-04-20 02:40:16 -0700#6fe9d68#model: remove post title#webpage
+2013-04-20 02:39:20 -0700#68ecafe#base.html: add nav-header#webpage
+2013-04-20 02:38:37 -0700#ddcd9d5#sidebar 7.5%#webpage
+2013-04-20 02:19:02 -0700#607fa15#base.html: fluid layout, fixed sidebar nav#webpage
+2013-04-20 02:18:34 -0700#aa384fe#new bootstrap & add. css#webpage
+2013-04-20 00:47:36 -0700#4d86699#db_post.py: update timestamp if already posted#webpage
+2013-04-20 00:46:58 -0700#b0a02b9#index.html: ctime#webpage
+2013-04-20 00:46:29 -0700#59f04c3#db migrations 003/004#webpage
+2013-04-20 00:45:51 -0700#32ecb58#models.py: shorten body, ctime#webpage
+2013-04-19 23:57:13 -0700#09f4250#add db_post.py#webpage
+2013-04-19 23:56:30 -0700#a221657#add db_clear.py#webpage
+2013-04-19 23:56:11 -0700#c6efb1a#migrate db 002#webpage
+2013-04-19 23:55:31 -0700#46cc2ed#views.py: remove fake posts#webpage
+2013-04-19 23:55:16 -0700#af48b3e#models.py: unique body#webpage
+2013-04-19 22:28:32 -0700#e7b8cf0#views.py: add asciidoc#webpage
+2013-04-19 22:27:44 -0700#ab991c4#index.html: make post.body safe#webpage
+2013-04-19 22:27:07 -0700#f130d9c#tests.py: add asciidoc test#webpage
+2013-04-19 22:22:46 -0700#d869df4#add asciidocapi#webpage
+2013-04-19 20:26:33 -0700#0108cd7#index.html: blockquote#webpage
+2013-04-19 20:26:22 -0700#fe12731#base.html: nav-pills#webpage
+2013-04-19 18:41:07 -0700#e8bf40a#paginate post-by-post#webpage
+2013-04-19 17:57:00 -0700#669b56a#index: add page-header class#webpage
+2013-04-19 17:23:31 -0700#19c1359#base.html: add navbar#webpage
+2013-04-19 17:17:19 -0700#dbcb6ff#update base.html for bootstrap#webpage
+2013-04-19 17:17:05 -0700#d421095#add bootstrap static files#webpage
+2013-04-19 17:16:43 -0700#ea0bebe#update .gitignore#webpage
+2013-04-19 17:16:05 -0700#960e9af#view.py: clear posts#webpage
+2013-04-19 16:49:55 -0700#0e57b3c#test db in index#webpage
+2013-04-19 16:49:30 -0700#e78f649#add test.py#webpage
+2013-04-19 16:06:50 -0700#8ba933a#use Post model for fake#webpage
+2013-04-19 15:52:21 -0700#622faa0#add models & database scripts#webpage
+2013-04-19 15:27:06 -0700#0d13a91#add config.py#webpage
+2013-04-19 15:11:46 -0700#71dd477#add templates, fake posts#webpage
+2013-04-19 14:46:09 -0700#15c29b6#hello world#webpage

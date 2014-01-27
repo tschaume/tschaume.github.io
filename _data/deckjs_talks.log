@@ -1,0 +1,35 @@
+2014-01-27 00:54:32 -0800#79cd636#Dielectron_Physics_Plots: not scrollable#deckjs_talks
+2014-01-24 16:48:20 -0800#9190008#Dielectron_Physics_Plots: comment out Abstract#deckjs_talks
+2014-01-24 16:42:17 -0800#ffcd2e7#Dielectron_Physics_Plots: add LatestJieYi, one plot per slide#deckjs_talks
+2014-01-24 01:34:55 -0800#fe79b01#Dielectron_Physics_Plots: remove data-uri (dont embed images)#deckjs_talks
+2014-01-24 00:07:55 -0800#2b8058e#update for LatestBingchuJie#deckjs_talks
+2014-01-22 20:19:40 -0800#ab6d171#finish reproduced stackQM12#deckjs_talks
+2014-01-22 15:45:18 -0800#2bc0a44#Dielectron_Physics_Plots: add src links#deckjs_talks
+2014-01-22 15:29:59 -0800#e31543a#finish Dielectron_Physics_Plots#deckjs_talks
+2014-01-22 15:20:45 -0800#6b48aea#Dielectron_Physics_Plots: start on InvMassSpecs#deckjs_talks
+2014-01-22 15:11:22 -0800#253ef6a#Dielectron_Physics_Plots: add panelQM12Incl39#deckjs_talks
+2014-01-22 14:59:43 -0800#40fd78b#Dielectron_Physics_Plots: add panelQM12re#deckjs_talks
+2014-01-22 14:54:45 -0800#a76f609#Dielectron_Physics_Plots: add orginal panel#deckjs_talks
+2014-01-22 14:42:04 -0800#1db113a#finish geninfo in Dielectron_Physics_Plots.txt#deckjs_talks
+2014-01-22 13:45:31 -0800#d87e262#add Dielectron_Physics_Plots.txt#deckjs_talks
+2014-01-17 04:20:20 -0800#272dc4b#prelim version for 14-01-17_LFSMeeting.txt#deckjs_talks
+2014-01-17 04:09:41 -0800#a13eee6#add 14-01-17_LFSMeeting.txt#deckjs_talks
+2014-01-17 04:09:28 -0800#edff3c1#minor fix in 14-01-10_LFSMeeting.txt#deckjs_talks
+2014-01-10 07:25:01 -0800#7a22aa4#add 14-01-10_LFSMeeting.txt#deckjs_talks
+2014-01-07 11:08:35 -0800#f1be2bd#14-01-07_RncGroupMeeting done#deckjs_talks
+2014-01-07 04:52:17 -0800#318854a#14-01-07_RncGroupMeeting: other effs#deckjs_talks
+2014-01-07 04:24:09 -0800#ca4a9ec#14-01-07_RncGroupMeeting: eff Dist/UNcert. ready#deckjs_talks
+2014-01-07 02:14:27 -0800#bc8c8f6#14-1-7_RncGroupMtg: working on EffCorr#deckjs_talks
+2014-01-07 00:14:06 -0800#248f5ec#14-01-07_RncGroupMeeting: finish Emb/samples#deckjs_talks
+2014-01-06 22:59:24 -0800#8f95afc#RncGroupMeeting: cocktail sims done#deckjs_talks
+2014-01-06 22:03:53 -0800#6802f98#working on 14-01-07_RncGroupMeeting#deckjs_talks
+2014-01-06 17:12:40 -0800#f48ab26#datasets_summary.txt#deckjs_talks
+2014-01-06 17:12:10 -0800#89bfc46#RncGroupMeeting: working on Intro#deckjs_talks
+2014-01-06 15:01:48 -0800#870c48e#add 14-01-07_RncGroupMeeting.txt#deckjs_talks
+2013-12-16 10:39:30 -0800#dac2c61#final touch for 13-12-16_MondayMeeting.txt#deckjs_talks
+2013-12-16 07:23:04 -0800#8ed37a5#finish 13-12-16_MondayMeeting.txt#deckjs_talks
+2013-12-15 23:20:30 -0800#64976d8#add symlink for talks output#deckjs_talks
+2013-12-15 23:20:13 -0800#2812038#add Makefile#deckjs_talks
+2013-12-15 22:36:50 -0800#9bc90a0#add talk for 13-12-16 MondayMeeting#deckjs_talks
+2013-12-15 22:36:28 -0800#275e14e#add symlink to images#deckjs_talks
+2013-12-15 22:36:14 -0800#9746373#start with .gitignore#deckjs_talks

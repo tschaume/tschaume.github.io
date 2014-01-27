@@ -1,0 +1,150 @@
+2014-01-27 01:04:09 -0800#d077905#update gitignore#thermostatly
+2013-10-07 16:05:20 +0200#7a322d0#Merge branch 'release/20131007'#thermostatly
+2013-10-07 15:51:24 +0200#f1b7a6e#Merge branch 'feature/patrick' into develop#thermostatly
+2013-10-07 15:48:33 +0200#76393dd#Readme: remove screenshot notes, add demo video link#thermostatly
+2013-10-07 03:54:31 +0200#e2bde9e#demo video, backend working#thermostatly
+2013-10-06 14:35:44 +0200#5466d36#update requirements#thermostatly
+2013-10-06 14:35:11 +0200#2b02100#remove ajax, add tweet to timeline, fix live-tweet bug (Twython 3.1.0)#thermostatly
+2013-10-04 23:01:24 +0200#e911dc9#nest interaction working#thermostatly
+2013-10-04 23:00:03 +0200#af0b12d#add resetNest.sh#thermostatly
+2013-10-04 21:45:13 +0200#07e8c41#manage_user_campaigns: make AddCampaign an operation#thermostatly
+2013-10-04 21:44:40 +0200#42ac62d#ThermostatlyUser: add priority integer field#thermostatly
+2013-10-04 21:33:27 +0200#5ca7b73#models: fix and comment ZipCodeForm#thermostatly
+2013-10-04 20:56:51 +0200#f411cbb#update location/zipcode from Nest, add ZipCodeForm#thermostatly
+2013-10-04 20:28:24 +0200#629d557#real login to Nest, update_nest_status view#thermostatly
+2013-10-04 20:27:45 +0200#791403b#nest: add get_curtemp, get_fan_mode, get_auto_away#thermostatly
+2013-10-04 20:27:12 +0200#7911e90#views: remove twitter_off flag#thermostatly
+2013-08-06 19:40:11 -0700#58b8b72#Merge branch 'release/20130806r1.0'#thermostatly
+2013-08-06 19:37:09 -0700#36ab9bd#Merge branch 'develop' of github:tschaume/thermostatly into develop#thermostatly
+2013-08-06 19:34:06 -0700#7cc39c3#Merge branch 'feature/readme' into develop#thermostatly
+2013-08-06 19:33:56 -0700#32e65d5#add tag message and screenshot#thermostatly
+2013-08-06 19:28:29 -0700#956417f#add screenshot of release 20130806#thermostatly
+2013-08-06 19:12:11 -0700#689b07f#Merge branch 'release/20130806'#thermostatly
+2013-08-06 19:11:41 -0700#72f7759#Merge branch 'feature/flot' into develop#thermostatly
+2013-08-06 19:07:25 -0700#1821562#flot graph displaying caimpaign avtive time#thermostatly
+2013-08-06 17:31:22 -0700#471c810#fix some last bugs#thermostatly
+2013-08-06 15:33:45 -0700#688a6a5#fix my campaign list add/del#thermostatly
+2013-08-06 15:17:37 -0700#ffdd57c#oooofff, running again, but buggy#thermostatly
+2013-08-06 12:00:48 -0700#98d344a#making backup, humongous rewrite, not working yet#thermostatly
+2013-08-05 22:12:49 -0700#7d0e30c#add flot note to README#thermostatly
+2013-08-05 22:12:37 -0700#cd1b8f7#plot basic flot graph#thermostatly
+2013-08-05 22:12:16 -0700#849bfa6#add flot to INSTALLED_APPS for template_tags#thermostatly
+2013-08-05 22:11:21 -0700#92667f4#add flot js#thermostatly
+2013-08-05 20:30:42 -0700#97391fc#add PyFlot to requirements#thermostatly
+2013-08-04 23:17:16 -0700#b0c6ab5#Merge branch 'release/20130804r1.3'#thermostatly
+2013-08-04 23:14:19 -0700#c3785fd#Merge branch 'feature/twitter_messages' into develop#thermostatly
+2013-08-04 23:11:19 -0700#83edf55#back to ajaxmessages 2s default#thermostatly
+2013-08-04 23:10:36 -0700#c7609e6#filtering twitter statuses for real#thermostatly
+2013-08-04 20:56:10 -0700#c1fbb6a#dashboard: show last tweet, ajaxmessages working#thermostatly
+2013-08-04 19:30:12 -0700#6ec6510#threading twitter streamer, tracking 'python' works, streamer on/off ok#thermostatly
+2013-08-04 11:33:26 -0700#5e56467#Merge branch 'hotfix/20130804r1.2' into develop#thermostatly
+2013-08-04 11:33:17 -0700#3d4f13b#Merge branch 'hotfix/20130804r1.2'#thermostatly
+2013-08-04 11:32:58 -0700#e65cf88#update README#thermostatly
+2013-08-04 10:01:55 -0700#575d3e7#Merge branch 'hotfix/20130804r1.1' into develop#thermostatly
+2013-08-04 10:01:34 -0700#620163e#Merge branch 'hotfix/20130804r1.1'#thermostatly
+2013-08-04 10:01:24 -0700#86f733a#update requirements#thermostatly
+2013-08-04 09:55:26 -0700#a907783#Merge branch 'release/20130804r1'#thermostatly
+2013-08-04 09:53:09 -0700#23f2ff1#Merge branch 'feature/layout' into develop#thermostatly
+2013-08-04 09:53:01 -0700#8d878da#some more icons#thermostatly
+2013-08-04 09:44:27 -0700#6166575#add icons#thermostatly
+2013-08-04 08:35:49 -0700#c26acf9#add logout to footer, improve bootstrap link#thermostatly
+2013-08-04 08:28:28 -0700#690c301#@username button/dropdown, get started modal#thermostatly
+2013-08-04 07:41:53 -0700#66fd316#finish framework for static team/how-it-works/faq#thermostatly
+2013-08-04 07:05:45 -0700#3c8197b#add and render team page#thermostatly
+2013-08-04 06:30:34 -0700#e918127#Merge branch 'release/20130804'#thermostatly
+2013-08-04 06:28:50 -0700#7b872de#Merge branch 'feature/nest' into develop#thermostatly
+2013-08-04 06:27:04 -0700#098f11a#implement nest_action and connect to timeline#thermostatly
+2013-08-04 04:31:18 -0700#0ecdec2#navbar#thermostatly
+2013-08-04 04:24:35 -0700#e0b5766#move notes to README, adjust layout to new bootstrap#thermostatly
+2013-08-04 04:18:16 -0700#fc5c9d8#add bootstrap 3.0.0#thermostatly
+2013-08-04 02:47:52 -0700#d1d76f0#print Nest login commands to stdout, nest_status in dashboard#thermostatly
+2013-08-04 02:13:34 -0700#5d97a4f#Merge branch 'feature/timeline' into develop#thermostatly
+2013-08-04 02:03:30 -0700#f02509f#timeline tweets work, general get_tweet in views.py#thermostatly
+2013-08-04 01:03:11 -0700#556adcd#remove user_tweets, reduce twitter api calls#thermostatly
+2013-08-04 00:51:07 -0700#b14ac9b#only show campaign in list if is_ongoing#thermostatly
+2013-08-04 00:45:05 -0700#8fcc211#add TimelineEntry format note#thermostatly
+2013-08-04 00:32:35 -0700#adc94aa#add duration field to TimelineEntry, calculate_duration()#thermostatly
+2013-08-04 00:01:52 -0700#60aa5d3#add tweet to stopped campaigns, fix get_tweet()#thermostatly
+2013-08-03 23:57:22 -0700#6d934c7#add description/instructions to dashboard#thermostatly
+2013-08-03 23:49:52 -0700#e82060e#add stopped_at campaign field, TimelineEntry model, save timeline#thermostatly
+2013-08-03 20:56:46 -0700#a915534#add stop_campaign view, add Admin stop to dasboard#thermostatly
+2013-08-03 20:56:01 -0700#c940a21#set is_ongoing default True for Campaign model#thermostatly
+2013-08-03 20:23:45 -0700#9639317#add created_at field to Campaign, update dasboard/tweet#thermostatly
+2013-08-03 19:59:54 -0700#5d7bd15#user_tweet view and get_tweet()#thermostatly
+2013-08-03 19:58:47 -0700#a408bb7#add is_users_active_campaign to ThermostatlyUser#thermostatly
+2013-08-03 19:57:16 -0700#d54e8dc#add tweet_hashtag to Cmpaign model#thermostatly
+2013-08-03 19:17:04 -0700#a8bc2a8#start timeline with entry for campaign In Progress#thermostatly
+2013-08-03 19:16:32 -0700#8f5075d#add fakeDbInit to jumpstart.sh#thermostatly
+2013-08-03 19:14:47 -0700#3851d13#add jumpstart.sh#thermostatly
+2013-08-03 18:54:18 -0700#8f07992#Merge branch 'feature/campaign_status' into develop#thermostatly
+2013-08-03 18:50:08 -0700#1e948f3#implement my campa@igns status#thermostatly
+2013-08-03 17:41:56 -0700#880ab91#fakeDbInit: status -> is_ongoing#thermostatly
+2013-08-03 17:39:07 -0700#88c388a#rename campaign.status to campaign.is_ongoing#thermostatly
+2013-08-03 17:38:36 -0700#d6acd41#add *.swp to .gitignore#thermostatly
+2013-08-03 04:13:44 -0700#fff9d65#Merge branch 'release/20130803'#thermostatly
+2013-08-03 04:07:54 -0700#8607dab#Merge branch 'feature/therm_control' into develop#thermostatly
+2013-08-03 04:06:15 -0700#9a2b371#forgot to add manage_user_campaigns.html#thermostatly
+2013-08-03 04:05:35 -0700#9b5d199#move nest.py into thermostatly#thermostatly
+2013-08-03 03:57:01 -0700#25d477e#Merge branch 'feature/patrick' into develop#thermostatly
+2013-08-03 03:45:36 -0700#2b3597d#views: collect twitter info only if not twitter_off#thermostatly
+2013-08-03 03:44:22 -0700#87caa67#implement manage_user_campaigns(), user.campaigns ManyToManyField, add/delete camapaigns works#thermostatly
+2013-08-03 01:15:17 -0700#8f1ed9c#campaign_list layout#thermostatly
+2013-08-03 01:10:28 -0700#e372e20#minor layout adjustments#thermostatly
+2013-08-03 01:01:23 -0700#5efd81f#update campaign_detail/list to resemble mockups#thermostatly
+2013-08-03 00:42:34 -0700#65f2894#README: add admin logout note#thermostatly
+2013-08-03 00:30:47 -0700#2f1a6f4#index: add content from mockups#thermostatly
+2013-08-03 00:30:03 -0700#f501529#base: add footer, fix Profile link, uncomment logo#thermostatly
+2013-08-03 00:29:09 -0700#f075a61#update campaign list/detail with new model fields#thermostatly
+2013-08-03 00:27:58 -0700#5d258ee#fakeDbInit: init with campaigns from mockups#thermostatly
+2013-08-03 00:22:24 -0700#2ff4030#add fields to Campaign model#thermostatly
+2013-07-10 05:03:24 -0700#d0d032c#Twitter Info Update, NestLogin, Improved Templates/UrlConf#thermostatly
+2013-07-09 23:28:11 -0700#a0b1e4c#add streamer, tracking twitter works#thermostatly
+2013-07-09 17:41:25 -0700#3e39c45#user timeline working, list tweets#thermostatly
+2013-07-09 17:27:21 -0700#948b35c#switch to Twython, no First/Last Name but login/logout works#thermostatly
+2013-07-09 14:53:21 -0700#03f2555#update requirements#thermostatly
+2013-06-16 03:32:22 -0700#619d393#update README#thermostatly
+2013-06-16 03:32:22 -0700#73b0c5f#update README#thermostatly
+2013-06-16 03:30:03 -0700#a6157bb#add base.html, extend templates#thermostatly
+2013-06-16 03:30:03 -0700#0c1aa74#add base.html, extend templates#thermostatly
+2013-06-16 03:29:34 -0700#fe400aa#add logo#thermostatly
+2013-06-16 03:29:34 -0700#bf770a1#add logo#thermostatly
+2013-06-16 03:13:00 -0700#a9ef95c#add bootstrap style files#thermostatly
+2013-06-16 03:13:00 -0700#f713180#add bootstrap style files#thermostatly
+2013-06-16 02:58:50 -0700#4232ee2#switch to generic Index/DetailView for campaigns#thermostatly
+2013-06-16 02:58:50 -0700#01404ce#switch to generic Index/DetailView for campaigns#thermostatly
+2013-06-16 02:38:56 -0700#d0e8cf8#implement Campaign list and detail#thermostatly
+2013-06-16 02:38:56 -0700#b5240c7#implement Campaign list and detail#thermostatly
+2013-06-16 02:19:25 -0700#8e6a587#done.html: add campaign link#thermostatly
+2013-06-16 02:19:25 -0700#a5fb7e3#done.html: add campaign link#thermostatly
+2013-06-16 02:19:00 -0700#4300c0e#add basic Campaign views and urls#thermostatly
+2013-06-16 02:19:00 -0700#8dc5a7d#add basic Campaign views and urls#thermostatly
+2013-06-16 01:56:40 -0700#cae0a0b#admin.py: add CampaignAdmin for better admin interface#thermostatly
+2013-06-16 01:56:40 -0700#0603e99#admin.py: add CampaignAdmin for better admin interface#thermostatly
+2013-06-16 01:47:22 -0700#8b5a243#add admin.py to add Campaign to admin page#thermostatly
+2013-06-16 01:47:22 -0700#8c35d80#add admin.py to add Campaign to admin page#thermostatly
+2013-06-16 01:46:54 -0700#014744d#add fakeDbInit.py#thermostatly
+2013-06-16 01:46:54 -0700#a2062eb#add fakeDbInit.py#thermostatly
+2013-06-16 01:46:34 -0700#d361d70#add Campaign model#thermostatly
+2013-06-16 01:46:34 -0700#8d133c3#add Campaign model#thermostatly
+2013-06-08 02:14:41 -0700#a6cb730#add zipcode to ThermostatlyUser, others optional#thermostatly
+2013-06-08 02:14:41 -0700#8b46281#add zipcode to ThermostatlyUser, others optional#thermostatly
+2013-06-08 02:02:59 -0700#58ce943#switch to ThermostatlyUser model, add phone#thermostatly
+2013-06-08 02:02:59 -0700#03d7a0f#switch to ThermostatlyUser model, add phone#thermostatly
+2013-06-08 00:33:56 -0700#be95d2b#add separate email field after twitter login#thermostatly
+2013-06-08 00:33:56 -0700#78b1e6b#add separate email field after twitter login#thermostatly
+2013-06-08 00:05:44 -0700#7fd63a8#README update#thermostatly
+2013-06-08 00:05:44 -0700#729bd9c#README update#thermostatly
+2013-06-07 23:11:22 -0700#601bdc1#first twitter login/logout cycle#thermostatly
+2013-06-07 23:11:22 -0700#1d4320c#first twitter login/logout cycle#thermostatly
+2013-06-07 21:56:39 -0700#0b70b9f#views: index use shortcuts#thermostatly
+2013-06-07 21:56:39 -0700#bd5eb97#views: index use shortcuts#thermostatly
+2013-06-07 02:20:53 -0700#8211846#update README#thermostatly
+2013-06-07 02:20:53 -0700#b4cb868#update README#thermostatly
+2013-06-07 02:05:08 -0700#f9dea79#start sign-in with Twitter#thermostatly
+2013-06-07 02:05:08 -0700#73f8beb#start sign-in with Twitter#thermostatly
+2013-06-07 01:27:38 -0700#bf7e84f#add index view#thermostatly
+2013-06-07 01:27:38 -0700#d618df7#add index view#thermostatly
+2013-06-07 00:19:44 -0700#3e9d0d9#add admin site#thermostatly
+2013-06-07 00:19:44 -0700#6707ab5#add admin site#thermostatly
+2013-06-07 00:08:03 -0700#67983c9#initial commit#thermostatly
+2013-06-07 00:08:03 -0700#3f9fdca#initial commit#thermostatly

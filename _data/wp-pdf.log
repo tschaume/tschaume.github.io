@@ -1,0 +1,14 @@
+2013-03-05 00:27:25 -0800#a6285a3#first deployment#wp-pdf
+2013-03-04 22:04:05 -0800#69814e7#another README fix#wp-pdf
+2013-03-04 22:02:21 -0800#c896fc3#fix README#wp-pdf
+2013-03-04 22:00:03 -0800#0b46af9#rename README#wp-pdf
+2013-03-04 21:29:57 -0800#7049745#add gitignore#wp-pdf
+2013-03-04 19:15:52 -0800#41aced8#update README#wp-pdf
+2013-03-04 15:50:21 -0800#896c828#split.sh working#wp-pdf
+2013-03-04 11:04:28 -0800#12865db#split.sh: start implementing writeHeader#wp-pdf
+2013-03-03 13:30:32 -0800#fd4f161#split into subtitles#wp-pdf
+2013-03-01 18:02:47 -0500#42980e3#add more content for note#wp-pdf
+2013-03-01 17:50:35 -0500#cce0498#fix Makefile input list#wp-pdf
+2013-03-01 17:50:23 -0500#86c9a5b#implement split.sh#wp-pdf
+2013-03-01 17:37:53 -0500#03adbf8#userguide: small Intro fix#wp-pdf
+2013-03-01 16:12:23 -0500#c0a4507#initial commit#wp-pdf

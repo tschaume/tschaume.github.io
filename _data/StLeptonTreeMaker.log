@@ -1,0 +1,144 @@
+2013-12-13 15:43:23 -0800#3c078dd#resubmit.sh: fix resubmission of last runid#StLeptonTreeMaker
+2013-12-13 14:58:49 -0800#a382b87#add README#StLeptonTreeMaker
+2013-12-12 17:36:59 -0800#3d30f71#resubmit.sh: add usage echo#StLeptonTreeMaker
+2013-12-12 17:30:34 -0800#6b61115#resubmit.sh goes live#StLeptonTreeMaker
+2013-12-12 17:01:48 -0800#d718be3#add resubmit.sh, jobidlist working#StLeptonTreeMaker
+2013-12-12 15:02:27 -0800#bccabcf#checkOutput: implement analysis name option#StLeptonTreeMaker
+2013-12-02 14:28:26 -0800#0237d33#correctly remove/recreate outdirs/submitdir for given day#StLeptonTreeMaker
+2013-12-02 13:45:18 -0800#0844c48#submit.xml: replace cp w/ rsync to exclude .git#StLeptonTreeMaker
+2013-11-15 11:00:14 -0800#4526ce9#update submit scripts for ConvElPi Analysis#StLeptonTreeMaker
+2013-11-15 10:59:44 -0800#3a918d9#ignore .list files#StLeptonTreeMaker
+2013-06-17 00:27:21 -0700#9d89698#Event: myCopy, baseCtor for resize & assign#StLeptonTreeMaker
+2013-06-16 18:57:47 -0700#5bc9e5e#Event: return hdr pointer instead of object#StLeptonTreeMaker
+2013-06-16 18:40:30 -0700#6efaa37#Event: improve copy ctor for evt mixing#StLeptonTreeMaker
+2013-06-14 16:46:14 -0700#9f6f930#Event: remove global static ptr, rm Reset(), update dtor#StLeptonTreeMaker
+2013-06-14 01:46:59 -0700#29fabd7#Event: add Delete(), use Clone() in copy ctor#StLeptonTreeMaker
+2013-06-13 03:08:39 -0700#d05030c#update Event/Maker/Reader trying to fix ME issue#StLeptonTreeMaker
+2013-06-13 01:56:27 -0700#9da84e1#update Event/Maker/Reader trying to fix ME issue#StLeptonTreeMaker
+2013-05-28 16:37:00 -0700#f74f68c#StLeptonTreeMaker: skip evts with EP-Ntr=0#StLeptonTreeMaker
+2013-05-13 18:02:39 -0700#f6e0ac1#StLeptonTreeReader: fix file extension#StLeptonTreeMaker
+2013-05-13 17:18:07 -0700#ea09172#StLeptonConstants: switch to mTreeFill true#StLeptonTreeMaker
+2013-05-13 17:17:13 -0700#26cf0f2#StLeptonEvent: fix GetElectron/PositronTrack()#StLeptonTreeMaker
+2013-05-13 17:03:14 -0700#c3acf2f#StLeptonConstants: add 19/39 dedx cut pars#StLeptonTreeMaker
+2013-05-13 17:02:24 -0700#b333313#StLeptonEvent: add GetElectron/PositronTrack()#StLeptonTreeMaker
+2013-05-13 14:52:24 -0700#96a3a80#StLeptonTreeReader: add lepEvt()#StLeptonTreeMaker
+2013-05-13 13:08:23 -0700#c0eddc0#implement tuned nsigel cut#StLeptonTreeMaker
+2013-05-13 01:09:52 -0700#4d167e6#implement all-energies-beta-cut#StLeptonTreeMaker
+2013-05-12 20:54:27 -0700#7a25689#add ln auau200_pico_xrd.list#StLeptonTreeMaker
+2013-05-12 20:53:47 -0700#0e6a1b3#genLists: add 200 GeV#StLeptonTreeMaker
+2013-04-23 13:34:12 -0700#8d0e995#fix auau200 input filelist#StLeptonTreeMaker
+2013-04-23 13:27:51 -0700#92e0c92#add 200 run11 filelists#StLeptonTreeMaker
+2013-02-22 17:40:09 -0800#2aa954e#update xrd filelists#StLeptonTreeMaker
+2013-02-22 17:21:43 -0800#f780493#fix BetaInv rebin#StLeptonTreeMaker
+2013-02-11 18:51:01 -0800#aefc91f#StLeptonHistoMnger: omit Acc.Histos, fix beta/nsig bins#StLeptonTreeMaker
+2013-02-11 16:39:06 -0800#b549131#update auau27/39 eliza list after double removal#StLeptonTreeMaker
+2013-02-06 16:38:43 -0800#eb8a13b#improve/test genLists.sh#StLeptonTreeMaker
+2013-02-06 16:36:28 -0800#aac47bd#remove eliza duplicates from 27/39 filelists#StLeptonTreeMaker
+2013-02-05 17:24:01 -0800#13fdb6b#fix mBadRunFilesStem#StLeptonTreeMaker
+2013-02-05 16:53:59 -0800#42eef6b#fix submitDDD.sh#StLeptonTreeMaker
+2013-02-05 16:46:36 -0800#a7d41e5#adjust genLists/submitDDD to xrd#StLeptonTreeMaker
+2013-02-05 16:46:13 -0800#aea136a#rename xml to submit.xml#StLeptonTreeMaker
+2013-02-05 16:18:27 -0800#35cbab1#StLeptonHistoMnger: save to LeptonHistos dir#StLeptonTreeMaker
+2013-02-05 15:32:11 -0800#49d8c5e#mv rej_ids declaration to cxx#StLeptonTreeMaker
+2013-02-05 11:29:34 -0800#62c1867#add auau19_pico_xrd.list#StLeptonTreeMaker
+2013-02-05 10:45:02 -0800#a3a30bf#rename xrd pico list#StLeptonTreeMaker
+2013-02-05 00:31:38 -0800#94d51ea#StLeptonCut: add passRunQA, readRunQaFile#StLeptonTreeMaker
+2013-02-05 00:31:37 -0800#f05f330#StLeptonTreeMaker: remove Declare/WriteHistograms#StLeptonTreeMaker
+2013-02-05 00:31:37 -0800#dd3b2ed#StLeptonConstants: add mBadRunsFileStem, mOnlyFillRunQAHistos true#StLeptonTreeMaker
+2013-02-04 17:51:57 -0800#dc188ae#fix 39GeV runqa filename#StLeptonTreeMaker
+2013-02-04 17:49:22 -0800#3a4241d#rename runqa files#StLeptonTreeMaker
+2013-02-04 16:56:43 -0800#b58c39a#add my bad run lists#StLeptonTreeMaker
+2013-02-01 15:22:00 -0800#b96cf70#doRunQA: split loop and plotting#StLeptonTreeMaker
+2013-02-01 14:26:03 -0800#8ba9c56#implement passEventBasic + mMinTofMatchedPrims#StLeptonTreeMaker
+2013-02-01 13:02:51 -0800#ce44f5a#move isMinBias check next to StRefMultCorr passRun#StLeptonTreeMaker
+2013-02-01 12:25:24 -0800#9bcddef#doRunQA: fix RunId dep. rejection for Vy#StLeptonTreeMaker
+2013-02-01 04:18:16 -0800#d5bd983#improve doRunQA.C (grubbs)#StLeptonTreeMaker
+2013-01-31 19:01:55 -0800#1555a66#doRunQA.C: outlier rejection#StLeptonTreeMaker
+2013-01-31 02:10:41 -0800#cd5c2fc#doRunQA.C: implement variance check#StLeptonTreeMaker
+2013-01-31 01:28:40 -0800#49aeaa6#add doRunQA.C#StLeptonTreeMaker
+2013-01-30 18:50:10 -0800#c120f6c#add StLeptonTreeReader#StLeptonTreeMaker
+2013-01-30 01:38:17 -0800#b0c6bed#submitDDD.sh: fix genList.sh call and submitdir#StLeptonTreeMaker
+2013-01-30 01:37:42 -0800#00a9aa4#StLeptonHistoMnger: fill RunQA histos for MB evts only#StLeptonTreeMaker
+2013-01-23 17:44:09 -0800#4b38df0#mergeAllHistos in preparation for RunQA#StLeptonTreeMaker
+2013-01-23 17:01:23 -0800#3876fa9#checkOutput.sh: implement output file checks#StLeptonTreeMaker
+2013-01-23 14:59:52 -0800#8a43a5f#add checkOutput.sh: getEntries only#StLeptonTreeMaker
+2013-01-23 14:59:24 -0800#e1b9fa8#genLists.sh: remove getEntries#StLeptonTreeMaker
+2013-01-23 12:13:53 -0800#8d496a5#submitDDD.sh: update acc. to genLists.sh change#StLeptonTreeMaker
+2013-01-23 12:10:46 -0800#5ed7b4c#mv genLists.sh (and rewrite) for general use#StLeptonTreeMaker
+2013-01-22 15:02:45 -0800#7d5cd40#add mOnlyFillRunQAHistos#StLeptonTreeMaker
+2013-01-22 14:48:53 -0800#9bf3bbc#StLeptonHistMnger: add fPhiPt, fEtaPhi#StLeptonTreeMaker
+2013-01-22 14:30:59 -0800#a4cf820#fix compiler errors#StLeptonTreeMaker
+2013-01-22 14:26:58 -0800#8643aec#implement track-wise histos, remove preBetaCut, add Lepton::mTreeFill flag#StLeptonTreeMaker
+2013-01-22 12:35:13 -0800#350ee31#plotRunQA -> mergeAllHistos#StLeptonTreeMaker
+2013-01-22 12:22:16 -0800#eed2b47#plotRunQA: inputdir, local flag, fix canvas#StLeptonTreeMaker
+2013-01-22 12:18:42 -0800#c22d69c#StLeptonHistoManager: add axes titles#StLeptonTreeMaker
+2013-01-21 19:25:06 -0800#6cba437#update plotRunQA.C#StLeptonTreeMaker
+2013-01-21 16:09:36 -0800#d68c577#submit: implement elizaN, don't remove listdir#StLeptonTreeMaker
+2013-01-21 15:33:10 -0800#576c641#print list of days for submitDDD.sh usage#StLeptonTreeMaker
+2013-01-21 15:28:34 -0800#ee1fdba#StLeptonHistoMnger: add fNPrims, fNPrimsTOF, fNMbEvts#StLeptonTreeMaker
+2013-01-21 14:46:53 -0800#715b7f7#submitDDD.sh: only remove filelists for submitted day not energy#StLeptonTreeMaker
+2013-01-21 14:43:59 -0800#695fe25#genLists.sh: add getEntriesRun(), improve usage echo#StLeptonTreeMaker
+2013-01-21 02:24:28 -0800#e0e03fc#plotRunQA.C: auto-loop days#StLeptonTreeMaker
+2013-01-21 01:40:18 -0800#d1c28c4#genLists.sh: extend to return list of days#StLeptonTreeMaker
+2013-01-21 00:54:21 -0800#dcc7b17#submitDDD.sh: auto-create/remove filelist#StLeptonTreeMaker
+2013-01-21 00:53:40 -0800#2ffa1c5#genLists.sh: energy, day as arguments#StLeptonTreeMaker
+2013-01-21 00:22:04 -0800#c672671#add *.d, *.so to .gitignore#StLeptonTreeMaker
+2013-01-20 23:39:20 -0800#587a986#plotRunQA: loop all files and keys + merge#StLeptonTreeMaker
+2013-01-20 23:38:40 -0800#928f7f8#add loader.C to load STL containers#StLeptonTreeMaker
+2013-01-20 17:39:49 -0800#997c081#add ana/plotRunQA.C#StLeptonTreeMaker
+2013-01-20 17:13:31 -0800#bbd46e9#readPicoDst: event output all 1000th#StLeptonTreeMaker
+2013-01-20 17:12:59 -0800#e896c68#StLeptonHistoMnger: add fVz4ME#StLeptonTreeMaker
+2013-01-20 16:29:01 -0800#7a0e029#submit_eliza.xml: go live#StLeptonTreeMaker
+2013-01-20 16:28:34 -0800#6fe0d2b#StLeptonHistoMnger: check Ntr for fQx filling#StLeptonTreeMaker
+2013-01-20 15:24:51 -0800#e9d390d#readPicoDst: submit all events#StLeptonTreeMaker
+2013-01-20 15:22:28 -0800#854a036#submit all runs via scheduler#StLeptonTreeMaker
+2013-01-20 03:06:39 -0800#4d5a95a#submitDDD.sh: adjust to new listdir#StLeptonTreeMaker
+2013-01-20 02:53:06 -0800#1ef3f27#StLeptonHistoMnger: check pointer before writing histo (0 event pico's)#StLeptonTreeMaker
+2013-01-19 20:00:43 -0800#25161f5#add script and input filelists to gen DDDRRR lists#StLeptonTreeMaker
+2013-01-19 19:59:48 -0800#ff33cd8#add submitDDD.sh & submit_eliza.xml#StLeptonTreeMaker
+2013-01-19 19:58:43 -0800#ea270b0#move xrd_AuAu62_pico.list#StLeptonTreeMaker
+2013-01-19 16:35:16 -0800#0308c8c#StLeptonEventPlane: make calcQi() static to be called w/o instance#StLeptonTreeMaker
+2013-01-19 16:27:34 -0800#d17479e#create scripts directory#StLeptonTreeMaker
+2013-01-19 16:25:10 -0800#af8de4a#StLeptonHistoManager: add fQx/fQy#StLeptonTreeMaker
+2013-01-19 00:19:36 -0800#f5fb7ea#fix compiler bigs in StLeptonHistoMnger#StLeptonTreeMaker
+2013-01-19 00:06:17 -0800#3bbdb2f#more TProfiles in RunQA, less comments#StLeptonTreeMaker
+2013-01-18 22:50:41 -0800#6d66e0b#fix RefMult Profile bugs#StLeptonTreeMaker
+2013-01-18 22:36:21 -0800#e155f16#implement passRun & hFillRunQA#StLeptonTreeMaker
+2013-01-18 18:55:41 -0800#bd38911#fix StLeptonHistoMnger bugs#StLeptonTreeMaker
+2013-01-18 18:35:11 -0800#8956cd5#StLeptonTreeMaker: clean up, implement StLeptonHistoMnger#StLeptonTreeMaker
+2013-01-18 18:34:44 -0800#d91a2b8#add StLeptonHistoMnger#StLeptonTreeMaker
+2013-01-18 18:32:00 -0800#858d3cb#StLeptonConstants: add mHistoMngerDir#StLeptonTreeMaker
+2013-01-18 17:06:20 -0800#bbfc9b6#add TODO comments#StLeptonTreeMaker
+2013-01-18 16:16:29 -0800#fdd23a2#StLeptonEvent: fix compiler bugs#StLeptonTreeMaker
+2013-01-18 16:07:55 -0800#086a7cc#save Qraw, nTrEP, Qi, isEPtrack in output (corr's later)#StLeptonTreeMaker
+2013-01-18 14:03:38 -0800#dfd5857#StLeptonEventPlane: implement mTrUsed#StLeptonTreeMaker
+2013-01-18 13:44:59 -0800#e88dfb7#StLeptonEventPlane: fix TVector2 local reference return#StLeptonTreeMaker
+2013-01-18 13:39:53 -0800#d8b16da#start EP self-correlation correction#StLeptonTreeMaker
+2013-01-18 13:12:02 -0800#a3493c1#StLeptonEventPlane: fix Qraw TVector2#StLeptonTreeMaker
+2013-01-18 13:07:49 -0800#046820f#add Qraw calculation for EP#StLeptonTreeMaker
+2013-01-18 13:07:15 -0800#cec0a91#StLeptonConstants: add mPtWghtThrEP#StLeptonTreeMaker
+2013-01-18 12:05:21 -0800#9003ec5#StLeptonTreeMaker: add/start StLeptonEventPlane#StLeptonTreeMaker
+2013-01-18 12:04:47 -0800#88d1877#StLeptonConstants: add mGlobMomM*EP cuts#StLeptonTreeMaker
+2013-01-18 12:04:11 -0800#0532be6#add StLeptonEventPlane#StLeptonTreeMaker
+2013-01-17 21:04:21 -0800#1748f3f#StLeptonEvent: add default constructor to fix TClass::New Error#StLeptonTreeMaker
+2013-01-17 19:07:45 -0800#1046806#StLeptonTreeMaker: fill/write output tree#StLeptonTreeMaker
+2013-01-17 19:06:52 -0800#d4d0a98#StLeptonConstants: add mTreeName#StLeptonTreeMaker
+2013-01-17 17:46:51 -0800#3f5cfc8#add StLeptonEvent (compiles)#StLeptonTreeMaker
+2013-01-17 17:46:22 -0800#2a057d4#StLeptonConstants: add mEMass#StLeptonTreeMaker
+2013-01-17 13:35:40 -0800#aa9a3a3#StLeptonCut: add TODO's & comments, isRefMultOk()#StLeptonTreeMaker
+2013-01-17 12:36:00 -0800#1eafa21#fix pre-beta cut#StLeptonTreeMaker
+2013-01-17 00:51:05 -0800#4bd75db#Pre-Beta & -nSigmaEl Cuts#StLeptonTreeMaker
+2013-01-17 00:49:42 -0800#1f3e4da#count #tracks accepted/evt#StLeptonTreeMaker
+2013-01-17 00:16:57 -0800#d6d2a75#implement basic track cuts#StLeptonTreeMaker
+2013-01-16 23:16:02 -0800#2ac36cf#no-op passTrack in StLeptonCut#StLeptonTreeMaker
+2013-01-16 22:35:43 -0800#6d06325#readPicoDst.C update (StRunIdEvents)#StLeptonTreeMaker
+2013-01-16 22:32:25 -0800#1779e5a#StRunIdEventsDb update, min. refmult cut#StLeptonTreeMaker
+2013-01-16 18:56:58 -0800#aafe69b#implement Vz/Vr event selection cuts#StLeptonTreeMaker
+2013-01-16 18:21:35 -0800#88046cb#implement StRefMultCorr & StRunIdEventsDb check#StLeptonTreeMaker
+2013-01-16 18:05:13 -0800#fd39f4f#add .gitignore#StLeptonTreeMaker
+2013-01-16 12:21:13 -0800#05f043a#StLeptonTreeMaker macros/lists dir's#StLeptonTreeMaker
+2013-01-15 23:40:23 -0800#f61e412#StLeptonCut: fix StThreeVectorF include#StLeptonTreeMaker
+2013-01-15 23:38:04 -0800#3a70f8f#add StLeptonContants#StLeptonTreeMaker
+2013-01-15 23:06:39 -0800#c61cabb#preparing passEvent#StLeptonTreeMaker
+2013-01-15 22:52:12 -0800#44abd24#implement no-op passEvent() via StLeptonCut#StLeptonTreeMaker
+2013-01-14 17:21:54 -0800#ecaeaaa#rename StMyAnalysisMaker to StLeptonTreeMaker#StLeptonTreeMaker

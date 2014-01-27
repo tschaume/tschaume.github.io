@@ -1,0 +1,10 @@
+2013-09-29 21:18:23 +0200#ce3b5c8#calPE, utils, pyiast: clean up, implement COMP#pyiast
+2013-09-29 16:08:14 +0200#9df2ef7#pyiast, calPE, evalcrit: get rid of i,j flags#pyiast
+2013-05-08 17:43:58 -0700#1de50ec#comment out prints#pyiast
+2013-05-08 15:36:01 -0700#e3866d4#use utils, calckH#pyiast
+2013-05-08 14:22:02 -0700#c09a59c#iast: fix integrand and limits#pyiast
+2013-05-08 13:20:51 -0700#bd13758#update gitignore#pyiast
+2013-05-08 13:20:51 -0700#bee9b15#fix iast pars, more prints#pyiast
+2013-04-30 01:07:40 -0700#4f9688d#add and return loadings#pyiast
+2013-04-30 00:10:14 -0700#52dd993#pyiast working with scipy#pyiast
+2013-04-25 01:03:26 -0700#4c0ee66#initial commit, InvalidArgument#pyiast

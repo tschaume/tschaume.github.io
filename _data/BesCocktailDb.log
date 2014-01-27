@@ -1,0 +1,32 @@
+2013-04-26 14:47:20 -0700#8bb893b#update 19 GeV jpsi dndy, eta br#BesCocktailDb
+2013-04-26 10:11:13 -0700#be03757#update 19GeV tsallis pars#BesCocktailDb
+2013-04-26 00:30:31 -0700#1bfdac8#back to prev ccX 19 GeV#BesCocktailDb
+2013-04-25 20:30:55 -0700#269bcb0#add 200GeV Tsallis pars (Zebo)#BesCocktailDb
+2013-04-25 14:15:54 -0700#eb1c6ab#add 19 GeV Tsallis pars#BesCocktailDb
+2013-04-25 10:55:29 -0700#3683cc9#latest 19GeV yields/ccX#BesCocktailDb
+2013-04-24 12:42:14 -0700#6a2223b#add comments for Bingchu's 19GeV#BesCocktailDb
+2013-04-23 21:53:19 -0700#4e98002#update 19GeV jpsi dndy#BesCocktailDb
+2013-04-18 19:22:48 -0700#e43a67a#add jie paper scaled#BesCocktailDb
+2013-04-18 16:44:18 -0700#93dff67#adjust for Hgd pion_200 default#BesCocktailDb
+2013-04-18 16:42:51 -0700#2caadba#add latest tsallis+scaled yields#BesCocktailDb
+2013-04-18 15:31:49 -0700#9983fdf#fix QM2011 yields and ccX#BesCocktailDb
+2013-04-17 17:17:15 -0700#6fa9277#ccX for QM2011#BesCocktailDb
+2013-04-15 17:39:01 -0700#e85e433#update ccX 200#BesCocktailDb
+2013-04-15 17:38:44 -0700#b49f543#update Hagedorn params acc. PHENIX#BesCocktailDb
+2013-04-15 14:46:46 -0700#ce3b6c5#add input for all energies#BesCocktailDb
+2013-04-12 17:03:50 -0700#302180f#add g02, update l2#BesCocktailDb
+2013-04-12 13:11:44 -0700#4bfd504#add etap Hagedorn & yield#BesCocktailDb
+2013-04-12 11:58:29 -0700#5a8a780#add eta prime#BesCocktailDb
+2013-04-11 16:28:16 -0700#305a2d1#add input for ccbar#BesCocktailDb
+2013-04-11 11:39:38 -0700#b2954a4#major reformat for easier use#BesCocktailDb
+2013-04-10 18:11:38 -0700#04f36eb#new/easier Db format, add dndy#BesCocktailDb
+2013-04-10 14:57:37 -0700#64b5c28#adjust to no DbHeader#BesCocktailDb
+2013-04-10 14:28:07 -0700#4bd2f47#separate branching ratios#BesCocktailDb
+2013-04-10 14:06:45 -0700#b5eea76#switch to mpr format#BesCocktailDb
+2013-04-10 10:56:44 -0700#e1e2eca#add track & pair cuts#BesCocktailDb
+2013-04-09 13:52:06 -0700#3b91ea0#increase alpha for jpsi#BesCocktailDb
+2013-04-09 13:36:51 -0700#3056f21#increase alpha#BesCocktailDb
+2013-04-09 13:33:13 -0700#f507a72#add branching ratios#BesCocktailDb
+2013-04-09 10:23:53 -0700#1b940a1#add alpha to header#BesCocktailDb
+2013-04-04 21:26:15 -0700#d1c9b9c#add decay flag#BesCocktailDb
+2013-04-04 20:55:06 -0700#88059db#initial commit#BesCocktailDb

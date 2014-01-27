@@ -1,0 +1,67 @@
+2014-01-24 14:45:48 -0800#7ee42a1#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 14:44:21 -0800#044aa1f#add symlinks for gp_stack LatestJieYi#ccsgp_get_started_data
+2014-01-24 14:34:45 -0800#709ecf9#gp_panel: add LatestJieYi, Run10/11 200 combined#ccsgp_get_started_data
+2014-01-24 01:52:58 -0800#b94e123#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 01:51:52 -0800#52fc3ed#gp_panel LatestBingchuJie: fix cocktail/data39 symlink#ccsgp_get_started_data
+2014-01-24 01:49:01 -0800#2293213#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 01:48:45 -0800#eb95baf#gp_panel LatestBingchuJie: fix medium39 symlink#ccsgp_get_started_data
+2014-01-24 01:25:51 -0800#98f6d08#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 01:22:02 -0800#d4e8c26#update gp_panel QM12Incl39 symlinks#ccsgp_get_started_data
+2014-01-24 01:12:37 -0800#31df0a8#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 01:11:46 -0800#06475a0#add symlinks for gp_panel/QM12Incl39#ccsgp_get_started_data
+2014-01-24 00:57:55 -0800#e6ec64b#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-24 00:56:12 -0800#3488a29#rename QM12 -> QM12Incl39#ccsgp_get_started_data
+2014-01-23 23:06:59 -0800#e331fa5#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-23 23:06:13 -0800#8cc0abb#update LatestBingchuJie w/ dx's#ccsgp_get_started_data
+2014-01-23 23:01:00 -0800#1f6ce43#Merge branch 'master' of http://cgit.the-huck.com/dielectron_data_protected into star_dielec#ccsgp_get_started_data
+2014-01-23 23:00:49 -0800#8afb1ba#Merge branch 'master' of http://gitlab.the-huck.com/star/dielectron_data_public into star_dielec#ccsgp_get_started_data
+2014-01-23 22:53:53 -0800#f0a5565#update +medium* with dx#ccsgp_get_started_data
+2014-01-23 22:46:59 -0800#1999b4f#save dx not binwidths#ccsgp_get_started_data
+2014-01-23 22:15:44 -0800#42a1267#add 200 GeV latest cocktail (Run10)#ccsgp_get_started_data
+2014-01-23 18:17:27 -0800#79e527a#fix data19.dat last line#ccsgp_get_started_data
+2014-01-23 17:25:34 -0800#87c99f6#fix binwidths#ccsgp_get_started_data
+2014-01-23 16:27:32 -0800#5bcc8cc#update binwidths for data 39 GeV#ccsgp_get_started_data
+2014-01-23 16:26:24 -0800#40cadeb#update binwidths (dx)#ccsgp_get_started_data
+2014-01-23 16:24:36 -0800#5ae5095#add update_binwidth.py#ccsgp_get_started_data
+2014-01-23 16:19:12 -0800#8062b62#add binwidth calc to README#ccsgp_get_started_data
+2014-01-23 15:18:45 -0800#036526b#add gp_rdiff input QM12#ccsgp_get_started_data
+2014-01-23 14:44:26 -0800#edcc0ef#fix data200 missing space#ccsgp_get_started_data
+2014-01-23 14:30:04 -0800#21f656f#add missing symlinks in gp_panel/stack#ccsgp_get_started_data
+2014-01-23 14:10:19 -0800#1bc3ead#add Rapp19/200_HGmed_QGP, +medium19.dat#ccsgp_get_started_data
+2014-01-23 13:14:30 -0800#0bdbcc7#data19/200: add zero columns#ccsgp_get_started_data
+2014-01-23 13:10:50 -0800#79c2174#cocktail19: add zeros in cols 3/4#ccsgp_get_started_data
+2014-01-23 12:54:18 -0800#d2e9404#add gp_panel/LatestBingchuJie#ccsgp_get_started_data
+2014-01-23 12:49:37 -0800#e96c15e#add README#ccsgp_get_started_data
+2014-01-23 12:48:55 -0800#ae1b202#add README#ccsgp_get_started_data
+2014-01-23 12:02:19 -0800#8153da8#add Rapp MinBias Calculations for 19,62,39,200#ccsgp_get_started_data
+2014-01-21 22:57:11 -0800#a61c649#fix cocktail200 errors#ccsgp_get_started_data
+2014-01-21 22:25:24 -0800#83d3288#add syserr to cocktails#ccsgp_get_started_data
+2014-01-21 21:27:32 -0800#0ec693b#symlink cocktail39 to gp_stack#ccsgp_get_started_data
+2014-01-21 21:26:29 -0800#d7a87a6#add gp_stack cocktail symlinks#ccsgp_get_started_data
+2014-01-21 21:25:09 -0800#d3a60c3#add cocktail39.dat#ccsgp_get_started_data
+2014-01-21 21:23:14 -0800#593900c#extend gp_panel cocktails to 3.5 GeV#ccsgp_get_started_data
+2014-01-21 19:03:08 -0800#a8b0e1d#prepare input data for gp_stack#ccsgp_get_started_data
+2014-01-21 17:39:32 -0800#986092f#symlink data39.dat to gp_stack input dir#ccsgp_get_started_data
+2014-01-21 04:41:08 -0800#806d501#input dir restructure cont.#ccsgp_get_started_data
+2014-01-21 04:39:11 -0800#f164042#input/output restructure#ccsgp_get_started_data
+2014-01-21 04:36:25 -0800#8386e3e#update input/output dir structure#ccsgp_get_started_data
+2014-01-21 04:07:43 -0800#e6fdb35#restructure input/output dirs#ccsgp_get_started_data
+2014-01-21 03:28:02 -0800#27282fe#initial commit: add QM12 39 GeV data#ccsgp_get_started_data
+2014-01-20 04:20:51 -0800#2a9101a#add panelQM12 output files#ccsgp_get_started_data
+2014-01-20 02:26:21 -0800#d3a42e7#gp_panel: update data input, add cocktail/medium up to 1.1 GeV/c2#ccsgp_get_started_data
+2014-01-19 19:37:37 -0800#6c70261#add gp_panel QM12 input data#ccsgp_get_started_data
+2014-01-19 16:24:11 -0800#a292865#update example graphs#ccsgp_get_started_data
+2014-01-19 16:24:11 -0800#b090b29#update example graphs#ccsgp_get_started_data
+2014-01-18 22:21:04 -0800#c06cd2b#rm bars small default#ccsgp_get_started_data
+2014-01-18 04:21:38 -0800#4db0d2a#update xfac plots#ccsgp_get_started_data
+2014-01-17 23:43:01 -0800#41c9ac5#update xfac data to new format#ccsgp_get_started_data
+2014-01-17 19:04:06 -0800#a7aac4b#update data to test all data format cases#ccsgp_get_started_data
+2014-01-17 17:43:07 -0800#85f02e0#increase errorbars#ccsgp_get_started_data
+2014-01-17 17:15:30 -0800#072d43c#files for new data file format#ccsgp_get_started_data
+2014-01-17 17:15:04 -0800#22b3455#adjust genExDat to new data format#ccsgp_get_started_data
+2014-01-13 18:54:11 -0800#f0a2709#add STAR prelim to xfac figures#ccsgp_get_started_data
+2014-01-13 18:15:14 -0800#03a1012#add input/output for gp_xfac#ccsgp_get_started_data
+2014-01-13 13:41:25 -0800#fa0053e#update gp_datdir T example figs#ccsgp_get_started_data
+2014-01-13 13:35:48 -0800#c66f6aa#add gp_datdir example output T#ccsgp_get_started_data
+2014-01-08 19:50:25 -0800#eca0ba5#add examplesDir#ccsgp_get_started_data
+2014-01-08 19:50:25 -0800#12e52ea#add examplesDir#ccsgp_get_started_data

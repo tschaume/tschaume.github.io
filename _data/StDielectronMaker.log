@@ -1,0 +1,136 @@
+2013-07-04 00:24:03 -0700#cd85ddc#genNtuples: DIV=30M#StDielectronMaker
+2013-07-04 00:23:43 -0700#c0652a7#Reader: fix GetEntry via setEntry#StDielectronMaker
+2013-07-03 23:53:42 -0700#6712c27#genNtuples.sh: finish RANGE submission#StDielectronMaker
+2013-07-03 23:51:46 -0700#f4b273b#readDielectronTree: non-ref nStart, nEnd#StDielectronMaker
+2013-07-03 23:51:02 -0700#2215402#add getNtEntries.C#StDielectronMaker
+2013-07-03 23:50:43 -0700#2fca7b0#Reader: fix default Make()#StDielectronMaker
+2013-07-03 23:00:57 -0700#62a802a#start splitting of Ntuples gen for ME#StDielectronMaker
+2013-07-03 22:56:28 -0700#cc2c3d1#Reader: add hInvMassPt, no ntuple saved#StDielectronMaker
+2013-07-02 11:10:31 -0700#dad0f2c#Maker: add mBVec/FieldDir to calcPhiV#StDielectronMaker
+2013-06-27 20:03:17 -0700#f64ea90#genNtuples: rewrite to use qsub#StDielectronMaker
+2013-06-27 18:53:15 -0700#115fca0#add genNtuples, using multiple screen windows#StDielectronMaker
+2013-06-27 15:50:08 -0700#9877d1d#Reader: switch to Outfile in Finish()#StDielectronMaker
+2013-06-27 13:41:34 -0700#360a9fe#Reader: non-mem-res ntuple, flush baskets, rap cut#StDielectronMaker
+2013-06-23 20:16:09 -0700#0f3dc44#Reader: add hPhiV histo#StDielectronMaker
+2013-06-23 17:42:34 -0700#61484d0#Reader: fix ntuple variables typo#StDielectronMaker
+2013-06-23 17:25:33 -0700#bf44f83#submitAna: increase memory#StDielectronMaker
+2013-06-22 18:39:14 -0700#d5ef7ca#Reader: add ntuple for pyana/bayes.py#StDielectronMaker
+2013-06-22 18:17:18 -0700#764a781#Maker: fix phiV calculation#StDielectronMaker
+2013-06-18 04:28:19 -0700#f5e9878#increase evts for 39 GeV#StDielectronMaker
+2013-06-17 12:23:33 -0700#a109781#submitAna: increase vmem#StDielectronMaker
+2013-06-17 01:35:24 -0700#9056abb#Maker: add mRealTimeSum for 1M evts#StDielectronMaker
+2013-06-17 00:24:11 -0700#c84b5c7#Maker: try vector & resize + assign (see StLeptonEvent)#StDielectronMaker
+2013-06-17 00:21:32 -0700#ee571f9#Maker: update takeTime's#StDielectronMaker
+2013-06-16 22:27:28 -0700#2eb1503#Maker: flush trees from macro#StDielectronMaker
+2013-06-16 22:26:50 -0700#2e0365b#change Finish() mixing cout#StDielectronMaker
+2013-06-16 21:44:14 -0700#ff331df#Maker: reconstruct() separate key from loop#StDielectronMaker
+2013-06-16 21:37:40 -0700#9b38575#Track: make GetLorentzTrack const#StDielectronMaker
+2013-06-16 21:37:13 -0700#c6a0980#Maker: improve calcPhiV()#StDielectronMaker
+2013-06-16 20:52:59 -0700#f09a93d#Maker: don't copy LorentzVector, use reference#StDielectronMaker
+2013-06-16 20:47:17 -0700#d5e6324#Maker: isSameEventLikeSign based on key string#StDielectronMaker
+2013-06-16 20:46:22 -0700#184e5b6#Maker: add mCent9, mWght#StDielectronMaker
+2013-06-16 20:30:34 -0700#33b4fcd#Maker: improve/speed-up reconstruct()#StDielectronMaker
+2013-06-16 20:21:32 -0700#2066044#RecShift: speed-up getShiftCorr#StDielectronMaker
+2013-06-16 19:59:12 -0700#f95a795#Maker: add mNrRT and takeTime()#StDielectronMaker
+2013-06-16 19:26:55 -0700#2eb5693#Maker: introduce mPrevRunId, mRunIdIndex#StDielectronMaker
+2013-06-16 18:58:44 -0700#bf38c53#Maker/RecShift: adjust for hdr pointer#StDielectronMaker
+2013-06-16 17:56:21 -0700#884b41c#Maker: reject cent9 < 0#StDielectronMaker
+2013-06-16 17:55:46 -0700#a432fb6#Maker: switch to deque to avoid multiple ctor calls#StDielectronMaker
+2013-06-16 17:54:57 -0700#8035794#Maker: add TStopwatch for timing#StDielectronMaker
+2013-06-16 13:28:31 -0700#e1cfce1#Maker: fix deprecated char* conversion warning#StDielectronMaker
+2013-06-16 13:16:59 -0700#583f714#Maker: switch EventBuffer list to vector#StDielectronMaker
+2013-06-15 21:01:59 -0700#6486da1#Maker: use TFile::Open#StDielectronMaker
+2013-06-15 02:57:19 -0700#7979366#readLeptonTree: 150M nEvents#StDielectronMaker
+2013-06-15 02:47:16 -0700#941791d#Maker: hNrMEBuf, const ref args, int EventClassKey#StDielectronMaker
+2013-06-14 22:42:53 -0700#8145d21#Maker: replace size() calls using separate cnter#StDielectronMaker
+2013-06-14 17:10:55 -0700#4ccbee9#Maker: use list for EventBuffer#StDielectronMaker
+2013-06-14 16:45:11 -0700#7fa1465#Maker: reduce doMixing to EvtBuf.clear, StLeptonEvent ctor adjusted#StDielectronMaker
+2013-06-14 01:48:44 -0700#9ccf55f#Maker: switch to STL containers, trying to solve memleak#StDielectronMaker
+2013-06-13 17:09:31 -0700#6710aab#Maker: working on memory leak#StDielectronMaker
+2013-06-13 17:09:09 -0700#280f99a#Maker: TLorentzVector references#StDielectronMaker
+2013-06-13 04:22:01 -0700#4193cf7#switch to TClonesArrays for EventBuffer, fixes issue#StDielectronMaker
+2013-06-13 01:55:46 -0700#c1f5d47#dummy commit: trying to fix ME issue#StDielectronMaker
+2013-06-11 17:15:38 -0700#ff80827#Maker: discard EventClassKey, use string#StDielectronMaker
+2013-06-11 17:06:53 -0700#5ef0094#Maker: user EBIterator not access operator & key#StDielectronMaker
+2013-06-11 17:05:54 -0700#7998397#Maker: add epm reconstruct for permutated evts#StDielectronMaker
+2013-06-11 17:04:39 -0700#aa1d117#Maker: add isSameEventLikeSign()#StDielectronMaker
+2013-06-11 15:32:22 -0700#bb8d8b7#StDielectronMaker: shorten EPCheck constructor#StDielectronMaker
+2013-06-11 14:47:38 -0700#d253d4b#StDielectronMaker: replace DielecKey with string#StDielectronMaker
+2013-06-05 11:51:50 -0700#e1c9d5c#Maker: fix index for EventMixing loop#StDielectronMaker
+2013-06-05 11:51:02 -0700#e2955ea#Maker: add comment on mRefMult#StDielectronMaker
+2013-06-03 16:24:50 -0700#ea1da32#add plotEPCheck.C#StDielectronMaker
+2013-06-03 13:47:10 -0700#f9477ef#readDielectronTree: full stats, outputfile#StDielectronMaker
+2013-06-03 01:36:27 -0700#ecd6fbf#Reader: fill hInvMass output histo#StDielectronMaker
+2013-06-03 01:34:02 -0700#30bd880#Track: add GetPhiV, GetWeight#StDielectronMaker
+2013-06-03 00:58:25 -0700#2c5b645#add readDielectronTree.C#StDielectronMaker
+2013-06-03 00:58:06 -0700#c364d60#Reader: fix dielectron TreeName#StDielectronMaker
+2013-06-03 00:45:32 -0700#b3e310d#add StDielectronReader#StDielectronMaker
+2013-06-02 23:53:12 -0700#2425df0#readLeptonTree: 1.5M max evts#StDielectronMaker
+2013-06-02 22:47:30 -0700#6dc1bbc#readLeptonTree: getEvtsInBuffer#StDielectronMaker
+2013-06-02 22:34:01 -0700#f49638f#Maker: AutoSave, flushTree, FlushBaskets#StDielectronMaker
+2013-05-31 00:35:25 -0700#abc4ba0#Maker: improve memory usage#StDielectronMaker
+2013-05-30 13:37:23 -0700#66fc8ed#add submitAna.sh/xml for DielectronTrees#StDielectronMaker
+2013-05-30 12:01:40 -0700#e0f61aa#Constants: fix formula for 39/62#StDielectronMaker
+2013-05-29 15:11:21 -0700#e6031ad#Maker: implement mixed event#StDielectronMaker
+2013-05-29 13:38:21 -0700#bd37014#fix Psi2 Shift histo/fcn ranges#StDielectronMaker
+2013-05-29 12:14:17 -0700#40214f5#Maker: add mEvtMode, loop s/m#StDielectronMaker
+2013-05-29 11:32:27 -0700#240c17b#submit: fix energy in RCFile name#StDielectronMaker
+2013-05-29 01:15:27 -0700#1d1b037#Maker: add DielecKey, same/mixed#StDielectronMaker
+2013-05-29 00:23:54 -0700#b765aa8#Constants: rm initTreeNameSuffixes, change TreeName#StDielectronMaker
+2013-05-29 00:23:17 -0700#d191b9e#Maker: initTree, finishTree, reconstruct()#StDielectronMaker
+2013-05-28 22:31:21 -0700#5bac385#Constants: UInt_t mEvtBufSize#StDielectronMaker
+2013-05-28 19:17:03 -0700#99c3387#Maker: add/fill EventBuffer, cout mixing#StDielectronMaker
+2013-05-28 19:16:13 -0700#ef412a8#Constants: add mEvtBufSize#StDielectronMaker
+2013-05-28 19:03:01 -0700#d241aee#StDielectronUtils: implement getEpBin#StDielectronMaker
+2013-05-28 19:02:27 -0700#92566b4#StDielectronConstants: add mEPStep#StDielectronMaker
+2013-05-28 18:37:01 -0700#30d1587#StDielectronMaker: add hEPCheck, improve cout#StDielectronMaker
+2013-05-28 18:00:07 -0700#e4babc8#StRecenteringShift: catch mQraw isNaN#StDielectronMaker
+2013-05-28 17:59:09 -0700#e84761f#StRecenteringShift: fix psiShiftFcn and getShiftCorr#StDielectronMaker
+2013-05-28 17:56:26 -0700#924c4fe#Utils: catch 0/0 in calcPsi2#StDielectronMaker
+2013-05-28 17:55:02 -0700#891cc92#makeRecentShift: full nEvents#StDielectronMaker
+2013-05-28 12:04:08 -0700#9ccc778#StRecenteringShift/DielecMaker: getKey, initAllPsiFits, getShiftCorr#StDielectronMaker
+2013-05-23 18:53:38 -0700#61c3ff7#StRecenteringShift: rename PsiShiftFit#StDielectronMaker
+2013-05-23 17:27:45 -0700#951edf5#Psi2Rc works for StDielectronMaker & StRecenteringShift#StDielectronMaker
+2013-05-23 14:48:51 -0700#c53e74a#StRecenteringShift: fix Shift Mode input#StDielectronMaker
+2013-05-23 14:02:08 -0700#087b150#getProfileKey, getTokenStr to Utils#StDielectronMaker
+2013-05-23 11:52:38 -0700#65a8b3d#mv calcPsi2, Key, typedefs, getEpBin to Utils#StDielectronMaker
+2013-05-22 23:26:04 -0700#09a48ec#StDielectronMaker: add EventClassKey#StDielectronMaker
+2013-05-22 22:59:15 -0700#3bdba56#StRecenteringShift: remove RefMult block#StDielectronMaker
+2013-05-22 22:53:18 -0700#f6c4916#StRecenteringShift: update scripts, use merged Recentering file#StDielectronMaker
+2013-05-22 18:30:23 -0700#5385df0#genLists: remove listdir if exists#StDielectronMaker
+2013-05-22 17:21:10 -0700#725b6ad#scripts: fix submission bugs#StDielectronMaker
+2013-05-22 16:48:15 -0700#b3995b7#submit.xml: remove dat file move#StDielectronMaker
+2013-05-22 16:45:09 -0700#90ef5d2#StRecenteringShift: read fit pars from TFile RecMod0#StDielectronMaker
+2013-05-22 15:12:09 -0700#f5b692c#StRecenteringShift: add hQ for #evts#StDielectronMaker
+2013-05-22 14:55:27 -0700#a2a05f8#StRecenteringShift: ignore pts w < mMinEntries in fit#StDielectronMaker
+2013-05-20 19:36:54 -0700#f4b00d7#StRecenteringShift: update submissions scripts#StDielectronMaker
+2013-05-20 19:35:12 -0700#ddf6ef7#StRecenteringShift: switch to MultiKey#StDielectronMaker
+2013-05-16 15:44:34 -0700#65cce88#StRecenteringShift: PsiRcFit offset, range#StDielectronMaker
+2013-05-14 06:44:57 -0700#1f09340#StRecenteringShift: start psiShiftFit#StDielectronMaker
+2013-05-14 05:25:48 -0700#c9d4c96#StRecenteringShift: Psi2Shift distribution#StDielectronMaker
+2013-05-14 04:32:12 -0700#0940d6c#StRecenteringShift: write mean Qraw to file#StDielectronMaker
+2013-05-14 03:48:15 -0700#5fed19e#fix submission scripts for RecenteringShift#StDielectronMaker
+2013-05-14 03:19:29 -0700#1c3379a#StRecenteringShift: add Qx/y fits#StDielectronMaker
+2013-05-14 03:18:47 -0700#3535026#add submission scripts#StDielectronMaker
+2013-05-14 02:16:25 -0700#4470922#mv lists to lists/#StDielectronMaker
+2013-05-14 02:05:03 -0700#c4704c5#implement mean fQx/y vs Vz/RunId/RefMult#StDielectronMaker
+2013-05-14 01:32:43 -0700#c5a5327#StRecenteringShift: include StRunIdEventsDb for RunId index#StDielectronMaker
+2013-05-14 01:02:13 -0700#c508cf2#add makeRecentShift.C#StDielectronMaker
+2013-05-14 00:57:45 -0700#7c056c7#add StRecenteringShift#StDielectronMaker
+2013-05-14 00:57:29 -0700#42bbe0b#add StDielectronUtils, mv getVzBin#StDielectronMaker
+2013-05-14 00:13:53 -0700#4113e4e#add filelists#StDielectronMaker
+2013-05-13 23:48:36 -0700#7375565#getVzBin: fix compiler errors#StDielectronMaker
+2013-05-13 23:06:45 -0700#290fe35#implement getVzBin via VzFits#StDielectronMaker
+2013-05-13 22:05:36 -0700#8e99bad#mixed event comments#StDielectronMaker
+2013-05-13 19:17:00 -0700#028fbeb#implement SE Neg/PosLS#StDielectronMaker
+2013-05-13 19:03:16 -0700#5319ad2#implement vectors for 6 DielectronTrees#StDielectronMaker
+2013-05-13 18:39:25 -0700#3a4087d#implement phiV calc#StDielectronMaker
+2013-05-13 18:24:26 -0700#d42fefd#implement StRefMultCorr for DielectronTrack#StDielectronMaker
+2013-05-13 18:03:05 -0700#f56ee0a#readLeptonTree running#StDielectronMaker
+2013-05-13 17:18:58 -0700#2894ee6#fix compiler errors#StDielectronMaker
+2013-05-13 17:18:46 -0700#8300121#add gitignore#StDielectronMaker
+2013-05-13 16:46:11 -0700#d534dc8#switch to DielecTree#StDielectronMaker
+2013-05-13 16:24:44 -0700#07674d6#add StDielectronTrack#StDielectronMaker
+2013-05-13 15:40:27 -0700#6778dd5#add StDielectronConstants#StDielectronMaker
+2013-05-13 15:31:28 -0700#141b18c#implement unlike-sign SE#StDielectronMaker
+2013-05-13 14:46:29 -0700#c9d753a#initial commit#StDielectronMaker

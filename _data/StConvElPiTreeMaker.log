@@ -1,0 +1,25 @@
+2013-12-12 17:26:13 -0800#cca41fd#add symlink to resubmit.sh#StConvElPiTreeMaker
+2013-12-02 19:06:08 -0800#7edef20#fix passTrack pid return value, serious stats missing#StConvElPiTreeMaker
+2013-11-27 14:37:36 -0800#e16e96c#comment like-sign combos#StConvElPiTreeMaker
+2013-11-27 14:35:06 -0800#825ce21#readPicoDst: fix number of events#StConvElPiTreeMaker
+2013-11-26 18:35:01 -0800#0b80589#add same-sign combos#StConvElPiTreeMaker
+2013-11-26 18:32:08 -0800#c64c4d5#change cut order DecLen/InvMassPrim#StConvElPiTreeMaker
+2013-11-26 18:30:49 -0800#0278e1e#change some histo binning#StConvElPiTreeMaker
+2013-11-26 18:29:57 -0800#27da923#use pMom instead of pPt for hNSigmaEl#StConvElPiTreeMaker
+2013-11-26 18:27:34 -0800#c22a68e#Constants: update InvMassPrimCuts#StConvElPiTreeMaker
+2013-11-21 16:23:50 -0800#3f38645#nSigmaEl binning & total#StConvElPiTreeMaker
+2013-11-15 14:20:01 -0800#5966ac3#cut constants, separate Dal/PE#StConvElPiTreeMaker
+2013-11-15 11:00:58 -0800#3459f2b#add softlink to submitDDD.sh#StConvElPiTreeMaker
+2013-11-14 13:01:33 -0800#862fedc#fix memory leak#StConvElPiTreeMaker
+2013-11-13 18:31:05 -0800#6600b0b#fix nSigma for 27 GeV#StConvElPiTreeMaker
+2013-11-13 12:13:12 -0800#810e51f#Maker: implement both charge combinations, sep. histos#StConvElPiTreeMaker
+2013-11-13 11:24:36 -0800#2266b89#StConvElPiTreeMaker: add histos, improve cuts#StConvElPiTreeMaker
+2013-11-13 11:22:21 -0800#480a5d0#StConvElPiCut: simplify PE-nSigma, mv above pi#StConvElPiTreeMaker
+2013-10-14 20:50:19 -0700#d08a387#implement combinatorial cuts#StConvElPiTreeMaker
+2013-10-14 19:38:59 -0700#0f9ff05#cleanup and combinatorics cuts#StConvElPiTreeMaker
+2013-10-14 19:00:10 -0700#a7f0722#implement combinatorics for e+/e-#StConvElPiTreeMaker
+2013-10-14 14:29:23 -0700#cc07ac2#add gitignore#StConvElPiTreeMaker
+2013-10-14 14:29:02 -0700#64b9893#implement pions#StConvElPiTreeMaker
+2013-10-14 12:18:08 -0700#2eab679#use MyEventEmbData#StConvElPiTreeMaker
+2013-10-14 12:17:03 -0700#2e2def0#add readPicoDsts.C#StConvElPiTreeMaker
+2013-10-14 10:48:15 -0700#3cad1e8#initial commit: Maker, Constants#StConvElPiTreeMaker

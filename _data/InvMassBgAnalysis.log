@@ -1,0 +1,111 @@
+2014-01-20 22:05:27 -0800#939dde2#reproduce QM12 data with Ralfs 39 GeV calcs#InvMassBgAnalysis
+2014-01-20 21:28:55 -0800#32d29d4#add Ralf's 39 GeV calculation#InvMassBgAnalysis
+2014-01-13 16:26:14 -0800#2932710#add data for xfactor plot#InvMassBgAnalysis
+2013-11-15 11:53:09 -0800#58bfb6c#add/update gitignore#InvMassBgAnalysis
+2013-11-13 22:52:03 -0800#1f297aa#fix compilation warnings#InvMassBgAnalysis
+2013-03-08 14:11:43 -0800#1cef1d0#CPOD13 charm plot for Xin#InvMassBgAnalysis
+2013-01-28 16:07:00 -0800#77b5ec2#cleanup includes#InvMassBgAnalysis
+2013-01-24 15:39:15 -0800#c35fe97#invmassBg: include util classes for automatic linking#InvMassBgAnalysis
+2013-01-24 15:38:32 -0800#76cd6d3#fix for new StRunIdEventsDb constructor call#InvMassBgAnalysis
+2013-01-23 23:48:18 -0800#4e75db2#replace src-includes with StRoot#InvMassBgAnalysis
+2013-01-23 23:41:02 -0800#d07a966#replace quote-includes for ROOT headers (2)#InvMassBgAnalysis
+2013-01-23 23:34:03 -0800#258777b#replace quote-includes for ROOT headers#InvMassBgAnalysis
+2012-12-08 18:41:00 -0500#12415c2#merge commit w/ resolved conflicts in InvMassBgAnalysis.*#InvMassBgAnalysis
+2012-12-06 22:56:18 -0500#e623284#plotDataCocktailDiff: plot difference to cocktail#InvMassBgAnalysis
+2012-12-02 13:37:02 -0700#97889bb#add Makefiles for XinCocktailAna and DiLeptonNtupleSelector#InvMassBgAnalysis
+2012-11-28 12:00:55 -0800#904cffe#InvMassBgAnalysis/macros: dat-files at UCLA STAR Ana Mtg.#InvMassBgAnalysis
+2012-11-28 11:59:45 -0800#d11ee9b#plotInMedRhoPanel: account for & plot all BES energies#InvMassBgAnalysis
+2012-11-28 11:58:26 -0800#996d950#getPtSpectraTmpFiles.sh: add 27 GeV into loop#InvMassBgAnalysis
+2012-11-28 11:57:25 -0800#10bcb9f#getAllGnuplotDatFiles: add 27GeV, adjust input to new 2D eff-corr#InvMassBgAnalysis
+2012-11-28 11:54:45 -0800#7d5f59e#InvMassBgAnalysis: SysErr off, AddBg on#InvMassBgAnalysis
+2012-11-28 11:53:54 -0800#6402823#InvMassBgAnalysis: write AllPt graphs, scale AllPt to pi-region#InvMassBgAnalysis
+2012-11-28 11:52:29 -0800#0069355#InvMassBgAnalysis: add up single curPt spectra into AllPt (incl. Rho & SysErr)#InvMassBgAnalysis
+2012-11-28 11:47:33 -0800#307ed06#InvMassBgAnalysis: 2D efficiency correction (Mee,pT), now applied on signal#InvMassBgAnalysis
+2012-11-28 11:44:57 -0800#57cd930#invmassBg: system call to mkdir for pics dir#InvMassBgAnalysis
+2012-11-18 19:38:28 -0800#26f4600#MyCollection: checkBinBorders overload, PureSampleAnalysis/InvMassBgAnalysis updated#InvMassBgAnalysis
+2012-11-18 18:58:58 -0800#d0791ce#InvMassBgAnalysis: checkBinBorders fcn to MyCollection#InvMassBgAnalysis
+2012-11-01 15:29:32 -0700#cd9b040#InvMassBgAnalysis: remove phiV eff (now in eeDecay)#InvMassBgAnalysis
+2012-10-10 12:38:56 +0800#dbb61ed#updated of AllEnergiesData/InMedRhoPanel for QM2012 proceedings#InvMassBgAnalysis
+2012-10-10 12:38:24 +0800#65e8805#add missing prologue.ps in InMedRhoEnergyComparison#InvMassBgAnalysis
+2012-09-21 18:48:01 -0700#c68565e#plotInMedRhoPanel for NSD Newsletter#InvMassBgAnalysis
+2012-09-21 18:44:04 -0700#cb9d7ce#added PtSpectra4NuXu dir and scripts#InvMassBgAnalysis
+2012-09-21 18:37:32 -0700#3b53977#ptdat files for PtSpectra4NuXu (in MeeYieldVsEnergy)#InvMassBgAnalysis
+2012-09-21 18:36:43 -0700#28d18dd#calculation of highest pT bin dependent on NrPtBins and ptstep (getPtSpectraTmpFiles)#InvMassBgAnalysis
+2012-09-21 18:35:33 -0700#765d9e6#gnuplot yields*.dat files for PtSpectra4NuXu#InvMassBgAnalysis
+2012-09-21 18:34:24 -0700#26918c9#update of getAllGnuplotDatFiles.C of InvMassBgAnalysis for PtSpectra4NuXu#InvMassBgAnalysis
+2012-09-21 18:33:12 -0700#f84af68#changes for PtSpectra4NuXu, minor cleanup of InvMassBgAnalysis/invmassBg after QM#InvMassBgAnalysis
+2012-08-31 01:49:07 -0700#6025150#updated drawNrLeptons in InvMassBgAnalysis for 19/27 GeV#InvMassBgAnalysis
+2012-08-30 11:39:34 -0700#9a576e2#BgSubGP data files updated with new FixedShiftCorrEP run#InvMassBgAnalysis
+2012-08-30 11:38:34 -0700#f0d5ca0#updated InvMassBgAnalysis to run with 19 & 27 GeV#InvMassBgAnalysis
+2012-08-28 17:32:37 -0700#036cb76#updated all source code depending on StRunIdEventsDb#InvMassBgAnalysis
+2012-08-24 18:50:28 -0700#0acd339#datfiles and scripts in InvMassBgAnalysis/macros/DataCocktailRatio#InvMassBgAnalysis
+2012-08-24 18:50:28 -0700#ef9550a#datfiles and script in InvMassBgAnalysis/macros/InMedRhoEnergyComparison#InvMassBgAnalysis
+2012-08-24 18:50:28 -0700#d8dfd74#datfiles and script in InvMassBgAnalysis/macros/BgSubGP#InvMassBgAnalysis
+2012-08-24 18:50:27 -0700#3d4b667#datfiles and scripts in InvMassBgAnalysis/macros/MeeYieldVsEnergy#InvMassBgAnalysis
+2012-08-24 18:50:27 -0700#e26892c#getAllGnuplotDatFiles macro generated#InvMassBgAnalysis
+2012-08-24 18:50:27 -0700#40a5e50#separate runCocktail program#InvMassBgAnalysis
+2012-08-24 18:50:27 -0700#8916089#InvMassBgAnalysis update for QM2012 (huge)#InvMassBgAnalysis
+2012-08-24 18:50:26 -0700#b1138a2#InvMassBgAnalysis/macros/Spectrum200XinQM2011.h#InvMassBgAnalysis
+2012-07-18 11:10:38 -0700#2e9e7c6#updated plotPtSpectraVsEnergy.sh#InvMassBgAnalysis
+2012-07-16 17:54:10 -0700#eebe6b0#added XinCocktailAna (analysis.cxx) and included in drawEnergyRatios.C#InvMassBgAnalysis
+2012-07-16 17:52:23 -0700#7746fe7#pt dependence in plotPtSpectraVsEnergy.sh + data files#InvMassBgAnalysis
+2012-07-16 17:51:11 -0700#91843fb#NrPtBins dependence in getMeeYieldVsEnergy.C#InvMassBgAnalysis
+2012-07-16 17:49:41 -0700#14169af#made root-output for histograms NrPtBins dependent#InvMassBgAnalysis
+2012-07-14 13:21:02 -0700#40b1677#added MeeYieldVsEnergy scripts#InvMassBgAnalysis
+2012-07-13 18:26:42 -0700#b2ecc2b#saving eeSpectrum as TGraphErrors#InvMassBgAnalysis
+2012-07-13 14:48:23 -0700#f1f5b72#status at DielectronMeeting 12-07-13 (Cocktail Checks)#InvMassBgAnalysis
+2012-06-25 15:27:08 -0700#f08b15a#changes InvMass Binning, removed 20x of rho0#InvMassBgAnalysis
+2012-06-14 22:32:20 -0700#64e9c91#writing Spectra to invmassBg_out.root#InvMassBgAnalysis
+2012-06-14 22:14:13 -0700#abee4ff#implemented exp/cocktail ratios in InvMassBgAnalysis#InvMassBgAnalysis
+2012-06-14 17:36:03 -0700#8e00158#fixed EffCorr problem in InvMassBgAnalysis (maxMee=4.5 in eeDecay)#InvMassBgAnalysis
+2012-06-06 01:28:15 -0700#d700559#removed argc & iter.index related cout's#InvMassBgAnalysis
+2012-06-06 01:17:09 -0700#7ae989f#using TApplication instead of TRint in programs#InvMassBgAnalysis
+2012-06-04 14:49:48 -0700#bbad65e#updated tofMatchEff in EmbeddingQA for 4Jun12 MondayMeeting#InvMassBgAnalysis
+2012-06-02 17:32:30 -0700#3678aa6#improved formatting in invmassBg.cc#InvMassBgAnalysis
+2012-06-02 14:55:37 -0700#98cc21e#Merged Commit: transition to TemplateAnalysis scheme#InvMassBgAnalysis
+2012-05-30 17:43:59 -0700#c9430c3#minor updates in InvMassBgAnalysis for RNC Talk#InvMassBgAnalysis
+2012-05-13 04:01:18 -0700#c608154#added getLowEdgesCont to MyCollection for variable binning, updated InvMassBgAnalysis#InvMassBgAnalysis
+2012-05-12 19:39:39 -0700#75115f5#added macro to plot particle ratios vs. energy for cocktail input#InvMassBgAnalysis
+2012-05-12 19:35:51 -0700#271d8c8#1st preliminary version of Dielectron Spectrum to Cocktail Comparison#InvMassBgAnalysis
+2012-05-02 16:22:39 -0700#be52f1f#version compiling on carver after final tweaks, README updated, typo hMerge.cc in Makefile.am#InvMassBgAnalysis
+2012-05-02 15:01:58 -0700#d469896#updated README and solved warnings about int-float-double type conversions#InvMassBgAnalysis
+2012-04-30 14:38:30 -0700#e7e79f8#added src/InvMassAnalysis/macros/ (only sn.C macro so far)#InvMassBgAnalysis
+2012-04-30 14:33:16 -0700#2ad5dda#rewrote InvMassAnalysisBg for BES-II BUR input#InvMassBgAnalysis
+2012-04-19 17:04:10 -0700#aecb56a#updated InvMassBgAnalysis for STAR Analysis Meeting @ BNL (17-Apr-2012)#InvMassBgAnalysis
+2012-04-14 19:33:48 -0700#c18d6c5#finished LsBkgdSub2D plot including variable rebinning in mee & pt#InvMassBgAnalysis
+2012-04-13 23:06:48 -0700#bab2ce5#rewrote 3D rebinning using variable bin widths for all axes#InvMassBgAnalysis
+2012-04-09 20:19:31 -0700#d3b4676#status for Monday Meeting 04/09/2012, first cocktail comparison#InvMassBgAnalysis
+2012-04-08 23:00:36 -0700#a224e16#added efficiency correction to InvMassBgAnalysis, updated scales#InvMassBgAnalysis
+2012-03-27 11:03:52 -0700#4be7f57#preparing (N-A*B)/sig 2D-plot in InvMassBgAnalysis#InvMassBgAnalysis
+2012-03-20 16:05:25 -0700#e57581c#updated InvMassBgAnalysis for VectorMesonPanel @ LBNL Retreat#InvMassBgAnalysis
+2012-03-06 10:35:25 -0800#2c3f911#status for talk at Dielectron Meeting 02/24/2012#InvMassBgAnalysis
+2012-02-20 02:04:02 -0800#dfc3116#developed drawEventsLeptonNrs() and added it to InvMassBgAnalysis()#InvMassBgAnalysis
+2012-02-16 20:55:53 -0800#7af98ab#included centrality in InvMassBgAnalysis via 3D Ndmdpt histograms#InvMassBgAnalysis
+2012-02-16 17:09:54 -0800#a6c17fc#development of feature/NrEvBufsStudy#InvMassBgAnalysis
+2012-02-15 23:48:45 -0800#ef25359#started MyCollection class#InvMassBgAnalysis
+2012-02-15 14:49:21 -0800#30bb6b7#no need to append RR/EP/Vz/M to rootfile name in writeMeHistos4EvBufStudy#InvMassBgAnalysis
+2012-02-15 14:13:15 -0800#c3c50b3#NrBuffers(RR/EP/Vz/M) put in InvMassBgAnalysis#InvMassBgAnalysis
+2012-02-14 18:53:20 -0800#254da1c#added couts for total ME+- & avg. A+- to compare RR1/18#InvMassBgAnalysis
+2012-02-13 21:02:15 -0800#1b1e929#updated InvMassBgAnalysis for NoRunRanges Analysis#InvMassBgAnalysis
+2012-02-13 20:17:30 -0800#0bad4fd#added writeMeHistos4EvBufStudy to InvMassBgAnalysis.cxx#InvMassBgAnalysis
+2012-02-13 20:17:30 -0800#0c31fdd#updated anaEventBuffer() in InvMassBgAnalysis()#InvMassBgAnalysis
+2012-02-13 20:17:29 -0800#b69884f#minor changes in InvMassBgAnalysis()#InvMassBgAnalysis
+2012-02-13 20:17:29 -0800#1aa4f27#implemented TGraphErrors for all Signal Spectra in InvMassBgAnalysis()#InvMassBgAnalysis
+2012-02-13 20:17:29 -0800#3cfb132#Min. #evts cut to analyze specific RunRanges only#InvMassBgAnalysis
+2012-02-13 20:17:28 -0800#c8009ae#included anaEventBuffer() in InvMassBgAnalysis() for nrevts[RR]#InvMassBgAnalysis
+2012-02-13 20:17:28 -0800#b4c9ac1#implemented RunRange dependence in InvMassBgAnalysis()#InvMassBgAnalysis
+2012-02-13 20:17:27 -0800#abe6f7a#additional combinatorial background ratio plots#InvMassBgAnalysis
+2012-02-13 20:17:26 -0800#a95b442#additional inv. mass range in InvMassBgAnalysis#InvMassBgAnalysis
+2012-02-13 20:17:26 -0800#2693e55#minor changes for DrawLinearScales() in bins & ranges#InvMassBgAnalysis
+2012-02-13 20:17:25 -0800#f4240da#included pT dependent InvMassBgAnalysis in DrawLinearScales()#InvMassBgAnalysis
+2012-02-13 20:17:25 -0800#339bd48#drawLinearScales() entirely rewritten for multiple analyses#InvMassBgAnalysis
+2012-02-13 20:17:24 -0800#e14fd8d#switched from one set of SE/ME(Bg,Sig) histos to multiple#InvMassBgAnalysis
+2012-02-13 20:17:24 -0800#3b80654#switching to 2D projections instead of 1dim InvMassHistos#InvMassBgAnalysis
+2012-02-13 20:17:23 -0800#9997788#version for DielectronMeeting 01/20/2012#InvMassBgAnalysis
+2012-02-13 20:16:21 -0800#9ea71e0#detail work on InvMassBgAnalysis wrt AccCorrFac & ProcCPOD#InvMassBgAnalysis
+2012-02-13 20:16:20 -0800#61ffdc4#all options in InvMassBgAnalysis working#InvMassBgAnalysis
+2012-02-13 20:16:20 -0800#0875b0a#checked, commented & setters in InvMassBgAnalysis#InvMassBgAnalysis
+2012-02-13 20:16:19 -0800#7083746#implemented variable binning for AccCorrFac plot#InvMassBgAnalysis
+2012-02-13 20:16:19 -0800#de88259#39_FullCarverIII_ProcCPOD Ana -> Event Plane bufs#InvMassBgAnalysis
+2012-02-13 20:16:06 -0800#a446a45#included MyUtilities directory in src/#InvMassBgAnalysis
+2011-11-21 15:35:24 -0800#21c44c8#initial commit (21 Nov 2011)#InvMassBgAnalysis

@@ -1,0 +1,55 @@
+2013-05-09 17:47:54 -0700#46b3c36#NOTE: add virtualenv command#ccsweb
+2013-05-09 17:42:30 -0700#4e8411e#NOTE: add server run instructions#ccsweb
+2013-05-09 17:35:29 -0700#5c2660d#add requirements install to NOTE#ccsweb
+2013-05-09 02:28:30 -0700#aef0167#draw plots via dropdown works#ccsweb
+2013-05-09 01:54:42 -0700#dc77c13#plots: add dropdown, draw PE-kH on submit#ccsweb
+2013-05-09 01:26:16 -0700#9aa8136#add NOTE#ccsweb
+2013-05-09 01:23:28 -0700#7504973#improve plot#ccsweb
+2013-05-09 01:01:15 -0700#1227f1e#Decimals, MEA line#ccsweb
+2013-05-08 23:10:58 -0700#1839881#include Structures in Tooltip#ccsweb
+2013-05-08 23:10:37 -0700#033a1e3#base.html: load labels plugin#ccsweb
+2013-05-08 23:09:12 -0700#45593c4#add flot.labels plugin#ccsweb
+2013-05-08 19:01:08 -0700#976cc1f#plots: fix axis labels, hovering#ccsweb
+2013-05-08 03:24:41 -0700#8f0e4e0#plots: try hover/click#ccsweb
+2013-05-08 03:01:44 -0700#2978f62#improve PE plot#ccsweb
+2013-05-08 03:01:00 -0700#6c1af8d#add jquery.float.axislabels#ccsweb
+2013-05-08 01:48:51 -0700#b188847#update requirements#ccsweb
+2013-05-08 00:38:42 -0700#b54d778#simple flot example working#ccsweb
+2013-05-08 00:38:16 -0700#ac70cbf#add jquery flot files#ccsweb
+2013-05-08 00:04:45 -0700#ad9c4ed#add requirements.txt#ccsweb
+2013-05-08 00:02:05 -0700#86ffe3f#add plots view, route, template#ccsweb
+2013-05-08 00:01:31 -0700#f14ff4c#index: add h3 title#ccsweb
+2013-05-07 23:50:39 -0700#8eb06ec#base: better navigation#ccsweb
+2013-05-07 23:50:24 -0700#4a23388#add awesome fonts#ccsweb
+2013-04-23 22:47:06 -0700#7429741#add numpy install to README#ccsweb
+2013-04-23 10:57:51 -0700#f61a271#README update#ccsweb
+2013-04-23 01:26:09 -0700#1b65526#add README#ccsweb
+2013-04-23 01:16:06 -0700#5801381#add/import all db.yml data#ccsweb
+2013-04-23 00:42:30 -0700#ba2f45d#add parasitic energies#ccsweb
+2013-04-23 00:07:40 -0700#a04661a#results.html: add kH, qs#ccsweb
+2013-04-23 00:07:25 -0700#be0d751#db_import: add kH, qs#ccsweb
+2013-04-23 00:07:11 -0700#973cc98#models.py: add kH, qs#ccsweb
+2013-04-22 23:40:20 -0700#76237a1#results.html: improve layout, add T#ccsweb
+2013-04-22 23:40:02 -0700#02af09f#bootstrap.css: undo padding, line-height#ccsweb
+2013-04-22 23:39:26 -0700#5c0fed1#models.py: T integers#ccsweb
+2013-04-22 01:50:40 -0700#9882f3c#results.html: implement dH#ccsweb
+2013-04-22 01:38:25 -0700#3f7faf0#implement Isofit, Temperature models#ccsweb
+2013-04-22 00:26:39 -0700#b60cda0#print adsorbates after submit#ccsweb
+2013-04-21 23:51:32 -0700#54fd615#add results.html template, make strucList#ccsweb
+2013-04-21 23:50:51 -0700#e000468#base.html: remove Request link#ccsweb
+2013-04-21 23:22:07 -0700#a688a9d#views.py: validate_on_submit#ccsweb
+2013-04-21 23:21:43 -0700#637f52d#index.html: add post form, submit button#ccsweb
+2013-04-21 23:20:28 -0700#85d8d37#base.html: add flashed messages#ccsweb
+2013-04-21 22:48:06 -0700#6e5a737#add source to MultiCheckboxField#ccsweb
+2013-04-21 22:41:53 -0700#899850c#MultiCheckBoxField#ccsweb
+2013-04-21 22:07:52 -0700#942a98b#radio list of structures#ccsweb
+2013-04-21 22:07:20 -0700#a171a85#update base.html#ccsweb
+2013-04-21 22:03:39 -0700#716670d#css: update bootstrap, add sidebar#ccsweb
+2013-04-21 03:36:10 -0700#a4cd9e3#views.py: add dropdown, render index#ccsweb
+2013-04-21 03:35:42 -0700#3bc3534#add index.html template#ccsweb
+2013-04-21 03:35:23 -0700#08aacbb#add base.html template#ccsweb
+2013-04-21 03:34:07 -0700#d5465a0#add forms.py#ccsweb
+2013-04-21 03:33:23 -0700#847d5c0#config: add CSRF#ccsweb
+2013-04-21 03:32:59 -0700#2f7f2e1#add bootstrap#ccsweb
+2013-04-21 01:45:05 -0700#95a5e37#first basic db models, import/testing#ccsweb
+2013-04-21 00:47:23 -0700#d3d6c0e#initial commit#ccsweb

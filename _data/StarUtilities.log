@@ -1,0 +1,29 @@
+2012-09-04 13:08:53 -0700#2c91854#Merge branch 'hotfix/v0.4.4' into develop#StarUtilities
+2012-09-04 13:08:40 -0700#e19e780#Merge branch 'hotfix/v0.4.4'#StarUtilities
+2012-09-04 13:08:22 -0700#b250204#updated .gitattributes#StarUtilities
+2012-08-31 01:10:14 -0700#28e524b#Merge branch 'hotfix/v0.4.3' into develop#StarUtilities
+2012-08-31 01:09:53 -0700#7d36e0c#Merge branch 'hotfix/v0.4.3'#StarUtilities
+2012-08-31 01:09:39 -0700#b12d374#fixed dbfile location in StRunIdEventsDb#StarUtilities
+2012-08-31 01:02:14 -0700#7aa388e#Merge branch 'hotfix/v0.4.2' into develop#StarUtilities
+2012-08-31 01:01:40 -0700#ab52de0#Merge branch 'hotfix/v0.4.2' - README & StBadRdosDb dbfile loc#StarUtilities
+2012-08-31 01:01:26 -0700#8e58265#fixed location of dbfile in StBadRdosDb#StarUtilities
+2012-08-31 01:00:56 -0700#3978788#markdown version of README#StarUtilities
+2012-08-28 15:50:40 -0700#3c5109d#Merge branch 'hotfix/v0.4.1' into develop#StarUtilities
+2012-08-28 15:50:11 -0700#957336a#Merge branch 'hotfix/v0.4.1'#StarUtilities
+2012-08-28 15:50:02 -0700#e33087e#README updated for hotfix v0.4.1#StarUtilities
+2012-08-28 15:49:28 -0700#f629070#fixed missing includes/namespace in StRunIdEventsDb#StarUtilities
+2012-08-28 14:57:32 -0700#8eac897#Merge branch 'release/v0.4' into develop - StRunIdEventsDb#StarUtilities
+2012-08-28 14:56:02 -0700#a5463fe#Merge branch 'release/v0.4' - StRunIdEventsDb#StarUtilities
+2012-08-28 14:55:49 -0700#e030528#updated README with instructions for release v0.4#StarUtilities
+2012-08-28 14:44:10 -0700#0469f7b#Merge branch 'feature/RunIdEventsDb' into develop#StarUtilities
+2012-08-28 13:25:51 -0700#785f396#rewrote StRunIdEventsDb for all energies (map, data struct)#StarUtilities
+2012-08-27 14:06:18 -0700#ce5423b#directory structure consistent w/ StBadRdosDb, __ROOT__ preprocessor flag#StarUtilities
+2012-08-27 13:59:34 -0700#eab05a6#added __ROOT__ preprocessor flag to StBadRdosDb.cxx#StarUtilities
+2012-08-27 12:27:50 -0700#dea70c8#added original version w/o 27 GeV#StarUtilities
+2012-06-08 00:21:19 -0700#763d9ba#Merge 'release/v0.1' into develop -- initial release#StarUtilities
+2012-06-08 00:20:01 -0700#1b35172#Merge 'release/v0.1' -- initial release#StarUtilities
+2012-06-08 00:19:52 -0700#9275a97#bumped version number into README#StarUtilities
+2012-06-08 00:16:05 -0700#24cc1b1#Merge 'feature/StBadRdosDb' into develop -- added StBadRdosDb#StarUtilities
+2012-06-08 00:14:09 -0700#685871a#updated README with StBadRdosDb documentation#StarUtilities
+2012-06-08 00:13:47 -0700#dc07128#moved getCentralityBins.C to src/StRefMultCorr/macros/#StarUtilities
+2012-06-07 23:56:09 -0700#2258cca#added initial version of StBadRdosDb#StarUtilities

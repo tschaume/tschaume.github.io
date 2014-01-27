@@ -1,0 +1,34 @@
+2014-01-27 00:30:38 -0800#d1436fb#pre-push: forget tracking tschaume.github.io#tschaume.github.io
+2014-01-27 00:26:36 -0800#e16e5b3#update tschaume.github.io logs#tschaume.github.io
+2014-01-27 00:26:31 -0800#1ca5793#pre-push: catch inner push#tschaume.github.io
+2014-01-27 00:24:33 -0800#044c40e#update tschaume.github.io logs#tschaume.github.io
+2014-01-27 00:24:07 -0800#1cc96b4#pre-push: add no-verify push in logdir#tschaume.github.io
+2014-01-27 00:14:29 -0800#1761387#update tschaume.github.io logs#tschaume.github.io
+2014-01-27 00:14:23 -0800#d2be3fd#pre-push: improving ...#tschaume.github.io
+2014-01-27 00:12:44 -0800#f51a643#pre-push: add echos#tschaume.github.io
+2014-01-27 00:06:16 -0800#ad6c8df#commit repo logs in pre-push#tschaume.github.io
+2014-01-27 00:04:12 -0800#259663f#prepare/test pre-push script#tschaume.github.io
+2014-01-26 23:13:55 -0800#a462bb3#switch to pre-push#tschaume.github.io
+2014-01-26 23:07:33 -0800#2df5e5d#mv post-commit to _data#tschaume.github.io
+2014-01-26 23:05:11 -0800#0afbe1d#update README, add post-commit script#tschaume.github.io
+2014-01-26 22:09:44 -0800#b4c413e#udpate _data submodule#tschaume.github.io
+2014-01-26 22:00:22 -0800#1224c17#rm posts dir#tschaume.github.io
+2014-01-26 21:59:30 -0800#14a552e#submodule update#tschaume.github.io
+2014-01-26 21:58:50 -0800#e5eb894#README update#tschaume.github.io
+2014-01-26 21:01:21 -0800#f3fb3be#add global_gitfeed_data submodule#tschaume.github.io
+2014-01-26 20:41:52 -0800#2b73e2b#README: add submodule url#tschaume.github.io
+2014-01-26 20:21:56 -0800#8eac6fe#cleanup README#tschaume.github.io
+2014-01-26 20:15:16 -0800#ea7105e#update README#tschaume.github.io
+2014-01-26 17:36:50 -0800#d2c7ddc#truncate msg string#tschaume.github.io
+2014-01-26 17:36:29 -0800#4cc1549#remove data#tschaume.github.io
+2014-01-26 17:21:39 -0800#5c5fb7a#fix timestamps, improve layout#tschaume.github.io
+2014-01-26 16:18:04 -0800#a5406dd#remove seconds from commit times#tschaume.github.io
+2014-01-26 16:15:47 -0800#8e026c7#improve list layout#tschaume.github.io
+2014-01-26 15:51:43 -0800#92092f3#fix missing repo name#tschaume.github.io
+2014-01-26 14:21:49 -0800#a706360#add get_feed.sh, improve yml list generation#tschaume.github.io
+2014-01-26 03:56:17 -0800#c5f86c1#start simple ccsgp_get_started log#tschaume.github.io
+2014-01-26 01:08:23 -0800#81fae96#config updates#tschaume.github.io
+2014-01-26 01:02:42 -0800#cbec804#Merge branch 'master' of https://github.com/tschaume/tschaume.github.io#tschaume.github.io
+2014-01-26 01:01:29 -0800#b87965e#jekyll boilerplate#tschaume.github.io
+2014-01-25 23:51:41 -0800#69df262#Create README.md#tschaume.github.io
+2014-01-25 23:42:25 -0800#28690dd#initial commit#tschaume.github.io

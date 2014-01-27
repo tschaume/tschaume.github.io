@@ -1,0 +1,15 @@
+2013-11-15 11:53:09 -0800#ace1644#add/update gitignore#RunQA
+2013-11-13 22:53:26 -0800#48f8241#fix compilation warnings#RunQA
+2013-10-14 18:07:38 +0200#0d07488#update in-/output for thesis replot#RunQA
+2013-02-04 16:53:23 -0800#7109e8a#finish up numbers#RunQA
+2013-02-04 14:31:55 -0800#78c6738#print in postscript#RunQA
+2013-02-03 00:50:49 -0800#a4c671c#plot all energies, fix RR-Lines#RunQA
+2013-02-02 21:17:55 -0800#2f61e27#handle year internally#RunQA
+2013-02-02 19:07:11 -0800#6776050#fVyl/u 500 px#RunQA
+2013-02-02 19:01:39 -0800#085b535#fix fVy plot with Grubbs getters#RunQA
+2013-02-02 18:50:33 -0800#c949301#doRunQA: quiet option#RunQA
+2013-02-02 18:38:37 -0800#ef15822#minor bugfixes#RunQA
+2013-02-02 01:44:58 -0800#fbd8f7b#implement draw canvas, compiles, runs in batch#RunQA
+2013-02-01 18:56:29 -0800#6921fb8#class Grubbs/LinFit, grubbs test in doRunQA running#RunQA
+2013-02-01 15:35:55 -0800#83ae862#rename#RunQA
+2013-02-01 15:30:25 -0800#c65a50f#add doRunQA.C#RunQA

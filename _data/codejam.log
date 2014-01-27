@@ -1,0 +1,61 @@
+2014-01-27 01:09:13 -0800#02b0398#add gcj2010#codejam
+2013-04-13 16:54:27 -0700#ff8b3ea#contest 2013 QR#codejam
+2013-04-11 11:04:15 -0700#32e4544#Snapper: trying parallel via openmp#codejam
+2013-04-11 02:34:16 -0700#58e6861#Snapper: progress(), modulo shortcut#codejam
+2013-04-11 01:42:49 -0700#d56799a#template: update#codejam
+2013-04-11 01:40:44 -0700#59f6171#Snapper: test works#codejam
+2013-04-10 23:42:14 -0700#f8ff4d9#template: add test.in#codejam
+2013-04-10 23:41:53 -0700#cdbc797#template: out extension#codejam
+2013-04-10 23:35:58 -0700#0ee45d8#add .gitignore#codejam
+2013-04-10 23:35:48 -0700#d7d17db#move gcj-cl to cl#codejam
+2013-04-10 23:27:57 -0700#488f1ab#gcj2010 QR-Africa dir#codejam
+2013-04-10 22:36:20 -0700#7498d45#add gcj-cl v1.2-beta1#codejam
+2013-04-10 22:28:53 -0700#62fbcd0#move MinimumScalarProducts files#codejam
+2013-04-10 22:27:19 -0700#9083217#Merge remote-tracking branch 'MinimumScalarProduct/master'#codejam
+2013-04-10 22:21:22 -0700#cc18d23#move Milkshakes files#codejam
+2013-04-10 22:20:30 -0700#dcfd203#Merge remote-tracking branch 'Milkshakes/master'#codejam
+2013-04-10 22:15:33 -0700#e55812d#move T9Spelling files#codejam
+2013-04-10 22:13:23 -0700#2dfe688#Merge remote-tracking branch 'T9Spelling/master'#codejam
+2013-04-10 22:12:02 -0700#9e940e1#move ReverseWords files#codejam
+2013-04-10 22:10:32 -0700#eabd0c8#Merge remote-tracking branch 'ReverseWords/master'#codejam
+2013-04-10 22:05:55 -0700#380ce11#move StoreCredit files#codejam
+2013-04-10 22:01:34 -0700#60a6d34#Merge remote-tracking branch 'StoreCredit/master'#codejam
+2013-04-10 21:58:59 -0700#dd00cb3#move ana.cc to template/#codejam
+2013-04-01 03:04:35 -0400#01fd3c6#add ana.cc, input parse not ready#codejam
+2013-04-01 01:46:08 -0400#89f8f10#add test.in#codejam
+2013-04-01 01:46:00 -0400#3577864#init: add README#codejam
+2013-04-01 01:37:02 -0400#6646c07#add README#codejam
+2013-04-01 01:33:12 -0400#deda926#add README#codejam
+2013-04-01 01:29:10 -0400#a03976d#fix Case in README#codejam
+2013-04-01 01:28:14 -0400#1e4f46b#add README#codejam
+2013-04-01 01:23:54 -0400#4aa3ad0#fix README#codejam
+2013-04-01 01:22:31 -0400#a8732df#update README#codejam
+2013-04-01 01:20:24 -0400#9aac3d3#add README#codejam
+2013-03-31 22:50:13 -0400#c75f12a#add test.in.out#codejam
+2013-03-31 22:48:21 -0400#6382343#add large input/output#codejam
+2013-03-31 22:47:03 -0400#f16c09c#switch to long for large input#codejam
+2013-03-31 22:05:47 -0400#6e83731#add small input/output#codejam
+2013-03-31 22:05:30 -0400#adfad58#ana correct for small input#codejam
+2013-03-31 22:00:03 -0400#b6e79a5#test case successful#codejam
+2013-03-31 21:28:46 -0400#dae0c66#add test.in#codejam
+2013-03-31 21:28:37 -0400#13e806f#initial commit: read test.in#codejam
+2013-03-31 03:52:46 -0400#760c498#add correct results#codejam
+2013-03-31 03:51:08 -0400#a317c24#add test.in.out#codejam
+2013-03-31 03:50:59 -0400#7379bda#fix output#codejam
+2013-03-31 03:48:54 -0400#d3a7095#number sequences fine for test#codejam
+2013-03-31 03:41:54 -0400#41eeddb#add getIndexes()#codejam
+2013-03-31 03:41:36 -0400#3b572c8#add test.in#codejam
+2013-03-31 03:12:03 -0400#0015019#initial commit with Keypad#codejam
+2013-03-31 02:42:45 -0400#55e8390#add output filestream#codejam
+2013-03-31 02:38:34 -0400#149221f#add nl counter#codejam
+2013-03-31 02:31:54 -0400#5ebaa54#solutions: correct#codejam
+2013-03-31 02:29:44 -0400#a99fbb5#add test.in.out#codejam
+2013-03-31 02:29:36 -0400#d6ce235#test ana working#codejam
+2013-03-31 02:19:36 -0400#f010239#initial commit#codejam
+2013-03-31 01:59:55 -0400#674dd3e#add practice problems: correct#codejam
+2013-03-31 01:59:21 -0400#566274d#add test output#codejam
+2013-03-31 01:55:50 -0400#8f4e7e6#implement cases check#codejam
+2013-03-31 01:47:16 -0400#e0bd104#test input working#codejam
+2013-03-31 01:19:50 -0400#4e5625b#initial commit#codejam
+2013-03-30 22:31:27 -0400#2a0ab6d#remove BOOST define#codejam
+2013-03-30 22:29:54 -0400#245a5d7#initial commit#codejam

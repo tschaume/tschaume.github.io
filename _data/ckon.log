@@ -1,0 +1,126 @@
+2014-01-09 01:17:17 -0800#3f1f62b#installCkon: implement BOOST_ROOT check#ckon
+2014-01-09 00:20:06 -0800#bd08a83#ckon.cc: implement BOOST_ROOT check#ckon
+2014-01-09 00:19:27 -0800#8abe61e#improve cleanup#ckon
+2014-01-09 00:12:05 -0800#1cfa4ca#ckon.cc: add configure flags for configure#ckon
+2014-01-08 23:42:23 -0800#dc59e63#explicitly set with-boost to BOOST_ROOT#ckon
+2014-01-08 23:40:31 -0800#18fe9d2#change min libcurl version to 7.15.5#ckon
+2014-01-03 22:32:16 -0800#65ae3d5#dump new version number#ckon
+2014-01-03 22:10:13 -0800#76f765d#installCkon: make prefix argument optional#ckon
+2014-01-03 22:09:33 -0800#e452f6f#installCkon: add -v -Wall flags to autoreconf#ckon
+2014-01-03 22:09:01 -0800#96bf0eb#use AX_LIB_CURL from autoconf-archive#ckon
+2014-01-03 22:08:01 -0800#05f20f1#add new m4 files, needed for AX_LIB_CURL#ckon
+2014-01-03 18:30:14 -0800#0ae7eba#update autoconf files, incl libcurl version#ckon
+2014-01-03 18:27:05 -0800#9a12a2f#use ax_lib_curl.m4 from autoconf-archive#ckon
+2014-01-03 18:15:32 -0800#73b5e7e#update .gitignore#ckon
+2014-01-03 18:12:35 -0800#55caa92#update ax_boost_base.m4#ckon
+2014-01-02 19:15:33 -0800#71b07c4#implement ckon --version#ckon
+2014-01-02 03:09:43 -0800#3f21182#use LDADD instead of LDFLAGS#ckon
+2014-01-01 04:28:33 -0800#f65bd14#add Makefile.am, configure.ac#ckon
+2014-01-01 04:18:44 -0800#f691a9e#mv configure.ac, Makefile.am to autogen.sh#ckon
+2013-12-12 12:42:26 -0800#cd8f564#cmdline: curl skip ssl verification#ckon
+2013-12-12 12:42:03 -0800#582dee2#cmdline: fix curl url resolve error#ckon
+2013-11-19 08:44:21 -0800#9d8c08f#uncomment html-theme#ckon
+2013-10-24 14:56:09 -0700#11db3b1#Create gh-pages branch via GitHub#ckon
+2013-08-02 00:04:44 -0700#8a677de#add noSetup check#ckon
+2013-08-02 00:03:28 -0700#b8c3f7c#cmdline: fix m4 missing dir error#ckon
+2013-07-09 22:34:50 -0700#c164596#index.rst: improve dir structure for latex#ckon
+2013-07-04 16:59:14 -0700#8f6320a#update RTD with yaml info#ckon
+2013-07-04 16:48:33 -0700#66a7fd6#Create gh-pages branch via GitHub#ckon
+2013-07-04 16:47:19 -0700#2562944#README: add info about yaml#ckon
+2013-07-04 16:38:02 -0700#85d4f0c#Create gh-pages branch via GitHub#ckon
+2013-07-04 16:37:02 -0700#27ab5da#Merge branch 'gh-pages' of github:tschaume/ckon into gh-pages#ckon
+2013-07-04 16:36:29 -0700#44bec0c#remove CNAME file#ckon
+2013-07-04 16:33:40 -0700#539010b#index.rst: add -y flag to config#ckon
+2013-07-04 16:27:44 -0700#fa870d6#Create gh-pages branch via GitHub#ckon
+2013-07-04 16:22:57 -0700#ce5e8de#cmdline: use my yaml.m4 as downlaad#ckon
+2013-07-04 16:12:55 -0700#7c8686e#add m4/yaml.m4#ckon
+2013-07-04 16:07:17 -0700#48d4c14#Merge branch 'yaml'#ckon
+2013-07-04 16:04:09 -0700#d5c08a3#README: remove content, redirect to RTD#ckon
+2013-07-04 15:45:58 -0700#1fab685#add docs for RTD#ckon
+2013-04-02 15:04:57 -0400#53537ef#update CNAME#ckon
+2013-04-02 14:27:53 -0400#1b42655#Merge branch 'gh-pages' of github:tschaume/ckon into gh-pages#ckon
+2013-04-02 14:26:53 -0400#eb93a63#add CNAME file#ckon
+2013-04-02 14:22:01 -0400#5b000d3#yaml test for BesCocktail#ckon
+2013-03-09 18:55:37 -0800#3bbf817#Create gh-pages branch via GitHub#ckon
+2013-03-09 18:50:33 -0800#d3c4a22#helpers: add cppflags to rootcint#ckon
+2013-03-09 18:49:23 -0800#0824efe#update README#ckon
+2013-03-09 18:38:08 -0800#9b8c57b#README: add libcurl#ckon
+2013-03-09 18:37:20 -0800#05428f3#helpers: add ACLOCAL_AMFLAGS#ckon
+2013-03-09 18:22:59 -0800#d79e624#cmdline: write m4 files#ckon
+2013-03-09 15:32:29 -0800#95d0bd0#implement curl to get boost m4 macros#ckon
+2013-03-09 14:15:41 -0800#1a78e8a#cmdline: small cout fix#ckon
+2013-03-09 14:11:16 -0800#e6d3e4f#cmdline: fix ckon_boost cin#ckon
+2013-03-09 14:11:16 -0800#b62eb99#boost enhancement compiling#ckon
+2013-03-09 14:10:38 -0800#40e5e92#ckon: add ckon_cmd dry#ckon
+2013-03-09 12:15:34 -0800#5db2700#cmdline: add writeCfgFile()#ckon
+2013-03-04 18:32:59 -0800#cd1e872#allow for deeper structure#ckon
+2013-02-27 23:14:01 -0500#565990b#final fix with cpplint for github#ckon
+2013-02-27 23:07:36 -0500#9c34e50#README: prepare for github#ckon
+2013-02-27 21:30:11 -0500#b835112#README: note about include quotes#ckon
+2013-02-27 18:31:07 -0500#add918d#update README#ckon
+2013-02-27 18:30:16 -0500#6ad9f66#cmdline: fix ckon unknown command#ckon
+2013-02-27 18:29:36 -0500#b7a15bf#cmdline: implement ldadd unregistered options#ckon
+2013-02-27 13:37:17 -0500#45690e1#cmdline: throw on unknown ckon command#ckon
+2013-02-27 13:36:44 -0500#d953dbb#cmdline: add collect_unrecognized#ckon
+2013-02-27 11:51:29 -0500#8dc9b98#remove bPythia/bRooFit, update help/README#ckon
+2013-02-22 13:36:01 -0800#8ac4402#add check_ignore to push_src/push_obj#ckon
+2013-02-22 01:31:57 -0800#a5d49a0#fix README#ckon
+2013-02-22 01:24:34 -0800#458b5e7#cgitignore implementation#ckon
+2013-02-21 17:22:02 -0800#f66b2c2#small make_call rewrite#ckon
+2013-02-20 17:56:46 -0800#0286e2b#update README#ckon
+2013-02-20 17:56:13 -0800#9e5860f#add ckon_cppflags option#ckon
+2013-02-20 17:13:36 -0800#ce35839#remove ckon.config_file as option#ckon
+2013-02-20 11:22:58 -0800#419deba#update help for bool args#ckon
+2013-02-20 11:11:10 -0800#aa5b662#cmdline: add nCpu default#ckon
+2013-02-20 09:09:04 -0800#9e21de9#ckon.cc: add nCpu check#ckon
+2013-02-19 18:12:26 -0800#c0f4e4d#update README#ckon
+2013-02-19 14:02:04 -0800#cfc4a3e#remove obsolete ckon.core_dir#ckon
+2013-02-19 13:07:08 -0800#8291620#README: add to-do section#ckon
+2013-02-19 11:59:38 -0800#c828bc8#ckon.cc: make_call -Wall -Werror#ckon
+2013-02-19 11:16:44 -0800#461dc25#installCkon: add CXXFLAGS -Wall -Werror to make#ckon
+2013-02-19 11:16:20 -0800#b9284bf#installCkon: exchange SYSTEM/FILESYSTEM#ckon
+2013-02-19 10:54:51 -0800#e8cd2ad#add configure help hint to README#ckon
+2013-02-19 10:53:31 -0800#4198864#add boost m4 macros, update installCkon#ckon
+2013-02-19 10:24:48 -0800#c05fc3a#writeMakeFileAmHd: put -Werror to the end#ckon
+2013-02-13 03:03:25 -0800#e89f35c#latest project hp README#ckon
+2013-02-13 02:42:08 -0800#efce8b2#update README for project hp#ckon
+2013-02-08 21:28:48 -0800#7eb5570#update README with text from kon#ckon
+2013-02-08 21:28:32 -0800#7d099d0#add license#ckon
+2013-02-08 02:38:20 -0800#1d0d5b3#myregex: fix re-cutoff#ckon
+2013-02-08 02:31:56 -0800#80f5f8a#all source in google-style#ckon
+2013-02-08 01:52:16 -0800#c8a9ee6#vpath typedef, more cpplint#ckon
+2013-02-08 01:13:06 -0800#b84433f#clean: cpplint#ckon
+2013-02-08 01:04:20 -0800#4a584f7#more cpplint, fix compiler bugs#ckon
+2013-02-08 00:50:52 -0800#3ff3c92#cmdline google cpplint standards#ckon
+2013-02-08 00:24:04 -0800#60f1adc#ckon.cc: cpplint done#ckon
+2013-02-07 23:42:28 -0800#bb1159f#fix includes for tree structure#ckon
+2013-02-07 23:32:10 -0800#5f2f10c#src tree structure#ckon
+2013-02-07 23:23:50 -0800#b0bdafa#ckon.cc: start lintcpp.py#ckon
+2013-02-07 22:44:22 -0800#e640d44#cleanup & outsource#ckon
+2013-02-07 15:29:24 -0800#000fc86#push_obj for classes/namespaces#ckon
+2013-02-07 15:14:51 -0800#3b7985d#installCkon#ckon
+2013-02-07 15:11:29 -0800#2f19c6e#utils::isEmptyDir & helpers::push_src#ckon
+2013-02-07 14:48:03 -0800#8fe5663#compile.sh#ckon
+2013-02-07 14:32:03 -0800#297a05b#reorganize#ckon
+2013-02-07 13:23:41 -0800#6c9d322#README: update project page link#ckon
+2013-02-07 13:23:41 -0800#5a2dcde#update README#ckon
+2013-02-07 12:29:51 -0800#e925fda#ckon.cc: add /Users/patrick/.cint_only/ios for cwchar#ckon
+2013-02-07 12:24:29 -0800#39babf4#add -p flag to rootcint#ckon
+2013-02-07 02:19:08 -0800#42b875e#utils: use default ana_name/version for configure.ac#ckon
+2013-02-07 02:18:22 -0800#08d5c05#fix ckon.cfg, add default_value's#ckon
+2013-02-07 01:55:32 -0800#265a45e#fix cmdline positional options#ckon
+2013-02-06 02:31:46 -0800#6a00553#use boost::program_options instead of YAML & Options Libraries#ckon
+2013-01-28 16:07:49 -0800#ff719dd#implement auto-LDADD via include's scan#ckon
+2013-01-27 21:05:38 -0800#7ce7d80#add BOOST_INC and BOOST_LIB#ckon
+2013-01-27 16:58:40 -0800#dff8cff#add ckon_DontScan, fix recur-iter for headers/sources#ckon
+2013-01-27 16:05:47 -0800#737cd45#add ckon_NoRootCint#ckon
+2013-01-26 03:10:08 -0800#4fded05#check namespaces and classes for duplicates before push_back#ckon
+2013-01-26 03:09:47 -0800#c82fd57#loop StRoot recursively but skip programs, macros for separate loop#ckon
+2013-01-26 02:06:23 -0800#e815d69#add ckon_macro_subdir, descend all dirs for source search#ckon
+2013-01-25 18:30:46 -0800#e5d296a#switch includes to YamlCpp#ckon
+2013-01-25 18:07:34 -0800#2328fcf#remove yaml linking, comiple yaml with respec. code#ckon
+2013-01-25 17:30:16 -0800#676d6c9#update scripts#ckon
+2013-01-25 17:29:56 -0800#6a049f8#switch to StRoot includes#ckon
+2013-01-25 14:03:56 -0800#c1d5993#cleanup.sh: replace distclean w/ build-rm#ckon
+2013-01-25 14:03:24 -0800#572f34d#autogen.sh: fix BOOST vars, refine source find, mkdir build#ckon
+2013-01-25 12:10:27 -0800#5ce3e29#move ckon source/scripts to src/ckon/#ckon

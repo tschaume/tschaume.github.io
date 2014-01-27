@@ -1,0 +1,37 @@
+2014-01-14 03:37:24 -0800#9b33086#resolve merge conflict#ccsscripts
+2013-09-30 21:02:49 +0200#643ade9#aiche14plots: Characteristic plot#ccsscripts
+2013-09-30 17:19:50 +0200#792759d#aiche13plots: add IastVsCriterium#ccsscripts
+2013-09-30 16:44:16 +0200#88db5e7#evalcrit/bashdb: PE acc. to fixed Td/Pd#ccsscripts
+2013-09-30 16:33:33 +0200#8cb8f12#IastPsaTsaVskH plot for aiche13#ccsscripts
+2013-09-30 14:39:07 +0200#5489d8f#add aiche13plots.py#ccsscripts
+2013-09-30 14:38:01 +0200#8f50faf#optPEdb: add COMP coal values#ccsscripts
+2013-09-30 00:46:00 +0200#7bc4c27#calPE: fix Td, optPEdb: PE-PSA#ccsscripts
+2013-09-30 00:45:23 +0200#dab5aec#calPE: fix Pd, optPEdb: PE-TSA#ccsscripts
+2013-09-30 00:06:02 +0200#9b5013c#calPE: fixed Td/Pd, bashdb w/ corresp. evalcrit#ccsscripts
+2013-09-29 23:36:40 +0200#be1b777#evalcrit: optPE, add db.yml#ccsscripts
+2013-09-29 23:25:54 +0200#162c29d#bashdb: aiche evalcrit#ccsscripts
+2013-09-29 23:21:31 +0200#56e3425#evalcrit: small fixes#ccsscripts
+2013-09-29 23:20:28 +0200#fb93ced#aiche IAST calc#ccsscripts
+2013-09-29 21:18:23 +0200#9d1db64#calPE, utils, pyiast: clean up, implement COMP#ccsscripts
+2013-09-29 16:08:14 +0200#cf1a8e9#pyiast, calPE, evalcrit: get rid of i,j flags#ccsscripts
+2013-09-29 16:06:15 +0200#35139ad#bashdb: add IASTY1 comment#ccsscripts
+2013-09-29 16:05:38 +0200#011dd40#utils: clean up langmuir def#ccsscripts
+2013-07-28 23:50:45 -0700#0c6cc2e#bashdb: update dH, kq300 for jihan sim#ccsscripts
+2013-06-25 01:17:06 -0700#1c9176b#plot: jojo update for arpa-e#ccsscripts
+2013-06-24 00:44:05 -0700#6f3ccb2#plot.py: pS vs kH ok#ccsscripts
+2013-06-24 00:33:06 -0700#e6ec83b#plot: fix yrange#ccsscripts
+2013-06-24 00:30:18 -0700#300607f#plot.py: fix x vals array#ccsscripts
+2013-06-23 22:14:36 -0700#790bee1#update bashdb with old values, new structures#ccsscripts
+2013-05-08 15:35:19 -0700#d5eaf43#R comment#ccsscripts
+2013-04-30 00:08:36 -0700#0f52eb4#add IastY1#ccsscripts
+2013-04-29 18:39:55 -0700#5975119#add Props cp, rho#ccsscripts
+2013-04-29 18:10:40 -0700#0ad5147#update FixedBed vals#ccsscripts
+2013-04-29 18:04:31 -0700#10ef30a#add FixedBed vars#ccsscripts
+2013-04-29 17:36:44 -0700#728fda3#db.yml: add FlueGas#ccsscripts
+2013-04-23 01:05:24 -0700#fe1f253#fill missing kq300 for sqlite import#ccsscripts
+2013-04-20 22:44:14 -0700#f2ea483#plot.py: plot IAST_PSA#ccsscripts
+2013-04-20 22:35:09 -0700#92ef83a#db.yml: add parasitic energies#ccsscripts
+2013-04-17 19:13:24 -0700#206cd63#adjust to ccsgp#ccsscripts
+2013-04-17 19:13:11 -0700#85c47d8#add prologue.ps#ccsscripts
+2013-04-17 15:04:33 -0700#91c7849#db.yml: reinit ccsdb#ccsscripts
+2013-02-19 16:14:26 -0800#1b426e1#initial README#ccsscripts

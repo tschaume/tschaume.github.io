@@ -1,0 +1,13 @@
+2013-09-30 00:46:00 +0200#143848d#calPE: fix Td, optPEdb: PE-PSA#ccspe
+2013-09-30 00:44:57 +0200#5c7f274#calPE: fix Pd, optPEdb: PE-TSA#ccspe
+2013-09-30 00:06:02 +0200#93c1f6a#calPE: fixed Td/Pd, bashdb w/ corresp. evalcrit#ccspe
+2013-09-29 23:19:10 +0200#51693d0#calPE: fix writePEs call#ccspe
+2013-09-29 21:18:23 +0200#20ddee0#calPE, utils, pyiast: clean up, implement COMP#ccspe
+2013-09-29 16:08:14 +0200#ab57ae7#pyiast, calPE, evalcrit: get rid of i,j flags#ccspe
+2013-05-08 17:43:33 -0700#4ad9821#try fix PE results#ccspe
+2013-05-08 15:36:45 -0700#b11bc29#Ta, q1d, q2d from iast#ccspe
+2013-05-08 14:21:18 -0700#2129892#add dH1/2 print, remove test nrs#ccspe
+2013-05-08 13:20:51 -0700#f64d878#pyiast.main working for fixed Ta#ccspe
+2013-04-30 01:08:13 -0700#f546298#include pyiast, start q1a/q2a#ccspe
+2013-04-30 00:52:57 -0700#0210e72#cleanup#ccspe
+2013-04-30 00:19:09 -0700#25135c8#fix cp, rho from db#ccspe

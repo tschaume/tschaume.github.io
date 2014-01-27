@@ -1,0 +1,6 @@
+2013-11-15 11:53:09 -0800#bbc0ce5#add/update gitignore#MyPdgDatabase
+2013-11-13 22:52:16 -0800#9d9a78c#fix compilation warnings#MyPdgDatabase
+2013-01-23 23:41:02 -0800#d78d0d0#replace quote-includes for ROOT headers (2)#MyPdgDatabase
+2013-01-23 23:34:03 -0800#1639894#replace quote-includes for ROOT headers#MyPdgDatabase
+2012-09-21 18:45:51 -0700#f5e5bb1#resolved bug in MyPdgDatabase.cxx#MyPdgDatabase
+2012-06-02 14:55:37 -0700#f9bb7bf#Merged Commit: transition to TemplateAnalysis scheme#MyPdgDatabase

@@ -1,0 +1,35 @@
+2013-09-30 16:52:00 +0200#b1175ca#ccsdb: fix typo#ccsdb
+2013-04-30 00:06:50 -0700#ffe8891#add IastY1#ccsdb
+2013-04-29 18:23:31 -0700#8ebc2dc#add Structure Props#ccsdb
+2013-04-29 18:07:59 -0700#eaca7b3#fix getHoAs()#ccsdb
+2013-04-29 18:04:07 -0700#921f8a7#add FixedBed#ccsdb
+2013-04-29 18:02:05 -0700#968df50#add getHoAs()#ccsdb
+2013-04-29 17:49:15 -0700#4a2cc52#add FlueGas to template()#ccsdb
+2013-04-29 17:36:22 -0700#b0788fc#add FlueGas#ccsdb
+2013-04-21 01:38:20 -0700#2aae3fb#fix OrderedDict import for sql#ccsdb
+2013-04-17 15:33:07 -0700#7f3ba08#test getPE in load.py#ccsdb
+2013-04-17 15:32:53 -0700#ebbca03#add getPE#ccsdb
+2013-04-17 15:32:35 -0700#f78b55e#add getStructure#ccsdb
+2013-04-17 15:24:29 -0700#269033d#switch PE and Adsorbates#ccsdb
+2013-04-17 15:20:37 -0700#e31cb57#rename dumpData to dump#ccsdb
+2013-04-17 15:02:20 -0700#2e148ad#adjust load.py to simpler db format#ccsdb
+2013-04-17 15:01:57 -0700#e9b9d0c#simpler db format, add writeIsoFit, add dumpData#ccsdb
+2013-04-17 13:38:59 -0700#0bbc90f#add kH, qs, dH, kq300#ccsdb
+2013-04-17 13:32:06 -0700#b482a9d#add PE dictionary#ccsdb
+2013-04-17 12:57:05 -0700#96cbc0c#set indent = 2#ccsdb
+2013-04-17 12:56:51 -0700#1302b9e#remove Database.Name#ccsdb
+2013-04-16 01:13:07 -0700#a994a73#update README#ccsdb
+2013-04-16 01:12:58 -0700#ccb6b3d#add DataDir for better InputPath#ccsdb
+2013-04-16 00:48:16 -0700#b4d1bee#add loadData function#ccsdb
+2013-04-16 00:48:16 -0700#1d9f5a6#add README#ccsdb
+2013-04-16 00:48:16 -0700#a71cb6a#access database content, load.py#ccsdb
+2013-04-16 00:48:16 -0700#6c2759a#mv to ccsdb.py#ccsdb
+2013-04-16 00:48:16 -0700#069eda4#rename CCSDB#ccsdb
+2013-04-16 00:48:16 -0700#f84da55#fix load database comment#ccsdb
+2013-04-16 00:48:16 -0700#9e732e8#add example load.py#ccsdb
+2013-04-16 00:48:15 -0700#219a9e6#ccsdb.py: Database, template, load#ccsdb
+2013-04-13 22:43:28 -0700#b163ba5#CCSDB name#ccsdb
+2013-04-13 22:33:03 -0700#46f2117#name Adsorbate#ccsdb
+2013-04-13 22:13:29 -0700#9d18848#fix ordered dictionary#ccsdb
+2013-04-13 21:56:57 -0700#96b6a81#add main function and if#ccsdb
+2013-04-13 21:47:46 -0700#c25ad6c#write-db.py (19-Feb-2013)#ccsdb

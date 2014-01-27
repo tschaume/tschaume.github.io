@@ -1,0 +1,135 @@
+2014-01-07 02:37:45 -0800#45db733#effcorr/nhitsSysErr: implement particles#pyana
+2014-01-06 13:01:02 -0800#6e8a9cf#effcorr/nhitsSysErr: pickle summary data#pyana
+2014-01-06 05:03:50 -0800#afaad13#effcorr/nhitsSysErr: calc/save total uncertainties#pyana
+2014-01-06 05:03:16 -0800#9d492f7#aux/utils: return ufloat in calcMeanErr#pyana
+2014-01-06 03:49:37 -0800#3b33c31#effcorr/nhitsSysErr: save summary_data to text file#pyana
+2014-01-06 03:48:53 -0800#e49a6bf#aux/utils: improve calcMeanErr#pyana
+2014-01-06 00:39:52 -0800#f186bb5#effcorr/nhitsSysErr: implement dry_run flag#pyana
+2014-01-06 00:35:40 -0800#48c1eb3#effcorr/nhitsSysErr: summary plot#pyana
+2014-01-06 00:33:56 -0800#6e080d4#aux/utils: calcMean -> calcMeanErr#pyana
+2014-01-06 00:32:35 -0800#dc69195#ccsgp update#pyana
+2013-12-30 15:44:50 -0800#c9e7431#nhitsSysErr: adjust data ranges#pyana
+2013-12-30 15:30:54 -0800#251a3ad#effcorr/nhitsSysErr: improve legend#pyana
+2013-12-30 14:17:22 -0800#fb38c14#aux/utils: fix mean values bug#pyana
+2013-12-28 04:06:27 -0800#bc32b6e#effcorr/nhitsSysErr: add mean sysErr calculation#pyana
+2013-12-28 04:05:58 -0800#dc3ee22#aux/utils: add calcMean#pyana
+2013-12-28 03:29:52 -0800#33cf268#nhitsSysErr: improve images#pyana
+2013-12-28 02:29:41 -0800#94d4237#nhitsSysErr: ptBw and other minor changes#pyana
+2013-12-28 02:00:30 -0800#13af45b#effcorr/nhitsSysErr: fix ylabel#pyana
+2013-12-28 01:57:23 -0800#079c1c1#nhitsSysErr: minor plot improvs#pyana
+2013-12-28 01:57:01 -0800#b1c634b#aux/utils: add getDataRange#pyana
+2013-12-28 01:56:16 -0800#95424a5#aux/config: rm logging import#pyana
+2013-12-28 00:31:00 -0800#082d07a#nhitsSysErr: plot nhits for each energy#pyana
+2013-12-28 00:27:56 -0800#bdf416d#aux/utils: add checkSymLink, getWorkDir#pyana
+2013-12-28 00:02:04 -0800#8cff313#ccsgp update#pyana
+2013-12-27 20:51:57 -0800#eb6b159#nhitsSysErr running#pyana
+2013-12-27 19:34:51 -0800#be3b453#rename pkg to pyana#pyana
+2013-12-27 19:24:54 -0800#14462dc#add symlinks#pyana
+2013-12-21 02:26:59 -0800#7e98d3a#mv ccsgp to dev branch#pyana
+2013-12-21 02:21:30 -0800#ce6d994#add ccsgp as submodule in pkg/ccsgp#pyana
+2013-12-21 02:13:02 -0800#697e7d2#add kernprof.py#pyana
+2013-12-21 02:10:34 -0800#2eaa354#simple print in __main__#pyana
+2013-12-21 01:59:28 -0800#ce61f33#chmod a-x#pyana
+2013-12-21 01:59:11 -0800#d8df736#add __main__.py#pyana
+2013-12-21 01:38:09 -0800#acb2c21#add __init__.py's#pyana
+2013-12-21 01:29:22 -0800#720b523#mv cbes to cocktail/#pyana
+2013-12-21 01:27:59 -0800#8e749d0#mv convelQA, nhitsSysErr to effcorr/#pyana
+2013-12-21 01:25:33 -0800#78088c7#mv dielec, plots, ptbin, ptspec to dielec/#pyana
+2013-12-21 01:21:15 -0800#ea0f97a#mv config, utils to aux/#pyana
+2013-12-21 01:20:24 -0800#d85d379#mv getOpts to utils, she-bang in utils#pyana
+2013-12-21 01:16:11 -0800#6bf32c2#cbes: executable and she-bang#pyana
+2013-12-21 01:14:39 -0800#b89ed36#mkdir bayes#pyana
+2013-12-21 01:08:40 -0800#d6c8cc8#mv *.py to pkg/#pyana
+2013-12-21 01:05:19 -0800#91fd438#nhitsSysErr working, small changes#pyana
+2013-12-20 20:05:00 -0800#f81936d#nhitsSysErr: import data, start plot#pyana
+2013-12-20 18:57:21 -0800#518a7f8#add nhitsSysErr.py#pyana
+2013-12-16 13:24:30 -0800#33c5b79#convelEA.py: start on 2D-histos, wont run#pyana
+2013-12-16 13:23:44 -0800#403027d#mergConvElQA.sh: add energy-wise nup plots#pyana
+2013-12-15 15:55:29 -0800#eebb77b#add mergeConvElAQA.sh#pyana
+2013-12-11 18:14:27 -0800#2cc6522#convelQA: keytitles, box fill & legends#pyana
+2013-12-11 15:23:42 -0800#32f3ef8#convelQA: add hInvMassPrimTot plot, clean-up#pyana
+2013-12-10 23:38:35 -0800#dac43f0#convelQA: draw cut regions#pyana
+2013-12-10 23:37:52 -0800#adbc2a9#convelQA: change dca plot unit#pyana
+2013-12-10 18:47:48 -0800#4a25fc5#convelQA: try plot dataCut#pyana
+2013-12-10 18:30:31 -0800#98b896b#convelQA: dca, declen & invMass plots#pyana
+2013-12-04 16:47:35 -0800#2a98ee0#add convelQA.py#pyana
+2013-07-16 04:43:03 -0400#ea7147f#plots: add cocktail and norm data#pyana
+2013-07-16 03:40:34 -0400#d6f2b17#plots: plot_ptspec, plot_panel#pyana
+2013-07-16 03:40:14 -0400#797e675#cbes: scale yields#pyana
+2013-07-10 20:18:36 -0700#78db274#cbes: plot yields#pyana
+2013-07-10 18:36:37 -0700#5c1c7a0#cbes: add tsallis pars#pyana
+2013-07-10 18:23:43 -0700#9fb90ad#add cbes.py#pyana
+2013-07-08 07:39:01 -0700#c47d14a#new mee_ranges, summary plots, MAXSTATERR#pyana
+2013-07-08 04:03:55 -0700#4fefb74#ptspec: divide pt spectra by Nevt#pyana
+2013-07-08 03:53:11 -0700#984c7ed#run.sh: add --log#pyana
+2013-07-08 03:51:26 -0700#6d6a4df#executable dielec/ptspec, adjust run.sh#pyana
+2013-07-08 03:28:32 -0700#360c1d0#adjust run.sh#pyana
+2013-07-08 03:28:18 -0700#67ceae9#switch to logging module#pyana
+2013-07-08 03:27:48 -0700#a840210#ptbin: remove callable as script#pyana
+2013-07-08 02:22:26 -0700#3b1465a#run.sh: prepare for parallel run#pyana
+2013-07-08 01:32:39 -0700#9c20a06#add run.sh#pyana
+2013-07-08 01:25:56 -0700#b789bc6#add write kwarg to make_plot#pyana
+2013-07-08 01:11:16 -0700#f99f76c#ptspec: plot all spectra bin width normalized#pyana
+2013-07-08 01:09:56 -0700#7cac393#ptbin: set min pt bin width to 0.05#pyana
+2013-07-07 22:53:35 -0700#fab9c12#ptspec: plot all pt rebin spectra#pyana
+2013-07-07 22:14:34 -0700#b6fdb57#ptspec: gen and rebin all pt spectra, plot phi#pyana
+2013-07-07 21:08:21 -0700#b269c4e#ptspec: rebin phi spectrum ok#pyana
+2013-07-07 20:34:10 -0700#e4aa6d2#ptspec: plot phi pt numbers#pyana
+2013-07-07 19:59:37 -0700#ab4e4b6#mv globkey to config#pyana
+2013-07-07 19:52:31 -0700#d470c9b#rename ptsig -> ptspec#pyana
+2013-07-07 19:43:30 -0700#a69b91e#add ptsig.py for pt signals#pyana
+2013-07-07 19:18:24 -0700#6e127a3#dielec: save sigPt, mv mee_ranges to config#pyana
+2013-07-07 06:42:27 -0700#42c5332#dielec: crunch numbers for ptSpectra#pyana
+2013-07-07 05:05:56 -0700#54a58ff#dielec: binContentOk()#pyana
+2013-07-07 04:55:30 -0700#200b3ee#dielec: produce differential signal spectra, adjust ptDict_sub#pyana
+2013-07-07 02:32:32 -0700#a85d099#dielec: fix same event notation for ratios#pyana
+2013-07-07 02:26:42 -0700#1da1a17#dielec: getNumpyArrPt, pt test plot#pyana
+2013-07-07 01:18:52 -0700#df86cb6#dielec: change same event notation in plot#pyana
+2013-07-07 01:15:01 -0700#6391e01#dielec: ngmPt_corr, multPt#pyana
+2013-07-07 01:05:55 -0700#6f635cf#dielec: general ptDict_fn, geomMean, divPt#pyana
+2013-07-07 00:50:43 -0700#7ee3727#dielec: ptDict_geomMean#pyana
+2013-07-07 00:49:04 -0700#4a9c334#ptbin: unpack all combos#pyana
+2013-07-06 23:55:26 -0700#d5a010f#ptbin: improve unpacking, data format#pyana
+2013-07-06 19:56:18 -0700#b15789f#ptbin: suppress zeros, change db format, getUnpPair#pyana
+2013-07-05 20:00:22 -0700#554cfb1#ptbin: change hdf5 data format for dielec#pyana
+2013-07-05 17:38:31 -0700#70d1a21#ptbin: make plot#pyana
+2013-07-05 16:42:11 -0700#179b18e#ptbin: add nergy as args#pyana
+2013-07-05 16:37:07 -0700#81c12af#ptbin: save all data to hdf5#pyana
+2013-07-05 05:48:39 -0700#2c5a6c6#ptbin: rebinning all dsets works#pyana
+2013-07-04 05:03:44 -0700#a957cb8#ptbin: start block_sum#pyana
+2013-07-04 04:25:35 -0700#91d325f#add ptbin.py#pyana
+2013-07-03 01:24:57 -0700#f320e47#update for 27 GeV#pyana
+2013-06-28 23:37:51 -0700#875e8ba#dielec: add sub_range plots#pyana
+2013-06-28 23:37:34 -0700#315a680#dielec: change outdir, add MAXSTATERR#pyana
+2013-06-28 22:30:33 -0700#3d37b6c#dielec: comment of old data make_plot removed#pyana
+2013-06-28 21:44:35 -0700#8c943c4#dielec: change output dir, rm savetxt, add globkey#pyana
+2013-06-28 20:58:48 -0700#2b63e34#dielec: add labels to all plots#pyana
+2013-06-28 20:03:30 -0700#88d8595#dielec: generate signal plot a-la aqua term#pyana
+2013-06-28 17:22:10 -0700#34824e7#dielec: improve plots#pyana
+2013-06-28 15:26:25 -0700#8dd749a#dielec: big improvement of rebinning, looks good for 62GeV#pyana
+2013-06-28 04:49:37 -0700#f8b1197#dielec: improve rebinning, use boxerrorbars#pyana
+2013-06-27 13:19:31 -0700#ee65127#dielec: fix sig array error messages#pyana
+2013-06-27 05:32:39 -0700#0fd3962#dielec.py: automate re-binning#pyana
+2013-06-27 05:32:01 -0700#369d30e#further testing in bayes.py#pyana
+2013-06-27 05:31:41 -0700#e5f1d5d#add bayesian_blocks.py#pyana
+2013-06-26 01:23:39 -0700#1352e17#dielec: add sn, save sig.dat#pyana
+2013-06-26 01:23:22 -0700#72b17e1#bayes: bayesian_blocks test#pyana
+2013-06-25 05:22:14 -0700#51823d0#fix memory issue, improve plots#pyana
+2013-06-24 03:48:08 -0700#b908032#bayes: add args.method, include weights#pyana
+2013-06-24 03:47:21 -0700#98bd74c#dielec: trying to improve, memory usage explodes#pyana
+2013-06-22 15:27:12 -0700#1aa3975#use root_numpy and blocks#pyana
+2013-06-22 01:46:33 -0700#b19770c#add bayes for binning tests#pyana
+2013-06-21 02:11:27 -0700#f880372#improving speed, start pickle#pyana
+2013-06-20 04:09:04 -0700#13d5742#MENR array, save sigME#pyana
+2013-06-20 03:27:07 -0700#cb88b6b#histograms, better make_plot (see ccsgp)#pyana
+2013-06-19 00:27:41 -0700#d2ed910#dataRb, xaxRb#pyana
+2013-06-18 23:45:36 -0700#7585c70#improve make_plot#pyana
+2013-06-18 23:20:56 -0700#6dbf04e#implement variable rebinning#pyana
+2013-06-18 23:20:45 -0700#20f47dd#add utils.py#pyana
+2013-06-18 04:34:56 -0700#0c04405#normalize ME, add ME-sub signal#pyana
+2013-06-18 03:12:55 -0700#7195204#rebin and signal spectrum#pyana
+2013-06-18 01:58:55 -0700#0500b09#adjust to new setX/Y of ccsgp#pyana
+2013-06-18 01:23:33 -0700#a5a6ab5#gnuplot plot works#pyana
+2013-06-18 00:52:25 -0700#8deaab8#arrays ready for gnuplot#pyana
+2013-06-17 18:16:34 -0700#8d37dbe#err propag., ratios, signal etc.#pyana
+2013-06-17 16:38:16 -0700#3e4b7e2#initial commit#pyana

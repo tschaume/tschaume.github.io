@@ -10,7 +10,7 @@ repositories => Generate a feed and possibly some interesting git stats
 Details
 -------
 
-on post-commit in each tracked repo (see *_data/post-commit*, symlink in repo's .git/hooks):  
+on pre-push in each tracked repo (see *_data/pre-push*, symlink in repo's .git/hooks):  
 
 - regenerate repo-logfile, regenerate commits.yml
 - commit and push changes back

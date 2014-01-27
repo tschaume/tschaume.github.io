@@ -1,6 +1,6 @@
 #!/bin/bash
 
-logdir=$PWD/_data
+logdir=$HOME/gitrepos/tschaume.github.io/_data
 
 # generate log file (commit one-liners) for current repo
 repo=`basename $PWD`
@@ -25,7 +25,7 @@ done < $fullog
 rm -v $fullog
 
 # commit and push changes
-cd $logdir
-git add .
-git commit -m "update $repo logs"
-git push
+#cd $logdir
+#git add .
+#git commit -m "update $repo logs"
+#git push

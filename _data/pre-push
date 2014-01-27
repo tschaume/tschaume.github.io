@@ -1,6 +1,6 @@
 #!/bin/bash
 
-logdir=$HOME/gitrepos/tschaume.github.io/_data
+logdir=$(dirname $(readlink $0))
 
 # generate log file (commit one-liners) for current repo
 repo=`basename $PWD`
@@ -17,10 +17,9 @@ cat $logdir/*.log | sort -r >> $fullog
 commits=$logdir/commits.yml
 [[ -e $commits ]] && rm -v $commits
 while read commit; do
-  IFS=#
-  set $commit
-  echo -e "- name: \"$4\"\n  time: \"$1\"" >> $commits
-  echo -e "  sha1: \"$2\"\n  line: \"$3\"\n" >> $commits
+  IFS='#' read stamp sha1 line name <<<$commit
+  echo -e "- name: \"$name\"\n  time: \"$stamp\"" >> $commits
+  echo -e "  sha1: \"$sha1\"\n  line: \"$line\"\n" >> $commits
 done < $fullog
 rm -v $fullog
 
@@ -29,3 +28,5 @@ rm -v $fullog
 #git add .
 #git commit -m "update $repo logs"
 #git push
+
+exit 0

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tschaume's git activity feed
+title: tschaume's global git activity feed
 ---
 
 <div id="home">
@@ -8,9 +8,11 @@ title: tschaume's git activity feed
     {% for commit in site.data.commits %}
     <li>
     <span>{{ commit.date }} {{ commit.time }}</span> &raquo;
-    [{{ commit.name }}]
-    <a href={{ commit.link }}>{{ commit.sha1 }}</a>
-    {{ commit.line }} 
+    {{ commit.line }}
+    <span style="float:right;">
+      <b>[{{ commit.name }}]</b>
+      <a href={{ commit.link }}>{{ commit.sha1 }}</a>
+    </span>
     {% endfor %}
   </ul>
 </div>

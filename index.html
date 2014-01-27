@@ -8,10 +8,9 @@ title: tschaume's global git activity feed
     {% for commit in site.data.commits %}
     <li>
     <span>{{ commit.time | date: "%D %R" }}</span> &raquo;
-    {{ commit.line }}
+    {{ commit.line | truncate: 60 }}
     <span style="float:right;">
-      <b>[{{ commit.name }}]</b>
-      <a href={{ commit.link }}>{{ commit.sha1 }}</a>
+      <b>[{{ commit.name }}]</b> {{ commit.sha1 }}
     </span>
     {% endfor %}
   </ul>

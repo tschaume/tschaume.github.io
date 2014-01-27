@@ -23,9 +23,10 @@ while read commit; do
 done < $fullog
 rm -v $fullog
 
-echo "commit logs for $repo ..."
+echo "commit $repo-logs in $logdir ..."
 cd $logdir
 git add $log $commits
 git commit -m "update $repo logs"
+git push --no-verify # no-verify to not recurse endlessly
 
 exit 0

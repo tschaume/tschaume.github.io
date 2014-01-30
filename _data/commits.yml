@@ -1,3 +1,28 @@
+- name: "star-annex"
+  time: "2014-01-30 03:58:00 +0000"
+  sha1: "bc77cf3"
+  line: "update"
+
+- name: "star-annex"
+  time: "2014-01-30 03:22:32 +0000"
+  sha1: "afddd78"
+  line: "update"
+
+- name: "star-annex"
+  time: "2014-01-30 02:12:09 +0000"
+  sha1: "f1722af"
+  line: "update"
+
+- name: "deckjs_talks"
+  time: "2014-01-29 23:07:37 -0500"
+  sha1: "428af75"
+  line: "Dielectron_Physics_Plots: add DataCocktailDiffAbs, diffAbsQM12"
+
+- name: "star-annex"
+  time: "2014-01-29 23:02:47 -0500"
+  sha1: "cd6a8e8"
+  line: "DataCocktailDiff/Abs, diffAbsQM12"
+
 - name: "ccsgp_get_started"
   time: "2014-01-29 22:17:51 -0500"
   sha1: "c4eb230"

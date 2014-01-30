@@ -13,6 +13,11 @@
   sha1: "f1722af"
   line: "update"
 
+- name: "ccsgp_get_started"
+  time: "2014-01-29 23:08:57 -0500"
+  sha1: "a9582c5"
+  line: "gp_rdiff: improve image, adjust yaxis"
+
 - name: "deckjs_talks"
   time: "2014-01-29 23:07:37 -0500"
   sha1: "428af75"

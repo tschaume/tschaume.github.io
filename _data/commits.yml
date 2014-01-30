@@ -13,6 +13,11 @@
   sha1: "f1722af"
   line: "update"
 
+- name: "deckjs_talks"
+  time: "2014-01-29 23:11:47 -0500"
+  sha1: "887276f"
+  line: "Dielectron_Physics_Plots: diffAbs width"
+
 - name: "ccsgp_get_started"
   time: "2014-01-29 23:08:57 -0500"
   sha1: "a9582c5"

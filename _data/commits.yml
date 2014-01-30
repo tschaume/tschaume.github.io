@@ -1,17 +1,7 @@
-- name: "star-annex"
-  time: "2014-01-30 03:58:00 +0000"
-  sha1: "bc77cf3"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-30 03:22:32 +0000"
-  sha1: "afddd78"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-30 02:12:09 +0000"
-  sha1: "f1722af"
-  line: "update"
+- name: "deckjs_talks"
+  time: "2014-01-29 23:22:31 -0500"
+  sha1: "8f3106b"
+  line: "Dielectron_Physics_Plots: add dummy slide"
 
 - name: "deckjs_talks"
   time: "2014-01-29 23:11:47 -0500"
@@ -27,11 +17,6 @@
   time: "2014-01-29 23:07:37 -0500"
   sha1: "428af75"
   line: "Dielectron_Physics_Plots: add DataCocktailDiffAbs, diffAbsQM12"
-
-- name: "star-annex"
-  time: "2014-01-29 23:02:47 -0500"
-  sha1: "cd6a8e8"
-  line: "DataCocktailDiff/Abs, diffAbsQM12"
 
 - name: "ccsgp_get_started"
   time: "2014-01-29 22:17:51 -0500"
@@ -62,11 +47,6 @@
   time: "2014-01-27 01:47:50 -0800"
   sha1: "f67852b"
   line: "initial full logs"
-
-- name: "star-annex"
-  time: "2014-01-27 01:23:40 -0800"
-  sha1: "d5cd27c"
-  line: "merging origin/git-annex into git-annex"
 
 - name: "revtex"
   time: "2014-01-27 01:13:41 -0800"
@@ -293,95 +273,15 @@
   sha1: "28690dd"
   line: "initial commit"
 
-- name: "star-annex"
-  time: "2014-01-25 00:48:52 +0000"
-  sha1: "69009ac"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-25 00:43:14 +0000"
-  sha1: "a318484"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 22:58:56 +0000"
-  sha1: "b2cc8da"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 16:49:30 -0800"
-  sha1: "8fa73cb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 16:49:29 -0800"
-  sha1: "9230447"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 16:49:13 -0800"
-  sha1: "f86a6dd"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 16:49:00 -0800"
-  sha1: "b9fde4e"
-  line: "Dielectron_Physics_Plots.txt: remove Abstract"
-
 - name: "deckjs_talks"
   time: "2014-01-24 16:48:20 -0800"
   sha1: "9190008"
   line: "Dielectron_Physics_Plots: comment out Abstract"
 
-- name: "star-annex"
-  time: "2014-01-24 16:46:20 -0800"
-  sha1: "86d509e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 16:46:18 -0800"
-  sha1: "982048b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 16:43:37 -0800"
-  sha1: "8455956"
-  line: "Dielectron_Physics_Plots: add LatestJieYi, one plot per slide"
-
 - name: "deckjs_talks"
   time: "2014-01-24 16:42:17 -0800"
   sha1: "ffcd2e7"
   line: "Dielectron_Physics_Plots: add LatestJieYi, one plot per slide"
-
-- name: "star-annex"
-  time: "2014-01-24 16:29:38 -0800"
-  sha1: "ff913fa"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 15:00:18 -0800"
-  sha1: "b6ab5ed"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 15:00:07 -0800"
-  sha1: "9f1700d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 15:00:03 -0800"
-  sha1: "700f45a"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 14:59:32 -0800"
-  sha1: "4a11a79"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 14:59:09 -0800"
-  sha1: "c0604b6"
-  line: "add stackLatestJieYi.*"
 
 - name: "ccsgp_get_started"
   time: "2014-01-24 14:51:03 -0800"
@@ -413,51 +313,6 @@
   sha1: "709ecf9"
   line: "gp_panel: add LatestJieYi, Run10/11 200 combined"
 
-- name: "star-annex"
-  time: "2014-01-24 09:36:08 +0000"
-  sha1: "8ab11d5"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 09:31:16 +0000"
-  sha1: "66a9d76"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 08:23:06 +0000"
-  sha1: "abf2311"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 08:15:12 +0000"
-  sha1: "6ac39da"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 08:13:18 +0000"
-  sha1: "c1908f1"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 08:08:57 +0000"
-  sha1: "8d3f937"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 08:06:55 +0000"
-  sha1: "800cc07"
-  line: "update stackQM12, add stackLatestBingchuJie"
-
-- name: "star-annex"
-  time: "2014-01-24 08:06:32 +0000"
-  sha1: "32e26ce"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 07:55:21 +0000"
-  sha1: "78c4c87"
-  line: "update"
-
 - name: "ccsgp_get_started_data"
   time: "2014-01-24 01:52:58 -0800"
   sha1: "b94e123"
@@ -487,51 +342,6 @@
   time: "2014-01-24 01:48:45 -0800"
   sha1: "eb95baf"
   line: "gp_panel LatestBingchuJie: fix medium39 symlink"
-
-- name: "star-annex"
-  time: "2014-01-24 01:41:56 -0800"
-  sha1: "f1d11ef"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:41:53 -0800"
-  sha1: "bf5afc5"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:39:50 -0800"
-  sha1: "59431f5"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 01:39:25 -0800"
-  sha1: "c68cd6d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:39:23 -0800"
-  sha1: "587fd54"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:38:15 -0800"
-  sha1: "7a4ede2"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:38:13 -0800"
-  sha1: "9afbf62"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 01:37:01 -0800"
-  sha1: "256390d"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-24 01:36:34 -0800"
-  sha1: "5c6eb30"
-  line: "Dielectron_Physics_Plots: update panel plots, dont embed images"
 
 - name: "deckjs_talks"
   time: "2014-01-24 01:34:55 -0800"
@@ -588,35 +398,10 @@
   sha1: "3488a29"
   line: "rename QM12 -> QM12Incl39"
 
-- name: "star-annex"
-  time: "2014-01-24 00:24:47 -0800"
-  sha1: "88db502"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 00:24:45 -0800"
-  sha1: "b157e45"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-24 00:23:27 -0800"
-  sha1: "b773fd0"
-  line: "Dielectron_Physics_Plot: small title changes"
-
-- name: "star-annex"
-  time: "2014-01-24 00:09:21 -0800"
-  sha1: "0275f2b"
-  line: "update Dielectron_Physics_plots w/ LatestBingchuJie"
-
 - name: "deckjs_talks"
   time: "2014-01-24 00:07:55 -0800"
   sha1: "2b8058e"
   line: "update for LatestBingchuJie"
-
-- name: "star-annex"
-  time: "2014-01-24 00:07:44 -0800"
-  sha1: "65d856c"
-  line: "merging origin/git-annex into git-annex"
 
 - name: "ccsgp_get_started"
   time: "2014-01-23 23:48:23 -0800"
@@ -873,131 +658,6 @@
   sha1: "8153da8"
   line: "add Rapp MinBias Calculations for 19,62,39,200"
 
-- name: "star-annex"
-  time: "2014-01-23 05:15:15 +0000"
-  sha1: "1f36868"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-23 04:20:48 +0000"
-  sha1: "33f7a7e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-23 04:15:53 +0000"
-  sha1: "146575b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-23 03:26:01 +0000"
-  sha1: "ef9b7ed"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-23 03:24:31 +0000"
-  sha1: "03d2b88"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-23 03:19:41 +0000"
-  sha1: "42ce137"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:45:56 +0000"
-  sha1: "a7b1efb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:31:09 +0000"
-  sha1: "335c706"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:27:22 +0000"
-  sha1: "298a440"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:18:47 +0000"
-  sha1: "2f1af3d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:09:32 +0000"
-  sha1: "c2c8ae0"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:04:54 +0000"
-  sha1: "e32e61e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 23:00:30 +0000"
-  sha1: "d146771"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 22:53:08 +0000"
-  sha1: "3702c59"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 22:46:51 +0000"
-  sha1: "eef50d8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 22:18:27 +0000"
-  sha1: "fda4d7b"
-  line: "add ExcessLMR.jpg"
-
-- name: "star-annex"
-  time: "2014-01-22 22:18:16 +0000"
-  sha1: "b510ac1"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 21:58:19 +0000"
-  sha1: "5ab3ea9"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 21:57:58 +0000"
-  sha1: "599415f"
-  line: "add xfacQM12"
-
-- name: "star-annex"
-  time: "2014-01-22 21:57:46 +0000"
-  sha1: "0dbe7fb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 21:16:54 -0800"
-  sha1: "232f0c8"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 21:16:53 -0800"
-  sha1: "16c18cb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 21:16:52 -0800"
-  sha1: "20863b0"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 21:15:51 -0800"
-  sha1: "fffc204"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 21:15:36 -0800"
-  sha1: "75bb4c7"
-  line: "update panelQM12 plots with new arrow errors"
-
 - name: "ccsgp_get_started"
   time: "2014-01-22 21:11:06 -0800"
   sha1: "e79ce93"
@@ -1013,60 +673,10 @@
   sha1: "c31431e"
   line: "add stackQM12.png"
 
-- name: "star-annex"
-  time: "2014-01-22 20:21:41 -0800"
-  sha1: "3c37f62"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 20:21:39 -0800"
-  sha1: "42e464a"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 20:21:38 -0800"
-  sha1: "4adfcb2"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 20:21:24 -0800"
-  sha1: "196065d"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 20:21:11 -0800"
-  sha1: "9ead290"
-  line: "finish InvMassSpecsQM12re"
-
 - name: "deckjs_talks"
   time: "2014-01-22 20:19:40 -0800"
   sha1: "ab6d171"
   line: "finish reproduced stackQM12"
-
-- name: "star-annex"
-  time: "2014-01-22 20:16:50 -0800"
-  sha1: "c0bc28f"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 20:16:49 -0800"
-  sha1: "e718949"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 20:16:48 -0800"
-  sha1: "552fed6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 20:16:19 -0800"
-  sha1: "5fc1a3a"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 20:16:04 -0800"
-  sha1: "8aa01aa"
-  line: "update stackQM12"
 
 - name: "ccsgp_get_started"
   time: "2014-01-22 20:12:42 -0800"
@@ -1077,81 +687,6 @@
   time: "2014-01-22 20:08:57 -0800"
   sha1: "3521fc7"
   line: "gp_stack: fix yr and 19 GeV cocktail"
-
-- name: "star-annex"
-  time: "2014-01-22 19:26:52 -0800"
-  sha1: "79880a4"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:26:47 -0800"
-  sha1: "6314086"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:26:45 -0800"
-  sha1: "6f032f4"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:26:33 -0800"
-  sha1: "181b84b"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:26:24 -0800"
-  sha1: "98701ba"
-  line: "Dielectron_Physics_Plots: update InvMassSpecs Preview"
-
-- name: "star-annex"
-  time: "2014-01-22 19:25:15 -0800"
-  sha1: "e944985"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:25:11 -0800"
-  sha1: "0e13700"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:25:10 -0800"
-  sha1: "944c341"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:24:51 -0800"
-  sha1: "2b7ebd9"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:24:42 -0800"
-  sha1: "fdedd42"
-  line: "update stackQM12.jpg"
-
-- name: "star-annex"
-  time: "2014-01-22 19:21:21 -0800"
-  sha1: "6f8436d"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:21:20 -0800"
-  sha1: "9780a57"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:21:19 -0800"
-  sha1: "bd5c12e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 19:20:20 -0800"
-  sha1: "d8c3167"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 19:19:57 -0800"
-  sha1: "65e79ac"
-  line: "update stackQM12 w arrows for errorbars"
 
 - name: "ccsgp_get_started"
   time: "2014-01-22 19:17:21 -0800"
@@ -1173,175 +708,25 @@
   sha1: "cc5d386"
   line: "gp_xfac: fix y-range"
 
-- name: "star-annex"
-  time: "2014-01-22 15:47:40 -0800"
-  sha1: "c463ee8"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:46:33 -0800"
-  sha1: "4c23393"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:46:32 -0800"
-  sha1: "c953e04"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:46:15 -0800"
-  sha1: "99bae0d"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:46:05 -0800"
-  sha1: "0264a6e"
-  line: "update Dielectron_Physics_Plots.html"
-
 - name: "deckjs_talks"
   time: "2014-01-22 15:45:18 -0800"
   sha1: "2bc0a44"
   line: "Dielectron_Physics_Plots: add src links"
-
-- name: "star-annex"
-  time: "2014-01-22 15:31:55 -0800"
-  sha1: "db524be"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:31:52 -0800"
-  sha1: "487678d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:31:51 -0800"
-  sha1: "143f772"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:31:32 -0800"
-  sha1: "a708f95"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:31:22 -0800"
-  sha1: "dd9088c"
-  line: "add Dielectron_Physics_Plots.html"
 
 - name: "deckjs_talks"
   time: "2014-01-22 15:29:59 -0800"
   sha1: "e31543a"
   line: "finish Dielectron_Physics_Plots"
 
-- name: "star-annex"
-  time: "2014-01-22 15:28:18 -0800"
-  sha1: "a20747e"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:28:12 -0800"
-  sha1: "ff3a7d9"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:28:11 -0800"
-  sha1: "bf28947"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:27:48 -0800"
-  sha1: "ced92ba"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:27:32 -0800"
-  sha1: "55baaae"
-  line: "add AllEnergiesData.jpg"
-
 - name: "deckjs_talks"
   time: "2014-01-22 15:20:45 -0800"
   sha1: "6b48aea"
   line: "Dielectron_Physics_Plots: start on InvMassSpecs"
 
-- name: "star-annex"
-  time: "2014-01-22 15:19:54 -0800"
-  sha1: "28aa11a"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:19:52 -0800"
-  sha1: "5f91b75"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:19:51 -0800"
-  sha1: "cac509b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:19:07 -0800"
-  sha1: "259e571"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:18:56 -0800"
-  sha1: "6bfd0fe"
-  line: "add stackQM12"
-
 - name: "deckjs_talks"
   time: "2014-01-22 15:11:22 -0800"
   sha1: "253ef6a"
   line: "Dielectron_Physics_Plots: add panelQM12Incl39"
-
-- name: "star-annex"
-  time: "2014-01-22 15:10:58 -0800"
-  sha1: "c69b616"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:10:56 -0800"
-  sha1: "d94eb99"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:10:55 -0800"
-  sha1: "642ca1a"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:10:00 -0800"
-  sha1: "ecbdf8e"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:09:44 -0800"
-  sha1: "5d489ba"
-  line: "add panelQM12Incl39"
-
-- name: "star-annex"
-  time: "2014-01-22 15:01:36 -0800"
-  sha1: "5dd4967"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:01:35 -0800"
-  sha1: "ea43527"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:01:34 -0800"
-  sha1: "690203c"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 15:01:01 -0800"
-  sha1: "5396234"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 15:00:45 -0800"
-  sha1: "b49da8b"
-  line: "add panelQM12"
 
 - name: "deckjs_talks"
   time: "2014-01-22 14:59:43 -0800"
@@ -1353,56 +738,6 @@
   sha1: "a76f609"
   line: "Dielectron_Physics_Plots: add orginal panel"
 
-- name: "star-annex"
-  time: "2014-01-22 14:53:56 -0800"
-  sha1: "4a86f19"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:53:52 -0800"
-  sha1: "8f871bc"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 14:53:50 -0800"
-  sha1: "b29510a"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 14:53:36 -0800"
-  sha1: "f99fe6d"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:53:23 -0800"
-  sha1: "8030923"
-  line: "improve InMedRhoPanel.jpg quality"
-
-- name: "star-annex"
-  time: "2014-01-22 14:47:50 -0800"
-  sha1: "14c72c0"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:47:42 -0800"
-  sha1: "d2059ad"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 14:47:42 -0800"
-  sha1: "6d311bf"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 14:47:23 -0800"
-  sha1: "781ea15"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:47:05 -0800"
-  sha1: "efd7745"
-  line: "add InMedRhoPanel.jpg"
-
 - name: "deckjs_talks"
   time: "2014-01-22 14:42:04 -0800"
   sha1: "1db113a"
@@ -1413,35 +748,10 @@
   sha1: "081cb16"
   line: "add dielectron_data_public"
 
-- name: "star-annex"
-  time: "2014-01-22 14:21:54 -0800"
-  sha1: "6712c64"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:20:59 -0800"
-  sha1: "f528485"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 14:18:50 -0800"
-  sha1: "7879c81"
-  line: "update"
-
 - name: "gitolite-admin-linode"
   time: "2014-01-22 14:04:11 -0800"
   sha1: "0903ce5"
   line: "add star-annex"
-
-- name: "star-annex"
-  time: "2014-01-22 13:59:21 -0800"
-  sha1: "cab4101"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-22 13:59:20 -0800"
-  sha1: "ddcff27"
-  line: "update"
 
 - name: "deckjs_talks"
   time: "2014-01-22 13:45:31 -0800"
@@ -1552,21 +862,6 @@
   time: "2014-01-21 17:39:32 -0800"
   sha1: "986092f"
   line: "symlink data39.dat to gp_stack input dir"
-
-- name: "star-annex"
-  time: "2014-01-21 06:47:36 +0000"
-  sha1: "5240b2b"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-21 06:47:16 +0000"
-  sha1: "a6e3176"
-  line: "add InMedRhoPanelQM12Incl39"
-
-- name: "star-annex"
-  time: "2014-01-21 06:46:54 +0000"
-  sha1: "189f0dc"
-  line: "update"
 
 - name: "ccsgp_get_started"
   time: "2014-01-21 06:14:11 -0800"
@@ -1697,16 +992,6 @@
   time: "2014-01-21 00:49:17 -0800"
   sha1: "ec14e0b"
   line: "rm git-daemon from vuv, diplom, werkstudent"
-
-- name: "star-annex"
-  time: "2014-01-20 22:48:36 -0800"
-  sha1: "f7514c8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-20 22:48:34 -0800"
-  sha1: "74f8319"
-  line: "update"
 
 - name: "InvMassBgAnalysis"
   time: "2014-01-20 22:05:27 -0800"
@@ -1973,46 +1258,6 @@
   sha1: "22b3455"
   line: "adjust genExDat to new data format"
 
-- name: "star-annex"
-  time: "2014-01-17 12:28:50 +0000"
-  sha1: "f67c1ab"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-17 12:28:23 +0000"
-  sha1: "039117b"
-  line: "14-01-17_LFSMeeting"
-
-- name: "star-annex"
-  time: "2014-01-17 12:28:11 +0000"
-  sha1: "8aa565e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 09:38:05 +0000"
-  sha1: "71c7b16"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-17 09:37:40 +0000"
-  sha1: "5ff4f83"
-  line: "add DetTrackQualEffSysErr pdf's"
-
-- name: "star-annex"
-  time: "2014-01-17 09:36:58 +0000"
-  sha1: "b538046"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 04:30:34 -0800"
-  sha1: "218ce43"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 04:30:30 -0800"
-  sha1: "d2022ba"
-  line: "update"
-
 - name: "deckjs_talks"
   time: "2014-01-17 04:20:20 -0800"
   sha1: "272dc4b"
@@ -2038,36 +1283,6 @@
   sha1: "4319e3a"
   line: "EmbEffCalc: write out integrated eff's"
 
-- name: "star-annex"
-  time: "2014-01-17 01:50:05 -0800"
-  sha1: "8482afe"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 01:50:00 -0800"
-  sha1: "a0373f6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 01:43:47 +0000"
-  sha1: "ec77567"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-17 01:43:15 +0000"
-  sha1: "2ee852d"
-  line: "add AbstractQM14_Huck.pdf"
-
-- name: "star-annex"
-  time: "2014-01-17 01:42:57 +0000"
-  sha1: "fe46dfb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-17 01:41:47 -0800"
-  sha1: "78577f9"
-  line: "update"
-
 - name: "ccsgp_get_started"
   time: "2014-01-16 19:04:21 -0800"
   sha1: "21e7c64"
@@ -2077,16 +1292,6 @@
   time: "2014-01-16 18:58:35 -0800"
   sha1: "379e7dd"
   line: "TofMatch: some cleanup and comments"
-
-- name: "star-annex"
-  time: "2014-01-16 17:44:29 -0800"
-  sha1: "ec35901"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-16 17:44:28 -0800"
-  sha1: "c9dc4f5"
-  line: "update"
 
 - name: "phdthesis"
   time: "2014-01-16 17:08:39 -0800"
@@ -2152,31 +1357,6 @@
   time: "2014-01-16 00:10:31 -0800"
   sha1: "1b79474"
   line: "mv UlrichXuError to Utils"
-
-- name: "star-annex"
-  time: "2014-01-15 15:49:10 +0000"
-  sha1: "82a5b7a"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-15 15:48:42 +0000"
-  sha1: "95350bb"
-  line: "add All_2014-01-15_*trons-nup.pdf"
-
-- name: "star-annex"
-  time: "2014-01-15 15:48:12 +0000"
-  sha1: "309bc8e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-15 07:50:12 -0800"
-  sha1: "fda7552"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-15 07:50:09 -0800"
-  sha1: "20ec6cc"
-  line: "update"
 
 - name: "Embedding"
   time: "2014-01-15 07:27:27 -0800"
@@ -2558,95 +1738,10 @@
   sha1: "4fa7ba4"
   line: "README update"
 
-- name: "star-annex"
-  time: "2014-01-10 21:53:20 +0000"
-  sha1: "2d3c642"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:53:16 +0000"
-  sha1: "d52c6c6"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-10 21:53:02 +0000"
-  sha1: "f1f1fea"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:43 +0000"
-  sha1: "a94094d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:35 +0000"
-  sha1: "357d722"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:33 +0000"
-  sha1: "668a39b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:30 +0000"
-  sha1: "2e97c2f"
-  line: "add 14-01-10_LFSMeeting.html"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:30 +0000"
-  sha1: "25bd1c3"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:52:08 +0000"
-  sha1: "bf8ae07"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 21:47:16 +0000"
-  sha1: "d8e2dcb"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-10 21:44:31 +0000"
-  sha1: "f1f7290"
-  line: "add files for 14-01-10 LFSpectra"
-
-- name: "star-annex"
-  time: "2014-01-10 21:44:10 +0000"
-  sha1: "a70c528"
-  line: "update"
-
 - name: "ccsgp_get_started"
   time: "2014-01-10 21:44:07 -0800"
   sha1: "69fd10f"
   line: "improve gp_datdir, package usage and README"
-
-- name: "star-annex"
-  time: "2014-01-10 13:54:20 -0800"
-  sha1: "69d57cd"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 13:54:18 -0800"
-  sha1: "d56dfd4"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 13:54:15 -0800"
-  sha1: "3948dd8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 13:54:13 -0800"
-  sha1: "336f599"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-10 13:52:49 -0800"
-  sha1: "0b4966e"
-  line: "update"
 
 - name: "deckjs_talks"
   time: "2014-01-10 07:25:01 -0800"
@@ -2933,70 +2028,10 @@
   sha1: "da92720"
   line: "initial commit w/ README"
 
-- name: "star-annex"
-  time: "2014-01-07 19:15:19 +0000"
-  sha1: "c0f89cc"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-07 19:14:59 +0000"
-  sha1: "7649a46"
-  line: "14-01-07_RncGroupMeeting final"
-
-- name: "star-annex"
-  time: "2014-01-07 19:14:26 +0000"
-  sha1: "d70f031"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 11:22:41 -0800"
-  sha1: "da98ac7"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 11:22:38 -0800"
-  sha1: "9b8df7d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 11:16:14 +0000"
-  sha1: "342aa27"
-  line: "add nhitsSysErr/*-nup.jpg"
-
-- name: "star-annex"
-  time: "2014-01-07 11:15:42 +0000"
-  sha1: "835e1d4"
-  line: "update"
-
 - name: "deckjs_talks"
   time: "2014-01-07 11:08:35 -0800"
   sha1: "f1be2bd"
   line: "14-01-07_RncGroupMeeting done"
-
-- name: "star-annex"
-  time: "2014-01-07 11:01:10 +0000"
-  sha1: "91d9453"
-  line: "add pics from pyana nhitsSysErr"
-
-- name: "star-annex"
-  time: "2014-01-07 11:00:34 +0000"
-  sha1: "9d77041"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 10:16:45 +0000"
-  sha1: "d642c2d"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-07 10:16:30 +0000"
-  sha1: "c881a63"
-  line: "adding pics for 14-1-7_RncGroupMtg"
-
-- name: "star-annex"
-  time: "2014-01-07 10:16:13 +0000"
-  sha1: "c93fed7"
-  line: "update"
 
 - name: "deckjs_talks"
   time: "2014-01-07 04:52:17 -0800"
@@ -3008,46 +2043,6 @@
   sha1: "ca4a9ec"
   line: "14-01-07_RncGroupMeeting: eff Dist/UNcert. ready"
 
-- name: "star-annex"
-  time: "2014-01-07 03:17:14 -0800"
-  sha1: "f549b02"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 03:17:11 -0800"
-  sha1: "08bfe17"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 03:14:55 -0800"
-  sha1: "97a59f0"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-07 03:14:10 -0800"
-  sha1: "db79091"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 03:14:07 -0800"
-  sha1: "32e0cd3"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 02:49:19 -0800"
-  sha1: "cf3d653"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2014-01-07 02:48:55 -0800"
-  sha1: "5c529ad"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-07 02:48:51 -0800"
-  sha1: "0a3717d"
-  line: "update"
-
 - name: "pyana"
   time: "2014-01-07 02:37:45 -0800"
   sha1: "45db733"
@@ -3057,21 +2052,6 @@
   time: "2014-01-07 02:14:27 -0800"
   sha1: "bc8c8f6"
   line: "14-1-7_RncGroupMtg: working on EffCorr"
-
-- name: "star-annex"
-  time: "2014-01-07 01:40:22 +0000"
-  sha1: "913a907"
-  line: "add talks/images symlink"
-
-- name: "star-annex"
-  time: "2014-01-07 01:39:49 +0000"
-  sha1: "35f54b9"
-  line: "add 14-01-07_RncGroupMeeting"
-
-- name: "star-annex"
-  time: "2014-01-07 01:37:52 +0000"
-  sha1: "a299dbd"
-  line: "update"
 
 - name: "deckjs_talks"
   time: "2014-01-07 00:14:06 -0800"
@@ -3087,16 +2067,6 @@
   time: "2014-01-06 22:03:53 -0800"
   sha1: "6802f98"
   line: "working on 14-01-07_RncGroupMeeting"
-
-- name: "star-annex"
-  time: "2014-01-06 17:55:54 -0800"
-  sha1: "2fae94e"
-  line: "update"
-
-- name: "star-annex"
-  time: "2014-01-06 17:55:52 -0800"
-  sha1: "10a1f00"
-  line: "update"
 
 - name: "deckjs_talks"
   time: "2014-01-06 17:12:40 -0800"
@@ -3718,56 +2688,6 @@
   sha1: "403027d"
   line: "mergConvElQA.sh: add energy-wise nup plots"
 
-- name: "star-annex"
-  time: "2013-12-16 10:48:27 -0800"
-  sha1: "9c6cf8c"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-16 10:47:46 -0800"
-  sha1: "7f46066"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-16 10:47:44 -0800"
-  sha1: "6236919"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-16 10:43:13 -0800"
-  sha1: "c475dc7"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-16 10:42:50 -0800"
-  sha1: "c0165e1"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-16 10:42:49 -0800"
-  sha1: "35067ff"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-16 10:40:58 -0800"
-  sha1: "26c332f"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-16 10:40:51 -0800"
-  sha1: "8076ce6"
-  line: "add files for 13-12-16_MondayMeeting.txt"
-
-- name: "star-annex"
-  time: "2013-12-16 10:40:23 -0800"
-  sha1: "32bd14b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-16 10:40:13 -0800"
-  sha1: "05ed8df"
-  line: "update"
-
 - name: "deckjs_talks"
   time: "2013-12-16 10:39:30 -0800"
   sha1: "dac2c61"
@@ -3788,36 +2708,6 @@
   sha1: "2812038"
   line: "add Makefile"
 
-- name: "star-annex"
-  time: "2013-12-15 22:55:15 -0800"
-  sha1: "ad1c459"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 22:55:01 -0800"
-  sha1: "f92dc8f"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 22:54:59 -0800"
-  sha1: "c7edca6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 22:53:01 -0800"
-  sha1: "1d5bf10"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 22:52:26 -0800"
-  sha1: "2d658a6"
-  line: "add AnaMtgPurdue & EMMI-Workshop"
-
-- name: "star-annex"
-  time: "2013-12-15 22:52:13 -0800"
-  sha1: "516d349"
-  line: "update"
-
 - name: "gitolite-admin-linode"
   time: "2013-12-15 22:38:55 -0800"
   sha1: "464f8be"
@@ -3837,66 +2727,6 @@
   time: "2013-12-15 22:36:14 -0800"
   sha1: "9746373"
   line: "start with .gitignore"
-
-- name: "star-annex"
-  time: "2013-12-15 20:06:47 -0800"
-  sha1: "1b72059"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 19:07:56 -0800"
-  sha1: "f43d369"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 19:07:55 -0800"
-  sha1: "b3d7dd7"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 19:03:11 -0800"
-  sha1: "6933b71"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 19:02:58 -0800"
-  sha1: "94cad2a"
-  line: "update convel plots"
-
-- name: "star-annex"
-  time: "2013-12-15 19:02:51 -0800"
-  sha1: "6443b5c"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 16:41:29 -0800"
-  sha1: "da49d28"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 16:39:25 -0800"
-  sha1: "c359ac1"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 16:39:23 -0800"
-  sha1: "d3d5e96"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-15 16:32:36 -0800"
-  sha1: "173ea12"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-15 16:32:23 -0800"
-  sha1: "69d3b43"
-  line: "add convel pics"
-
-- name: "star-annex"
-  time: "2013-12-15 16:32:16 -0800"
-  sha1: "8c57293"
-  line: "update"
 
 - name: "pyana"
   time: "2013-12-15 15:55:29 -0800"
@@ -4007,36 +2837,6 @@
   time: "2013-12-10 13:32:20 -0800"
   sha1: "c9fb7bc"
   line: "make couple of repos protected accessible"
-
-- name: "star-annex"
-  time: "2013-12-10 13:26:08 -0800"
-  sha1: "756b104"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-10 13:26:05 -0800"
-  sha1: "7414684"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-10 13:19:03 -0800"
-  sha1: "849ac7e"
-  line: "Merge branch 'git-annex' of linode:/home/patrick/public/downloads.the-huck.com/public/star/ into git-annex"
-
-- name: "star-annex"
-  time: "2013-12-10 13:12:59 -0800"
-  sha1: "97225e8"
-  line: "add more data/root"
-
-- name: "star-annex"
-  time: "2013-12-10 13:12:26 -0800"
-  sha1: "ae1e869"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-12-10 12:28:19 -0800"
-  sha1: "1134be7"
-  line: "add .gitignore"
 
 - name: "pyana"
   time: "2013-12-04 16:47:35 -0800"
@@ -4818,36 +3618,6 @@
   sha1: "9780327"
   line: "cvs2git: add screenshots"
 
-- name: "star-annex"
-  time: "2013-08-12 18:50:34 -0700"
-  sha1: "772df29"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-12 18:50:32 -0700"
-  sha1: "2e6f299"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-12 18:50:31 -0700"
-  sha1: "04194e8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-12 18:49:49 -0700"
-  sha1: "e15920e"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-12 18:49:21 -0700"
-  sha1: "4141f58"
-  line: "add latest images"
-
-- name: "star-annex"
-  time: "2013-08-12 18:49:03 -0700"
-  sha1: "a229cff"
-  line: "update"
-
 - name: "phdthesis"
   time: "2013-08-12 18:43:30 -0700"
   sha1: "5e197a8"
@@ -5193,36 +3963,6 @@
   sha1: "471c810"
   line: "fix some last bugs"
 
-- name: "star-annex"
-  time: "2013-08-06 17:28:16 -0700"
-  sha1: "d2f0164"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-06 17:26:43 -0700"
-  sha1: "cc53e89"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-06 17:26:34 -0700"
-  sha1: "5f4eb58"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-06 17:07:28 -0700"
-  sha1: "8851c12"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-06 17:06:52 -0700"
-  sha1: "9d5a0f4"
-  line: "add pics_121202 backup"
-
-- name: "star-annex"
-  time: "2013-08-06 17:06:39 -0700"
-  sha1: "29ee69f"
-  line: "update"
-
 - name: "thermostatly"
   time: "2013-08-06 15:33:45 -0700"
   sha1: "688a6a5"
@@ -5262,36 +4002,6 @@
   time: "2013-08-05 20:30:42 -0700"
   sha1: "97391fc"
   line: "add PyFlot to requirements"
-
-- name: "star-annex"
-  time: "2013-08-05 16:38:02 -0700"
-  sha1: "cbbae7c"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-05 16:36:39 -0700"
-  sha1: "53f41e8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-05 16:36:37 -0700"
-  sha1: "ae8ba00"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-08-05 16:31:07 -0700"
-  sha1: "6251813"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-08-05 16:30:47 -0700"
-  sha1: "12d5bde"
-  line: "add images/pages from all talks"
-
-- name: "star-annex"
-  time: "2013-08-05 16:30:03 -0700"
-  sha1: "8c42a44"
-  line: "update"
 
 - name: "phdthesis"
   time: "2013-08-05 16:28:27 -0700"
@@ -5933,65 +4643,15 @@
   sha1: "b8c3f7c"
   line: "cmdline: fix m4 missing dir error"
 
-- name: "star-annex"
-  time: "2013-07-31 03:56:06 -0700"
-  sha1: "fd5b855"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-31 03:53:40 -0700"
-  sha1: "c4ac1e4"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-31 03:53:38 -0700"
-  sha1: "eb58d3d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-31 03:45:12 -0700"
-  sha1: "5c66fff"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-31 03:44:23 -0700"
-  sha1: "95568d6"
-  line: "new files+formats for phdthesis"
-
-- name: "star-annex"
-  time: "2013-07-31 03:43:56 -0700"
-  sha1: "908b101"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-31 03:40:01 -0700"
-  sha1: "db4dfdd"
-  line: "update"
-
 - name: "ccsscripts"
   time: "2013-07-28 23:50:45 -0700"
   sha1: "0c6cc2e"
   line: "bashdb: update dH, kq300 for jihan sim"
 
-- name: "star-annex"
-  time: "2013-07-16 04:45:39 -0400"
-  sha1: "2cec9d8"
-  line: "update"
-
 - name: "pyana"
   time: "2013-07-16 04:43:03 -0400"
   sha1: "ea7147f"
   line: "plots: add cocktail and norm data"
-
-- name: "star-annex"
-  time: "2013-07-16 04:39:46 -0400"
-  sha1: "5d55159"
-  line: "add panel"
-
-- name: "star-annex"
-  time: "2013-07-16 04:39:41 -0400"
-  sha1: "8946957"
-  line: "update"
 
 - name: "pyana"
   time: "2013-07-16 03:40:34 -0400"
@@ -6007,51 +4667,6 @@
   time: "2013-07-16 03:32:00 -0400"
   sha1: "a635b55"
   line: "update pid"
-
-- name: "star-annex"
-  time: "2013-07-16 03:13:00 -0400"
-  sha1: "d7a7a89"
-  line: "update SignalDef"
-
-- name: "star-annex"
-  time: "2013-07-16 03:12:50 -0400"
-  sha1: "b30e6f8"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-16 03:11:26 -0400"
-  sha1: "3cfc473"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-16 02:30:39 -0400"
-  sha1: "192bbae"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-16 02:30:22 -0400"
-  sha1: "2ca9bca"
-  line: "add BetaCutFormula"
-
-- name: "star-annex"
-  time: "2013-07-16 02:30:14 -0400"
-  sha1: "fcbf9d6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-16 01:50:58 -0400"
-  sha1: "3c3ce18"
-  line: "add BetaMaker.eps/pdf, fix 62 png"
-
-- name: "star-annex"
-  time: "2013-07-16 01:50:40 -0400"
-  sha1: "76e53fb"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-16 01:45:41 -0700"
-  sha1: "7e197e2"
-  line: "update"
 
 - name: "docbook"
   time: "2013-07-16 00:47:17 -0400"
@@ -6117,26 +4732,6 @@
   time: "2013-07-08 08:26:22 -0700"
   sha1: "ec95ecb"
   line: "bgsub-diff for SoftHadron"
-
-- name: "star-annex"
-  time: "2013-07-08 08:18:28 -0700"
-  sha1: "cb29ac7"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-08 08:18:26 -0700"
-  sha1: "1e4f435"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-08 08:13:13 -0700"
-  sha1: "e380d17"
-  line: "add ptspec png's for SoftHadron"
-
-- name: "star-annex"
-  time: "2013-07-08 08:12:52 -0700"
-  sha1: "8833a8a"
-  line: "update"
 
 - name: "pyana"
   time: "2013-07-08 07:39:01 -0700"
@@ -6453,86 +5048,6 @@
   sha1: "a7985d1"
   line: "bgsub: 27 GeV update, better layout"
 
-- name: "star-annex"
-  time: "2013-07-03 01:52:52 -0700"
-  sha1: "b276165"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-03 01:52:14 -0700"
-  sha1: "5754659"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:52:13 -0700"
-  sha1: "c6f965b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:48:16 -0700"
-  sha1: "05b4fdf"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-03 01:48:12 -0700"
-  sha1: "3392d6f"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:48:10 -0700"
-  sha1: "b1c818b"
-  line: "git-annex automatic sync"
-
-- name: "star-annex"
-  time: "2013-07-03 01:48:04 -0700"
-  sha1: "ba41b85"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:48:03 -0700"
-  sha1: "9615298"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:42:24 -0700"
-  sha1: "c0fbc38"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-03 01:42:09 -0700"
-  sha1: "9b59a14"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:42:08 -0700"
-  sha1: "1ed6ddc"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:41:00 -0700"
-  sha1: "faed6e1"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-03 01:40:36 -0700"
-  sha1: "a07e01d"
-  line: "update hdf5 files after 27 GeV phiV fix"
-
-- name: "star-annex"
-  time: "2013-07-03 01:40:25 -0700"
-  sha1: "a7e2dc6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-03 01:39:00 -0700"
-  sha1: "9de7215"
-  line: "update bg-sub figs after 27 GeV phiV fix"
-
-- name: "star-annex"
-  time: "2013-07-03 01:38:14 -0700"
-  sha1: "28d8579"
-  line: "update"
-
 - name: "pyana"
   time: "2013-07-03 01:24:57 -0700"
   sha1: "f320e47"
@@ -6548,96 +5063,6 @@
   sha1: "e30fb06"
   line: "bgsub filled with content"
 
-- name: "star-annex"
-  time: "2013-07-01 18:06:18 -0700"
-  sha1: "9bdc671"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-01 18:06:17 -0700"
-  sha1: "51e7d2a"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 18:06:16 -0700"
-  sha1: "df9e527"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 18:05:55 -0700"
-  sha1: "370b88b"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-01 18:05:49 -0700"
-  sha1: "f1ccaea"
-  line: "more bgsubs, evtplane origs"
-
-- name: "star-annex"
-  time: "2013-07-01 18:05:31 -0700"
-  sha1: "91b49c1"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 17:08:22 -0700"
-  sha1: "1780592"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 17:08:20 -0700"
-  sha1: "cb2e01b"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 17:08:02 -0700"
-  sha1: "17b6aba"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-01 17:07:57 -0700"
-  sha1: "5ece5fb"
-  line: "add more defs for bg-sub"
-
-- name: "star-annex"
-  time: "2013-07-01 17:07:46 -0700"
-  sha1: "27bc16f"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 16:27:55 -0700"
-  sha1: "d7fbd02"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-01 16:27:05 -0700"
-  sha1: "df8163d"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 16:27:03 -0700"
-  sha1: "8ddfde2"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 16:25:06 -0700"
-  sha1: "0f3eee8"
-  line: "add NormFactorLS.pdf/png"
-
-- name: "star-annex"
-  time: "2013-07-01 16:24:54 -0700"
-  sha1: "ec9f9ce"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-07-01 01:26:36 -0700"
-  sha1: "5d2ca79"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-07-01 01:26:08 -0700"
-  sha1: "307d320"
-  line: "update"
-
 - name: "docbook"
   time: "2013-07-01 00:17:33 -0700"
   sha1: "ddb8be3"
@@ -6647,56 +5072,6 @@
   time: "2013-07-01 00:16:20 -0700"
   sha1: "b9e0cd4"
   line: "update links to STAR protected with downloads.the-huck.com"
-
-- name: "star-annex"
-  time: "2013-06-30 23:38:15 -0700"
-  sha1: "ec20fc0"
-  line: "merging synced/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-06-30 23:35:51 -0700"
-  sha1: "680e4ad"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-06-30 23:35:49 -0700"
-  sha1: "223e59f"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-06-30 22:59:14 -0700"
-  sha1: "7420d04"
-  line: "merging origin/git-annex into git-annex"
-
-- name: "star-annex"
-  time: "2013-06-30 22:58:59 -0700"
-  sha1: "8ff42de"
-  line: "initial annex add"
-
-- name: "star-annex"
-  time: "2013-06-30 22:58:49 -0700"
-  sha1: "7bf4bf6"
-  line: "update"
-
-- name: "star-annex"
-  time: "2013-06-30 22:58:27 -0700"
-  sha1: "8ef3ffe"
-  line: "branch created"
-
-- name: "star-annex"
-  time: "2013-06-30 22:55:44 -0700"
-  sha1: "b25903d"
-  line: "add .gitattributes"
-
-- name: "star-annex"
-  time: "2013-06-30 22:55:10 -0700"
-  sha1: "d1231e7"
-  line: "branch created"
-
-- name: "star-annex"
-  time: "2013-06-30 22:55:10 -0700"
-  sha1: "3802b64"
-  line: "update"
 
 - name: "gitolite-admin-linode"
   time: "2013-06-29 15:41:18 -0700"

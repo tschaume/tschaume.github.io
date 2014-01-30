@@ -1,3 +1,8 @@
+- name: "ccsgp_get_started"
+  time: "2014-01-29 23:29:50 -0500"
+  sha1: "eeafcfb"
+  line: "add gp_rdiff to docs"
+
 - name: "deckjs_talks"
   time: "2014-01-29 23:22:31 -0500"
   sha1: "8f3106b"

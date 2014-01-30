@@ -1,3 +1,13 @@
+- name: "ccsgp_get_started"
+  time: "2014-01-29 21:00:56 -0500"
+  sha1: "81d02dc"
+  line: "gp_rdiff: plotting 19 GeV diff"
+
+- name: "ccsgp_get_started"
+  time: "2014-01-29 10:56:04 -0800"
+  sha1: "cf1fe97"
+  line: "gp_rdiff: fix binwidth, edges, comments"
+
 - name: "portfiles"
   time: "2014-01-28 14:48:11 -0800"
   sha1: "83d0fd9"

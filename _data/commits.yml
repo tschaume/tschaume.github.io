@@ -1,3 +1,13 @@
+- name: "ccsgp_get_started"
+  time: "2014-01-30 00:41:38 -0500"
+  sha1: "090108b"
+  line: "gp_rdiff: implement medium comparison"
+
+- name: "ccsgp_get_started"
+  time: "2014-01-30 00:41:00 -0500"
+  sha1: "263b91e"
+  line: "ccsgp updated (zip_flat)"
+
 - name: "dielectron_data_protected"
   time: "2014-01-29 23:52:07 -0500"
   sha1: "5fca1dd"

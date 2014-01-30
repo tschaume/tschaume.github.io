@@ -1,4 +1,14 @@
 - name: "ccsgp_get_started"
+  time: "2014-01-30 02:02:02 -0500"
+  sha1: "d907f71"
+  line: "gp_rdiff: start on edges check"
+
+- name: "ccsgp_get_started"
+  time: "2014-01-30 02:01:40 -0500"
+  sha1: "35ff274"
+  line: "gp_rdiff: fix filename"
+
+- name: "ccsgp_get_started"
   time: "2014-01-30 00:54:29 -0500"
   sha1: "582a88f"
   line: "gp_rdiff: fix titles"

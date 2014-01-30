@@ -1,4 +1,9 @@
 - name: "ccsgp_get_started"
+  time: "2014-01-29 22:17:51 -0500"
+  sha1: "c4eb230"
+  line: "gp_rdiff: xrange, cut off >1.5"
+
+- name: "ccsgp_get_started"
   time: "2014-01-29 21:00:56 -0500"
   sha1: "81d02dc"
   line: "gp_rdiff: plotting 19 GeV diff"
@@ -47,16 +52,6 @@
   time: "2014-01-27 01:07:40 -0800"
   sha1: "15b3b82"
   line: "add omer code"
-
-- name: "ccsgp_get_started"
-  time: "2014-01-27 01:05:13 -0800"
-  sha1: "5ec234b"
-  line: "WIP on master: 296fe5d gp_stack: dont plot dy, set arrow_offset"
-
-- name: "ccsgp_get_started"
-  time: "2014-01-27 01:05:13 -0800"
-  sha1: "25eed60"
-  line: "index on master: 296fe5d gp_stack: dont plot dy, set arrow_offset"
 
 - name: "thermostatly"
   time: "2014-01-27 01:04:09 -0800"

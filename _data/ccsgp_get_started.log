@@ -1,7 +1,6 @@
+2014-01-29 22:17:51 -0500#c4eb230#gp_rdiff: xrange, cut off >1.5#ccsgp_get_started
 2014-01-29 21:00:56 -0500#81d02dc#gp_rdiff: plotting 19 GeV diff#ccsgp_get_started
 2014-01-29 10:56:04 -0800#cf1fe97#gp_rdiff: fix binwidth, edges, comments#ccsgp_get_started
-2014-01-27 01:05:13 -0800#5ec234b#WIP on master: 296fe5d gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
-2014-01-27 01:05:13 -0800#25eed60#index on master: 296fe5d gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
 2014-01-24 14:51:03 -0800#296fe5d#gp_stack: dont plot dy, set arrow_offset#ccsgp_get_started
 2014-01-24 01:27:10 -0800#25fed01#gp_panel: don't show dx#ccsgp_get_started
 2014-01-23 23:48:23 -0800#cabb39c#gp_stack: update to accomodate latest data#ccsgp_get_started

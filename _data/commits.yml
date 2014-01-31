@@ -1,4 +1,14 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-31 00:18:59 -0500"
+  sha1: "cf37050"
+  line: "rm settings.py"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-31 00:18:46 -0500"
+  sha1: "c4cf1ce"
+  line: "move api into subfolder"
+
+- name: "global_gitfeed_api"
   time: "2014-01-30 23:52:13 -0500"
   sha1: "526ae90"
   line: "add api.py, api.wsgi, update run.py"

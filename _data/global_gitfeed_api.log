@@ -1,3 +1,5 @@
+2014-01-31 00:18:59 -0500#cf37050#rm settings.py#global_gitfeed_api
+2014-01-31 00:18:46 -0500#c4cf1ce#move api into subfolder#global_gitfeed_api
 2014-01-30 23:52:13 -0500#526ae90#add api.py, api.wsgi, update run.py#global_gitfeed_api
 2014-01-30 22:14:21 -0500#d38edd3#update initDb.sh with new endpoints#global_gitfeed_api
 2014-01-30 22:13:00 -0500#5779a1d#run: rm heroku config#global_gitfeed_api

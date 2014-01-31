@@ -1,4 +1,9 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-30 22:14:21 -0500"
+  sha1: "d38edd3"
+  line: "update initDb.sh with new endpoints"
+
+- name: "global_gitfeed_api"
   time: "2014-01-30 22:13:00 -0500"
   sha1: "5779a1d"
   line: "run: rm heroku config"

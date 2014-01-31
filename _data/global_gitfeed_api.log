@@ -1,3 +1,4 @@
+2014-01-30 22:14:21 -0500#d38edd3#update initDb.sh with new endpoints#global_gitfeed_api
 2014-01-30 22:13:00 -0500#5779a1d#run: rm heroku config#global_gitfeed_api
 2014-01-30 22:12:18 -0500#36703d9#settings: gitcommits/projects#global_gitfeed_api
 2014-01-30 21:18:56 -0500#0b8597c#run.py: switch to bcrypt auth#global_gitfeed_api

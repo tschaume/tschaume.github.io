@@ -1,4 +1,9 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-31 05:09:43 -0500"
+  sha1: "87c0bcf"
+  line: "pre-push: add project and auth working"
+
+- name: "global_gitfeed_api"
   time: "2014-01-31 04:10:50 -0500"
   sha1: "6c2592f"
   line: "start on pre-push hook"

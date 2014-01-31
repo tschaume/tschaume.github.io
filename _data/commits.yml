@@ -1,4 +1,34 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-30 22:13:00 -0500"
+  sha1: "5779a1d"
+  line: "run: rm heroku config"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-30 22:12:18 -0500"
+  sha1: "36703d9"
+  line: "settings: gitcommits/projects"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-30 21:18:56 -0500"
+  sha1: "0b8597c"
+  line: "run.py: switch to bcrypt auth"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-30 21:05:48 -0500"
+  sha1: "d8b429e"
+  line: "settings: add accounts endpoint"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-30 21:05:20 -0500"
+  sha1: "39148ad"
+  line: "add set_admin"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-30 20:53:00 -0500"
+  sha1: "cfdcc72"
+  line: "update requirements"
+
+- name: "global_gitfeed_api"
   time: "2014-01-30 20:33:41 -0500"
   sha1: "5cb2f3c"
   line: "add authorization, public GET"

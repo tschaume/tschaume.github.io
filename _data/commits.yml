@@ -1,11 +1,11 @@
 - name: "global_gitfeed_api"
-  time: "2014-01-31 02:58:00 -0500"
-  sha1: "c9c7a3a"
-  line: "update requirements"
+  time: "2014-01-31 02:58:44 -0500"
+  sha1: "f67f5ad"
+  line: "add log to gitignore"
 
 - name: "global_gitfeed_api"
-  time: "2014-01-31 02:57:04 -0500"
-  sha1: "069360e"
+  time: "2014-01-31 02:58:00 -0500"
+  sha1: "c9c7a3a"
   line: "update requirements"
 
 - name: "global_gitfeed_api"

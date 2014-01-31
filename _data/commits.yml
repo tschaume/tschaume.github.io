@@ -1,4 +1,9 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-31 00:21:40 -0500"
+  sha1: "74fc7a5"
+  line: "api.wsgi: update syspath"
+
+- name: "global_gitfeed_api"
   time: "2014-01-31 00:18:59 -0500"
   sha1: "cf37050"
   line: "rm settings.py"

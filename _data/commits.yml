@@ -1,4 +1,24 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-31 04:10:50 -0500"
+  sha1: "6c2592f"
+  line: "start on pre-push hook"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-31 04:02:58 -0500"
+  sha1: "b86c49e"
+  line: "set_admin mv to pymongo"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-31 03:39:54 -0500"
+  sha1: "51a56da"
+  line: "make accounts private"
+
+- name: "global_gitfeed_api"
+  time: "2014-01-31 03:32:28 -0500"
+  sha1: "19fff3f"
+  line: "api: make username unique"
+
+- name: "global_gitfeed_api"
   time: "2014-01-31 02:58:44 -0500"
   sha1: "f67f5ad"
   line: "add log to gitignore"

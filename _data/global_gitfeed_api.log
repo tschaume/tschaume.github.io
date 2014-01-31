@@ -1,3 +1,7 @@
+2014-01-31 04:10:50 -0500#6c2592f#start on pre-push hook#global_gitfeed_api
+2014-01-31 04:02:58 -0500#b86c49e#set_admin mv to pymongo#global_gitfeed_api
+2014-01-31 03:39:54 -0500#51a56da#make accounts private#global_gitfeed_api
+2014-01-31 03:32:28 -0500#19fff3f#api: make username unique#global_gitfeed_api
 2014-01-31 02:58:44 -0500#f67f5ad#add log to gitignore#global_gitfeed_api
 2014-01-31 02:58:00 -0500#c9c7a3a#update requirements#global_gitfeed_api
 2014-01-31 01:29:38 -0500#6ff5cd9#init: add prod SERVER_NAME, MONGO_DBNAME#global_gitfeed_api

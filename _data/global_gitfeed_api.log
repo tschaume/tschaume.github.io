@@ -1,3 +1,4 @@
+2014-01-31 01:29:38 -0500#6ff5cd9#init: add prod SERVER_NAME, MONGO_DBNAME#global_gitfeed_api
 2014-01-31 01:20:52 -0500#ae0d580#api.wsgi: import as application#global_gitfeed_api
 2014-01-31 00:21:40 -0500#74fc7a5#api.wsgi: update syspath#global_gitfeed_api
 2014-01-31 00:18:59 -0500#cf37050#rm settings.py#global_gitfeed_api

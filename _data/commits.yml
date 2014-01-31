@@ -1,4 +1,9 @@
 - name: "global_gitfeed_api"
+  time: "2014-01-31 01:29:38 -0500"
+  sha1: "6ff5cd9"
+  line: "init: add prod SERVER_NAME, MONGO_DBNAME"
+
+- name: "global_gitfeed_api"
   time: "2014-01-31 01:20:52 -0500"
   sha1: "ae0d580"
   line: "api.wsgi: import as application"

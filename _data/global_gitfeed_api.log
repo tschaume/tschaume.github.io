@@ -1,3 +1,5 @@
+2014-01-30 20:33:41 -0500#5cb2f3c#add authorization, public GET#global_gitfeed_api
+2014-01-30 19:50:53 -0500#a024231#settings: add datasource default_sort#global_gitfeed_api
 2014-01-30 15:56:18 -0500#17037f2#add eve_docs#global_gitfeed_api
 2014-01-30 15:55:55 -0500#72f8dbb#initDb: auto reinit, rm logs#global_gitfeed_api
 2014-01-29 19:33:41 -0500#2565e37#initDb working#global_gitfeed_api

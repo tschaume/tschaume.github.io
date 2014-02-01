@@ -1,3 +1,8 @@
+2014-02-01 02:35:48 -0500#f95c307#add stats to db/pre-push#global_gitfeed_api
+2014-02-01 02:21:32 -0500#409068d#add sha1 to gitcommits#global_gitfeed_api
+2014-02-01 02:05:39 -0500#54fc7b5#pre-push: fix repo.iter_commits, author#global_gitfeed_api
+2014-02-01 01:42:28 -0500#82ba8f4#fix datetime#global_gitfeed_api
+2014-02-01 01:30:59 -0500#b7615af#api: fix gitcommits resource bug, datetime#global_gitfeed_api
 2014-01-31 15:53:33 -0500#af0ea78#pre-push: first try to push commits payload#global_gitfeed_api
 2014-01-31 15:14:04 -0500#b6ffec2#pre-push: mv auth into if stmt#global_gitfeed_api
 2014-01-31 15:04:03 -0500#4cfe9cf#pre-push: work on request payload#global_gitfeed_api

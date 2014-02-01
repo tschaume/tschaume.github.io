@@ -1,3 +1,4 @@
+2014-02-01 03:30:15 -0500#61f3039#use env vars to retrieve API creds#global_gitfeed_api
 2014-02-01 03:18:58 -0500#a552894#pre-push: make prod. API default#global_gitfeed_api
 2014-02-01 03:17:14 -0500#ae12808#switch to /usr/bin/env python#global_gitfeed_api
 2014-02-01 02:35:48 -0500#f95c307#add stats to db/pre-push#global_gitfeed_api

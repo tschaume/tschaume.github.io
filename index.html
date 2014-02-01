@@ -3,15 +3,16 @@ layout: default
 title: tschaume's global git activity feed
 ---
 
-<div id="home">
-  <ul class="posts">
-    {% for commit in site.data.commits %}
-    <li>
-    <span>{{ commit.time | date: "%D %R" }}</span> &raquo;
-    {{ commit.line | truncate: 60 }}
-    <span style="float:right;">
-      <b>[{{ commit.name }}]</b> {{ commit.sha1 }}
-    </span>
-    {% endfor %}
-  </ul>
-</div>
+<dl class="dl-horizontal">
+  {% for commit in site.data.commits %}
+  <li class="list-group-item list-hover">
+  <dt>{{ commit.name }}</dt>
+  <dd>
+  {{ commit.line }} <!--| truncate: 60 -->
+  <span style="float:right;">
+    <b>{{ commit.time | date: "%D %R" }}</b>
+    {{ commit.sha1 }}
+  </span>
+  </dd>
+  {% endfor %}
+</dl>

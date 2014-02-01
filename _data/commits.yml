@@ -1,3 +1,8 @@
+- name: "phdthesis"
+  time: "2014-01-31 20:25:26 -0500"
+  sha1: "fc4100e"
+  line: "AbstractQM14: include Joey's comments"
+
 - name: "global_gitfeed_api"
   time: "2014-01-31 15:53:33 -0500"
   sha1: "af0ea78"

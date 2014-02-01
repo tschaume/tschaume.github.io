@@ -32,4 +32,6 @@ git push --no-verify
 # (not necessary if pre-push hook not installed in tschaume.github.io), same:
 # [[ $repo == "tschaume.github.io" ]] && echo "already pushed -> exit" && exit 1
 
+$HOME/gitrepos/public/global_gitfeed_api/pre-push
+
 exit 0

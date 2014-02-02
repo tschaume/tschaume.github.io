@@ -1,3 +1,4 @@
+2014-02-02 02:02:57 -0500#1466f31#rm RotatingFileHandler#global_gitfeed_api
 2014-02-01 18:35:56 -0500#07c1563#add RotatingFileHandler for debug#global_gitfeed_api
 2014-02-01 03:30:15 -0500#61f3039#use env vars to retrieve API creds#global_gitfeed_api
 2014-02-01 03:18:58 -0500#a552894#pre-push: make prod. API default#global_gitfeed_api
